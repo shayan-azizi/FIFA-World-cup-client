@@ -1,0 +1,85 @@
+team_id,team_name,team_code,region_name,team_wikipedia_link
+T-01,Algeria,DZA,Africa,https://en.wikipedia.org/wiki/Algeria_national_football_team
+T-02,Angola,AGO,Africa,https://en.wikipedia.org/wiki/Angola_national_football_team
+T-03,Argentina,ARG,South America,https://en.wikipedia.org/wiki/Argentina_national_football_team
+T-04,Australia,AUS,Oceania,https://en.wikipedia.org/wiki/Australia_men%27s_national_soccer_team
+T-05,Austria,AUT,Europe,https://en.wikipedia.org/wiki/Austria_national_football_team
+T-06,Belgium,BEL,Europe,https://en.wikipedia.org/wiki/Belgium_national_football_team
+T-07,Bolivia,BOL,South America,https://en.wikipedia.org/wiki/Bolivia_national_football_team
+T-08,Bosnia and Herzegovina,BIH,Europe,https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina_national_football_team
+T-09,Brazil,BRA,South America,https://en.wikipedia.org/wiki/Brazil_national_football_team
+T-10,Bulgaria,BGR,Europe,https://en.wikipedia.org/wiki/Bulgaria_national_football_team
+T-11,Cameroon,CMR,Africa,https://en.wikipedia.org/wiki/Cameroon_national_football_team
+T-12,Canada,CAN,North America,https://en.wikipedia.org/wiki/Canada_men%27s_national_soccer_team
+T-13,Chile,CHL,South America,https://en.wikipedia.org/wiki/Chile_national_football_team
+T-14,China,CHN,East Asia,https://en.wikipedia.org/wiki/China_national_football_team
+T-15,Colombia,COL,South America,https://en.wikipedia.org/wiki/Colombia_national_football_team
+T-16,Costa Rica,CRI,Central America,https://en.wikipedia.org/wiki/Costa_Rica_national_football_team
+T-17,Croatia,HRV,Europe,https://en.wikipedia.org/wiki/Croatia_national_football_team
+T-18,Cuba,CUB,Caribbean,https://en.wikipedia.org/wiki/Cuba_national_football_team
+T-19,Czech Republic,CZE,Europe,https://en.wikipedia.org/wiki/Czech_Republic_national_football_team
+T-20,Czechoslovakia,CSK,Europe,https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team
+T-21,Denmark,DNK,Europe,https://en.wikipedia.org/wiki/Denmark_national_football_team
+T-22,Dutch East Indies,IDN,South East Asia,https://en.wikipedia.org/wiki/Indonesia_national_football_team
+T-23,East Germany,DDR,Europe,https://en.wikipedia.org/wiki/East_Germany_national_football_team
+T-24,Ecuador,ECU,South America,https://en.wikipedia.org/wiki/Ecuador_national_football_team
+T-25,Egypt,EGY,Africa,https://en.wikipedia.org/wiki/Egypt_national_football_team
+T-26,El Salvador,SLV,Central America,https://en.wikipedia.org/wiki/El_Salvador_national_football_team
+T-27,England,ENG,Europe,https://en.wikipedia.org/wiki/England_national_football_team
+T-28,France,FRA,Europe,https://en.wikipedia.org/wiki/France_national_football_team
+T-29,Germany,DEU,Europe,https://en.wikipedia.org/wiki/Germany_national_football_team
+T-30,Ghana,GHA,Africa,https://en.wikipedia.org/wiki/Ghana_national_football_team
+T-31,Greece,GRC,Europe,https://en.wikipedia.org/wiki/Greece_national_football_team
+T-32,Haiti,HTI,Caribbean,https://en.wikipedia.org/wiki/Haiti_national_football_team
+T-33,Honduras,HND,Central America,https://en.wikipedia.org/wiki/Honduras_national_football_team
+T-34,Hungary,HUN,Europe,https://en.wikipedia.org/wiki/Hungary_national_football_team
+T-35,Iceland,ISL,Europe,https://en.wikipedia.org/wiki/Iceland_national_football_team
+T-36,Iran,IRN,Middle East,https://en.wikipedia.org/wiki/Iran_national_football_team
+T-37,Iraq,IRQ,Middle East,https://en.wikipedia.org/wiki/Iraq_national_football_team
+T-38,Israel,ISR,Middle East,https://en.wikipedia.org/wiki/Israel_national_football_team
+T-39,Italy,ITA,Europe,https://en.wikipedia.org/wiki/Italy_national_football_team
+T-40,Ivory Coast,CIV,Africa,https://en.wikipedia.org/wiki/Ivory_Coast_national_football_team
+T-41,Jamaica,JAM,Caribbean,https://en.wikipedia.org/wiki/Jamaica_national_football_team
+T-42,Japan,JPN,East Asia,https://en.wikipedia.org/wiki/Japan_national_football_team
+T-43,Kuwait,KWT,Middle East,https://en.wikipedia.org/wiki/Kuwait_national_football_team
+T-44,Mexico,MEX,North America,https://en.wikipedia.org/wiki/Mexico_national_football_team
+T-45,Morocco,MAR,Africa,https://en.wikipedia.org/wiki/Morocco_national_football_team
+T-46,Netherlands,NLD,Europe,https://en.wikipedia.org/wiki/Netherlands_national_football_team
+T-47,New Zealand,NZL,Oceania,https://en.wikipedia.org/wiki/New_Zealand_national_football_team
+T-48,Nigeria,NGA,Africa,https://en.wikipedia.org/wiki/Nigeria_national_football_team
+T-49,North Korea,PRK,East Asia,https://en.wikipedia.org/wiki/North_Korea_national_football_team
+T-50,Northern Ireland,NIR,Europe,https://en.wikipedia.org/wiki/Northern_Ireland_national_football_team
+T-51,Norway,NOR,Europe,https://en.wikipedia.org/wiki/Norway_national_football_team
+T-52,Panama,PAN,Central America,https://en.wikipedia.org/wiki/Panama_national_football_team
+T-53,Paraguay,PRY,South America,https://en.wikipedia.org/wiki/Paraguay_national_football_team
+T-54,Peru,PER,South America,https://en.wikipedia.org/wiki/Peru_national_football_team
+T-55,Poland,POL,Europe,https://en.wikipedia.org/wiki/Poland_national_football_team
+T-56,Portugal,PRT,Europe,https://en.wikipedia.org/wiki/Portugal_national_football_team
+T-57,Republic of Ireland,IRL,Europe,https://en.wikipedia.org/wiki/Republic_of_Ireland_national_football_team
+T-58,Romania,ROU,Europe,https://en.wikipedia.org/wiki/Romania_national_football_team
+T-59,Russia,RUS,Europe. Asia,https://en.wikipedia.org/wiki/Russia_national_football_team
+T-60,Saudi Arabia,SAU,Middle East,https://en.wikipedia.org/wiki/Saudi_Arabia_national_football_team
+T-61,Scotland,SCO,Europe,https://en.wikipedia.org/wiki/Scotland_national_football_team
+T-62,Senegal,SEN,Africa,https://en.wikipedia.org/wiki/Senegal_national_football_team
+T-63,Serbia,SRB,Europe,https://en.wikipedia.org/wiki/Serbia_national_football_team
+T-64,Serbia and Montenegro,SCG,Europe,https://en.wikipedia.org/wiki/Serbia_and_Montenegro_national_football_team
+T-65,Slovakia,SVK,Europe,https://en.wikipedia.org/wiki/Slovakia_national_football_team
+T-66,Slovenia,SVN,Europe,https://en.wikipedia.org/wiki/Slovenia_national_football_team
+T-67,South Africa,ZAF,Africa,https://en.wikipedia.org/wiki/South_Africa_national_soccer_team
+T-68,South Korea,KOR,East Asia,https://en.wikipedia.org/wiki/South_Korea_national_football_team
+T-69,Soviet Union,SUN,Europe. Asia,https://en.wikipedia.org/wiki/Soviet_Union_national_football_team
+T-70,Spain,ESP,Europe,https://en.wikipedia.org/wiki/Spain_national_football_team
+T-71,Sweden,SWE,Europe,https://en.wikipedia.org/wiki/Sweden_national_football_team
+T-72,Switzerland,CHE,Europe,https://en.wikipedia.org/wiki/Switzerland_national_football_team
+T-73,Togo,TGO,Africa,https://en.wikipedia.org/wiki/Togo_national_football_team
+T-74,Trinidad and Tobago,TTO,Caribbean,https://en.wikipedia.org/wiki/Trinidad_and_Tobago_national_football_team
+T-75,Tunisia,TUN,Africa,https://en.wikipedia.org/wiki/Tunisia_national_football_team
+T-76,Turkey,TUR,Europe. Asia,https://en.wikipedia.org/wiki/Turkey_national_football_team
+T-77,Ukraine,UKR,Europe,https://en.wikipedia.org/wiki/Ukraine_national_football_team
+T-78,United Arab Emirates,ARE,Middle East,https://en.wikipedia.org/wiki/United_Arab_Emirates_national_football_team
+T-79,United States,USA,North America,https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team
+T-80,Uruguay,URY,South America,https://en.wikipedia.org/wiki/Uruguay_national_football_team
+T-81,Wales,WAL,Europe,https://en.wikipedia.org/wiki/Wales_national_football_team
+T-82,West Germany,DEU,Europe,https://en.wikipedia.org/wiki/Germany_national_football_team
+T-83,Yugoslavia,YUG,Europe,https://en.wikipedia.org/wiki/Yugoslavia_national_football_team
+T-84,Zaire,COD,Africa,https://en.wikipedia.org/wiki/DR_Congo_national_football_team

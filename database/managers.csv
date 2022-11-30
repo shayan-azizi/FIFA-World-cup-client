@@ -1,0 +1,358 @@
+manager_id,lastname,firstname,country_name,manager_wikipedia_link
+M-001,Acosta,Nelson,Uruguay,https://en.wikipedia.org/wiki/Nelson_Acosta
+M-002,Adshead,John,England,https://en.wikipedia.org/wiki/John_Adshead
+M-003,Advocaat,Dick,Netherlands,https://en.wikipedia.org/wiki/Dick_Advocaat
+M-004,Aguirre,Javier,Mexico,https://en.wikipedia.org/wiki/Javier_Aguirre
+M-005,Al-Gohari,Mahmoud,Egypt,https://en.wikipedia.org/wiki/Mahmoud_Al-Gohari
+M-006,Al-Johar,Nasser,Saudi Arabia,https://en.wikipedia.org/wiki/Nasser_Al-Johar
+M-007,Al-Kharashy,Mohammed,Brazil,https://en.wikipedia.org/wiki/Mohammed_Al-Kharashy
+M-008,Álamos,Luis,Chile,https://en.wikipedia.org/wiki/Luis_%C3%81lamos
+M-009,Andersson,Janne,Sweden,https://en.wikipedia.org/wiki/Janne_Andersson
+M-010,Andreoli,Franco,Switzerland,https://en.wikipedia.org/wiki/Franco_Andreoli
+M-011,Antić,Radomir,Serbia,https://en.wikipedia.org/wiki/Radomir_Anti%C4%87
+M-012,Appiah,James Kwesi,Ghana,https://en.wikipedia.org/wiki/James_Kwesi_Appiah
+M-013,Aragonés,Luis,Spain,https://en.wikipedia.org/wiki/Luis_Aragon%C3%A9s
+M-014,Arena,Bruce,United States,https://en.wikipedia.org/wiki/Bruce_Arena
+M-015,Argauer,Karl,Austria,https://en.wikipedia.org/wiki/Karl_Argauer
+M-016,Arsenijević,Milorad,Yugoslavia,https://en.wikipedia.org/wiki/Milorad_Arsenijevi%C4%87
+M-017,Azkargorta,Xabier,Spain,https://en.wikipedia.org/wiki/Xabier_Azkargorta
+M-018,Baróti,Lajos,Hungary,https://en.wikipedia.org/wiki/Lajos_Bar%C3%B3ti
+M-019,Barreau,Gaston,France,https://en.wikipedia.org/wiki/Gaston_Barreau
+M-020,Basile,Alfio,Argentina,https://en.wikipedia.org/wiki/Alfio_Basile
+M-021,Batteux,Albert,France,https://en.wikipedia.org/wiki/Albert_Batteux
+M-022,Bearzot,Enzo,Italy,https://en.wikipedia.org/wiki/Enzo_Bearzot
+M-023,Beattie,Andy,Scotland,https://en.wikipedia.org/wiki/Andy_Beattie
+M-024,Beckenbauer,Franz,Germany,https://en.wikipedia.org/wiki/Franz_Beckenbauer
+M-025,Beenhakker,Leo,Netherlands,https://en.wikipedia.org/wiki/Leo_Beenhakker
+M-026,Bento,Paulo,Portugal,https://en.wikipedia.org/wiki/Paulo_Bento
+M-027,Bergmark,Orvar,Sweden,https://en.wikipedia.org/wiki/Orvar_Bergmark
+M-028,Beskov,Konstantin,Soviet Union,https://en.wikipedia.org/wiki/Konstantin_Beskov
+M-029,Bielsa,Marcelo,Argentina,https://en.wikipedia.org/wiki/Marcelo_Bielsa
+M-030,Bilardo,Carlos,Argentina,https://en.wikipedia.org/wiki/Carlos_Bilardo
+M-031,Bingham,Billy,Northern Ireland,https://en.wikipedia.org/wiki/Billy_Bingham
+M-032,Blažević,Miroslav,Croatia,https://en.wikipedia.org/wiki/Miroslav_Bla%C5%BEevi%C4%87
+M-033,Blinda,Abdellah,Morocco,https://en.wikipedia.org/wiki/Abdellah_Blinda
+M-034,Blokhin,Oleg,Ukraine,https://en.wikipedia.org/wiki/Oleg_Blokhin
+M-035,Bonev,Hristo,Bulgaria,https://en.wikipedia.org/wiki/Hristo_Bonev
+M-036,Borhy,Karol,Czechoslovakia,https://en.wikipedia.org/wiki/Karol_Borhy
+M-037,Borrás,Omar,Uruguay,https://en.wikipedia.org/wiki/Omar_Borr%C3%A1s
+M-038,Bozhkov,Stefan,Bulgaria,https://en.wikipedia.org/wiki/Stefan_Bozhkov
+M-039,Bradley,Bob,United States,https://en.wikipedia.org/wiki/Bob_Bradley
+M-040,Brown,Craig,Scotland,https://en.wikipedia.org/wiki/Craig_Brown_(footballer_born_1940)
+M-041,Bru,Francisco,Spain,https://en.wikipedia.org/wiki/Francisco_Bru
+M-042,Brückner,Karel,Czech Republic,https://en.wikipedia.org/wiki/Karel_Br%C3%BCckner
+M-043,Buccicardi,Alberto,Chile,https://en.wikipedia.org/wiki/Alberto_Buccicardi
+M-044,Busby,Matt,Scotland,https://en.wikipedia.org/wiki/Matt_Busby
+M-045,Buschner,Georg,East Germany,https://en.wikipedia.org/wiki/Georg_Buschner
+M-046,Butler,Jack,England,https://en.wikipedia.org/wiki/Jack_Butler_(footballer._born_1894)
+M-047,Calderón,Marcos,Peru,https://en.wikipedia.org/wiki/Marcos_Calder%C3%B3n
+M-048,Camacho,José Antonio,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Camacho
+M-049,Cap,Vladislao,Argentina,https://en.wikipedia.org/wiki/Vladislao_Cap
+M-050,Capello,Fabio,Italy,https://en.wikipedia.org/wiki/Fabio_Capello
+M-051,Cárdenas,Raúl,Mexico,https://en.wikipedia.org/wiki/Ra%C3%BAl_C%C3%A1rdenas
+M-052,Carpegiani,Paulo César,Brazil,https://en.wikipedia.org/wiki/Paulo_C%C3%A9sar_Carpegiani
+M-053,Carrasco,Hernán,Chile,https://en.wikipedia.org/wiki/Hern%C3%A1n_Carrasco
+M-054,Caudron,Raoul,France,https://en.wikipedia.org/wiki/Raoul_Caudron
+M-055,Cha,Bum-kun,South Korea,https://en.wikipedia.org/wiki/Cha_Bum-kun
+M-056,Charlton,Jack,England,https://en.wikipedia.org/wiki/Jack_Charlton
+M-057,Cherchesov,Stanislav,Russia,https://en.wikipedia.org/wiki/Stanislav_Cherchesov
+M-058,Chetali,Abdelmajid,Tunisia,https://en.wikipedia.org/wiki/Abdelmajid_Chetali
+M-059,Cissé,Aliou,Senegal,https://en.wikipedia.org/wiki/Aliou_Ciss%C3%A9
+M-060,Clemente,Javier,Spain,https://en.wikipedia.org/wiki/Javier_Clemente
+M-061,Corazzo,Juan Carlos,Uruguay,https://en.wikipedia.org/wiki/Juan_Carlos_Corazzo
+M-062,Costa,Flávio,Brazil,https://en.wikipedia.org/wiki/Fl%C3%A1vio_Costa
+M-063,Coutinho,Cláudio,Brazil,https://en.wikipedia.org/wiki/Cl%C3%A1udio_Coutinho
+M-064,Cúper,Héctor,Argentina,https://en.wikipedia.org/wiki/H%C3%A9ctor_C%C3%BAper
+M-065,Czeizler,Lajos,Hungary,https://en.wikipedia.org/wiki/Lajos_Czeizler
+M-066,Dalić,Zlatko,Croatia,https://en.wikipedia.org/wiki/Zlatko_Dali%C4%87
+M-067,de Carvalho Rodrigues,Píndaro,Brazil,https://en.wikipedia.org/wiki/P%C3%ADndaro_de_Carvalho_Rodrigues
+M-068,de la Paz Herrera,José,Honduras,https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Paz_Herrera
+M-069,de Macedo,Evaristo,Brazil,https://en.wikipedia.org/wiki/Evaristo_de_Macedo
+M-070,del Bosque,Vicente,Spain,https://en.wikipedia.org/wiki/Vicente_del_Bosque
+M-071,Derwall,Jupp,Germany,https://en.wikipedia.org/wiki/Jupp_Derwall
+M-072,Deschamps,Didier,France,https://en.wikipedia.org/wiki/Didier_Deschamps
+M-073,Didi,not applicable,Brazil,https://en.wikipedia.org/wiki/Didi_(footballer._born_1928)
+M-074,Dietz,Károly,Hungary,https://en.wikipedia.org/wiki/K%C3%A1roly_Dietz
+M-075,Doherty,Peter,Northern Ireland,https://en.wikipedia.org/wiki/Peter_Doherty_(footballer)
+M-076,Domenech,Raymond,France,https://en.wikipedia.org/wiki/Raymond_Domenech
+M-077,Dujković,Ratomir,Serbia,https://en.wikipedia.org/wiki/Ratomir_Dujkovi%C4%87
+M-078,Dunga,not applicable,Brazil,https://en.wikipedia.org/wiki/Dunga
+M-079,Durand Laguna,José,Argentina,https://en.wikipedia.org/wiki/Jos%C3%A9_Durand_Laguna
+M-080,Eizaguirre,Guillermo,Spain,https://en.wikipedia.org/wiki/Guillermo_Eizaguirre
+M-081,Engel,Jerzy,Poland,https://en.wikipedia.org/wiki/Jerzy_Engel
+M-082,Ericson,Georg,Sweden,https://en.wikipedia.org/wiki/Georg_Ericson
+M-083,Eriksson,Sven-Göran,Sweden,https://en.wikipedia.org/wiki/Sven-G%C3%B6ran_Eriksson
+M-084,Fabbri,Edmondo,Italy,https://en.wikipedia.org/wiki/Edmondo_Fabbri
+M-085,Faria,José,Brazil,https://en.wikipedia.org/wiki/Jos%C3%A9_Faria
+M-086,Feola,Vicente,Brazil,https://en.wikipedia.org/wiki/Vicente_Feola
+M-087,Ferguson,Alex,Scotland,https://en.wikipedia.org/wiki/Alex_Ferguson
+M-088,Ferrari,Giovanni,Italy,https://en.wikipedia.org/wiki/Giovanni_Ferrari
+M-089,Finke,Volker,Germany,https://en.wikipedia.org/wiki/Volker_Finke
+M-090,Fleitas Solich,Manuel,Paraguay,https://en.wikipedia.org/wiki/Manuel_Fleitas_Solich
+M-091,Foni,Alfredo,Italy,https://en.wikipedia.org/wiki/Alfredo_Foni
+M-092,Gansler,Bob,United States,https://en.wikipedia.org/wiki/Bob_Gansler
+M-093,García,Amadeo,Spain,https://en.wikipedia.org/wiki/Amadeo_Garc%C3%ADa
+M-094,Gareca,Ricardo,Argentina,https://en.wikipedia.org/wiki/Ricardo_Gareca
+M-095,Glendenning,Bob,England,https://en.wikipedia.org/wiki/Bob_Glendenning
+M-096,Glória,Otto,Brazil,https://en.wikipedia.org/wiki/Otto_Gl%C3%B3ria
+M-097,Gmoch,Jacek,Poland,https://en.wikipedia.org/wiki/Jacek_Gmoch
+M-098,Goethals,Raymond,Belgium,https://en.wikipedia.org/wiki/Raymond_Goethals
+M-099,Goetinck,Hector,Belgium,https://en.wikipedia.org/wiki/Hector_Goetinck
+M-100,Gómez,Hernán Darío,Colombia,https://en.wikipedia.org/wiki/Hern%C3%A1n_Dar%C3%ADo_G%C3%B3mez
+M-101,Gonçalves,Oliveira,Angola,https://en.wikipedia.org/wiki/Oliveira_Gon%C3%A7alves
+M-102,González,Aurelio,Paraguay,https://en.wikipedia.org/wiki/Aurelio_Gonz%C3%A1lez_(footballer)
+M-103,Górski,Kazimierz,Poland,https://en.wikipedia.org/wiki/Kazimierz_G%C3%B3rski
+M-104,Gould,David,United States,https://en.wikipedia.org/wiki/David_Gould
+M-105,Greenwood,Ron,England,https://en.wikipedia.org/wiki/Ron_Greenwood
+M-106,Guérin,Henri,France,https://en.wikipedia.org/wiki/Henri_Gu%C3%A9rin_(footballer)
+M-107,Guimarães,Alexandre,Costa Rica,https://en.wikipedia.org/wiki/Alexandre_Guimar%C3%A3es
+M-108,Güneş,Şenol,Turkey,https://en.wikipedia.org/wiki/%C5%9Eenol_G%C3%BCne%C5%9F
+M-109,Halilhodžić,Vahid,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Vahid_Halilhod%C5%BEi%C4%87
+M-110,Hallgrímsson,Heimir,Iceland,https://en.wikipedia.org/wiki/Heimir_Hallgr%C3%ADmsson
+M-111,Halvorsen,Asbjørn,Norway,https://en.wikipedia.org/wiki/Asbj%C3%B8rn_Halvorsen
+M-112,Happel,Ernst,Austria,https://en.wikipedia.org/wiki/Ernst_Happel
+M-113,Hareide,Åge,Norway,https://en.wikipedia.org/wiki/%C3%85ge_Hareide
+M-114,Herberger,Sepp,Germany,https://en.wikipedia.org/wiki/Sepp_Herberger
+M-115,Herbert,Ricki,New Zealand,https://en.wikipedia.org/wiki/Ricki_Herbert
+M-116,Herrera,Helenio,Argentina,https://en.wikipedia.org/wiki/Helenio_Herrera
+M-117,Herrera,Miguel,Mexico,https://en.wikipedia.org/wiki/Miguel_Herrera
+M-118,Hickersberger,Josef,Austria,https://en.wikipedia.org/wiki/Josef_Hickersberger
+M-119,Hidalgo,Michel,France,https://en.wikipedia.org/wiki/Michel_Hidalgo
+M-120,Hiddink,Guus,Netherlands,https://en.wikipedia.org/wiki/Guus_Hiddink
+M-121,Hierro,Fernando,Spain,https://en.wikipedia.org/wiki/Fernando_Hierro
+M-122,Hitzfeld,Ottmar,Germany,https://en.wikipedia.org/wiki/Ottmar_Hitzfeld
+M-123,Hoddle,Glenn,England,https://en.wikipedia.org/wiki/Glenn_Hoddle
+M-124,Hodgson,Roy,England,https://en.wikipedia.org/wiki/Roy_Hodgson
+M-125,Hohberg,Juan,Uruguay,https://en.wikipedia.org/wiki/Juan_Hohberg
+M-126,Hong,Myung-bo,South Korea,https://en.wikipedia.org/wiki/Hong_Myung-bo
+M-127,Huh,Jung-moo,South Korea,https://en.wikipedia.org/wiki/Huh_Jung-moo
+M-128,Iordănescu,Anghel,Romania,https://en.wikipedia.org/wiki/Anghel_Iord%C4%83nescu
+M-129,Ivanković,Branko,Croatia,https://en.wikipedia.org/wiki/Branko_Ivankovi%C4%87
+M-130,Jacquet,Aimé,France,https://en.wikipedia.org/wiki/Aim%C3%A9_Jacquet
+M-131,Janas,Paweł,Poland,https://en.wikipedia.org/wiki/Pawe%C5%82_Janas
+M-132,Jeffrey,William,United States,https://en.wikipedia.org/wiki/William_Jeffrey_(American_soccer)
+M-133,Jenei,Emerich,Romania,https://en.wikipedia.org/wiki/Emerich_Jenei
+M-134,Johansson,Bo,Sweden,https://en.wikipedia.org/wiki/Bo_Johansson
+M-135,Jozić,Mirko,Croatia,https://en.wikipedia.org/wiki/Mirko_Jozi%C4%87
+M-136,Kachalin,Gavriil,Soviet Union,https://en.wikipedia.org/wiki/Gavriil_Kachalin
+M-137,Kałuża,Józef,Poland,https://en.wikipedia.org/wiki/J%C3%B3zef_Ka%C5%82u%C5%BCa
+M-138,Kasperczak,Henryk,Poland,https://en.wikipedia.org/wiki/Henryk_Kasperczak
+M-139,Katanec,Srečko,Slovenia,https://en.wikipedia.org/wiki/Sre%C4%8Dko_Katanec
+M-140,Kek,Matjaž,Slovenia,https://en.wikipedia.org/wiki/Matja%C5%BE_Kek
+M-141,Keshi,Stephen,Nigeria,https://en.wikipedia.org/wiki/Stephen_Keshi
+M-142,Khalef,Mahieddine,Algeria,https://en.wikipedia.org/wiki/Mahieddine_Khalef
+M-143,Kim,Ho,South Korea,https://en.wikipedia.org/wiki/Kim_Ho
+M-144,Kim,Jong-hun,North Korea,https://en.wikipedia.org/wiki/Kim_Jong-hun_(footballer._born_1956)
+M-145,Kim,Jung-nam,South Korea,https://en.wikipedia.org/wiki/Kim_Jung-nam
+M-146,Kim,Yong-sik,South Korea,https://en.wikipedia.org/wiki/Kim_Yong-sik
+M-147,Kimpton,George,England,https://en.wikipedia.org/wiki/Sid_Kimpton
+M-148,Klinsmann,Jürgen,Germany,https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann
+M-149,Kolský,Karel,Czechoslovakia,https://en.wikipedia.org/wiki/Karel_Kolsk%C3%BD
+M-150,Kovač,Niko,Croatia,https://en.wikipedia.org/wiki/Niko_Kova%C4%8D
+M-151,Kranjčar,Zlatko,Croatia,https://en.wikipedia.org/wiki/Zlatko_Kranj%C4%8Dar
+M-152,Krstajić,Mladen,Serbia,https://en.wikipedia.org/wiki/Mladen_Krstaji%C4%87
+M-153,Kubala,Ladislao,Spain,https://en.wikipedia.org/wiki/Ladislao_Kubala
+M-154,Kuhn,Köbi,Switzerland,https://en.wikipedia.org/wiki/K%C3%B6bi_Kuhn
+M-155,La Volpe,Ricardo,Argentina,https://en.wikipedia.org/wiki/Ricardo_La_Volpe
+M-156,Lagerbäck,Lars,Sweden,https://en.wikipedia.org/wiki/Lars_Lagerb%C3%A4ck
+M-157,Lamouchi,Sabri,France,https://en.wikipedia.org/wiki/Sabri_Lamouchi
+M-158,Lapuente,Manuel,Mexico,https://en.wikipedia.org/wiki/Manuel_Lapuente
+M-159,Latzke,Felix,Austria,https://en.wikipedia.org/wiki/Felix_Latzke
+M-160,Lazaroni,Sebastião,Brazil,https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Lazaroni
+M-161,Le Guen,Paul,France,https://en.wikipedia.org/wiki/Paul_Le_Guen
+M-162,Le Roy,Claude,France,https://en.wikipedia.org/wiki/Claude_Le_Roy
+M-163,Lee,Hoe-taik,South Korea,https://en.wikipedia.org/wiki/Lee_Hoe-taik
+M-164,Leekens,Georges,Belgium,https://en.wikipedia.org/wiki/Georges_Leekens
+M-165,Lemerre,Roger,France,https://en.wikipedia.org/wiki/Roger_Lemerre
+M-166,Lippi,Marcello,Italy,https://en.wikipedia.org/wiki/Marcello_Lippi
+M-167,Livingstone,Doug,Scotland,https://en.wikipedia.org/wiki/Doug_Livingstone
+M-168,Lobanovsky,Valeri,Soviet Union,https://en.wikipedia.org/wiki/Valeri_Lobanovsky
+M-169,Lobanovskyi,Valeriy,Soviet Union,https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi
+M-170,López,Juan,Uruguay,https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_Fontana
+M-171,López Herranz,Antonio,Spain,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Herranz
+M-172,Lorenzo,Juan Carlos,Argentina,https://en.wikipedia.org/wiki/Juan_Carlos_Lorenzo
+M-173,Lovrić,Ljubomir,Yugoslavia,https://en.wikipedia.org/wiki/Ljubomir_Lovri%C4%87
+M-174,Löw,Joachim,Germany,https://en.wikipedia.org/wiki/Joachim_L%C3%B6w
+M-175,Luque de Serrallonga,Juan,Mexico,https://en.wikipedia.org/wiki/Juan_Luque_de_Serrallonga
+M-176,Maâloul,Nabil,Tunisia,https://en.wikipedia.org/wiki/Nabil_Ma%C3%A2loul
+M-177,MacLeod,Ally,Scotland,https://en.wikipedia.org/wiki/Ally_MacLeod
+M-178,Maldini,Cesare,Italy,https://en.wikipedia.org/wiki/Cesare_Maldini
+M-179,Maradona,Diego,Argentina,https://en.wikipedia.org/wiki/Diego_Maradona
+M-180,Marko,Jozef,Czechoslovakia,https://en.wikipedia.org/wiki/Jozef_Marko
+M-181,Martínez,Roberto,Spain,https://en.wikipedia.org/wiki/Roberto_Mart%C3%ADnez
+M-182,Martino,Gerardo,Argentina,https://en.wikipedia.org/wiki/Gerardo_Martino
+M-183,Mastenbroek,Johan,Netherlands,https://en.wikipedia.org/wiki/Johannes_Christoffel_Jan_Mastenbroek
+M-184,Maturana,Francisco,Colombia,https://en.wikipedia.org/wiki/Francisco_Maturana
+M-185,Mazza,Paolo,Italy,https://en.wikipedia.org/wiki/Paolo_Mazza
+M-186,McCarthy,Mick,Republic of Ireland,https://en.wikipedia.org/wiki/Mick_McCarthy
+M-187,McCrae,James,Scotland,https://en.wikipedia.org/wiki/James_McCrae_(footballer)
+M-188,Meisl,Hugo,Austria,https://en.wikipedia.org/wiki/Hugo_Meisl
+M-189,Meissner,Josef,Czechoslovakia,https://en.wikipedia.org/wiki/Josef_Meissner
+M-190,Mejía Barón,Miguel,Mexico,https://en.wikipedia.org/wiki/Miguel_Mej%C3%ADa_Bar%C3%B3n
+M-191,Mekhloufi,Rachid,Algeria,https://en.wikipedia.org/wiki/Rachid_Mekhloufi
+M-192,Menotti,César Luis,Argentina,https://en.wikipedia.org/wiki/C%C3%A9sar_Luis_Menotti
+M-193,Mészöly,Kálmán,Hungary,https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_M%C3%A9sz%C3%B6ly
+M-194,Metsu,Bruno,France,https://en.wikipedia.org/wiki/Bruno_Metsu
+M-195,Mezey,György,Hungary,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Mezey
+M-196,Michel,Henri,France,https://en.wikipedia.org/wiki/Henri_Michel
+M-197,Michels,Rinus,Netherlands,https://en.wikipedia.org/wiki/Rinus_Michels
+M-198,Mihajlović,Prvoslav,Yugoslavia,https://en.wikipedia.org/wiki/Prvoslav_Mihajlovi%C4%87
+M-199,Miljanić,Miljan,Yugoslavia,https://en.wikipedia.org/wiki/Miljan_Miljani%C4%87
+M-200,Millar,Robert,Scotland,https://en.wikipedia.org/wiki/Robert_Millar_(soccer)
+M-201,Milutinović,Bora,Yugoslavia,https://en.wikipedia.org/wiki/Bora_Milutinovi%C4%87
+M-202,Mladenov,Hristo,Bulgaria,https://en.wikipedia.org/wiki/Hristo_Mladenov
+M-203,Mohajerani,Heshmat,Iran,https://en.wikipedia.org/wiki/Heshmat_Mohajerani
+M-204,Moreira,Aymoré,Brazil,https://en.wikipedia.org/wiki/Aymor%C3%A9_Moreira
+M-205,Moreira,Zezé,Brazil,https://en.wikipedia.org/wiki/Zez%C3%A9_Moreira
+M-206,Morozov,Nikolai,Soviet Union,https://en.wikipedia.org/wiki/Nikolai_Petrovich_Morozov
+M-207,Müller,Heinrich,Switzerland,https://en.wikipedia.org/wiki/Heinrich_M%C3%BCller_(footballer._born_1888)
+M-208,Muñoz,Miguel,Spain,https://en.wikipedia.org/wiki/Miguel_Mu%C3%B1oz
+M-209,Murphy,Jimmy,Wales,https://en.wikipedia.org/wiki/Jimmy_Murphy_(footballer)
+M-210,Myung,Rye-hyun,North Korea,https://en.wikipedia.org/wiki/Myung_Rye-hyun
+M-211,Nádas,Ödön,Hungary,https://en.wikipedia.org/wiki/%C3%96d%C3%B6n_N%C3%A1das
+M-212,Nagy,József,Hungary,https://en.wikipedia.org/wiki/J%C3%B3zsef_Nagy_(footballer._born_1892)
+M-213,Nausch,Walter,Austria,https://en.wikipedia.org/wiki/Walter_Nausch
+M-214,Nawałka,Adam,Poland,https://en.wikipedia.org/wiki/Adam_Nawa%C5%82ka
+M-215,Nepomnyashchy,Valery,Soviet Union,https://en.wikipedia.org/wiki/Valery_Nepomnyashchy
+M-216,Nerz,Otto,Germany,https://en.wikipedia.org/wiki/Otto_Nerz
+M-217,Niculescu,Angelo,Romania,https://en.wikipedia.org/wiki/Angelo_Niculescu
+M-218,Nishino,Akira,Japan,https://en.wikipedia.org/wiki/Akira_Nishino_(footballer)
+M-219,Nordin,Olle,Sweden,https://en.wikipedia.org/wiki/Olle_Nordin
+M-220,Novo,Ferruccio,Italy,https://en.wikipedia.org/wiki/Ferruccio_Novo
+M-221,Okada,Takeshi,Japan,https://en.wikipedia.org/wiki/Takeshi_Okada
+M-222,Olazar,Francisco,Argentina,https://en.wikipedia.org/wiki/Francisco_Olazar
+M-223,Oliveira,António,Portugal,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Oliveira_(footballer._born_1952)
+M-224,Olsen,Egil,Norway,https://en.wikipedia.org/wiki/Egil_Olsen
+M-225,Olsen,Morten,Denmark,https://en.wikipedia.org/wiki/Morten_Olsen
+M-226,Onigbinde,Festus,Nigeria,https://en.wikipedia.org/wiki/Festus_Onigbinde
+M-227,Ormond,Willie,Scotland,https://en.wikipedia.org/wiki/Willie_Ormond
+M-228,Orth,György,Hungary,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Orth
+M-229,Osim,Ivica,Yugoslavia,https://en.wikipedia.org/wiki/Ivica_Osim
+M-230,Osorio,Juan Carlos,Colombia,https://en.wikipedia.org/wiki/Juan_Carlos_Osorio
+M-231,Pachedzhiev,Georgi,Bulgaria,https://en.wikipedia.org/wiki/Georgi_Pachedzhiev
+M-232,Panagoulias,Alketas,Greece,https://en.wikipedia.org/wiki/Alketas_Panagoulias
+M-233,Paquetá,Marcos,Brazil,https://en.wikipedia.org/wiki/Marcos_Paquet%C3%A1
+M-234,Parreira,Carlos Alberto,Brazil,https://en.wikipedia.org/wiki/Carlos_Alberto_Parreira
+M-235,Pascucci,Felipe,Italy,https://en.wikipedia.org/wiki/Felipe_Pascucci
+M-236,Passarella,Daniel,Argentina,https://en.wikipedia.org/wiki/Daniel_Passarella
+M-237,Pedernera,Adolfo,Argentina,https://en.wikipedia.org/wiki/Adolfo_Pedernera
+M-238,Pékerman,José,Argentina,https://en.wikipedia.org/wiki/Jos%C3%A9_P%C3%A9kerman
+M-239,Penev,Dimitar,Bulgaria,https://en.wikipedia.org/wiki/Dimitar_Penev
+M-240,Petković,Ilija,Serbia and Montenegro,https://en.wikipedia.org/wiki/Ilija_Petkovi%C4%87
+M-241,Petković,Vladimir,Switzerland,https://en.wikipedia.org/wiki/Vladimir_Petkovi%C4%87
+M-242,Petrů,Karel,Czechoslovakia,https://en.wikipedia.org/wiki/Karel_Petr%C5%AF
+M-243,Pettersson,John,Sweden,https://en.wikipedia.org/wiki/John_Pettersson_(football_manager)
+M-244,Pfister,Otto,Germany,https://en.wikipedia.org/wiki/Otto_Pfister
+M-245,Pibarot,Pierre,France,https://en.wikipedia.org/wiki/Pierre_Pibarot
+M-246,Piechniczek,Antoni,Poland,https://en.wikipedia.org/wiki/Antoni_Piechniczek
+M-247,Pimenta,Adhemar,Brazil,https://en.wikipedia.org/wiki/Adhemar_Pimenta
+M-248,Pinto,Jorge Luis,Colombia,https://en.wikipedia.org/wiki/Jorge_Luis_Pinto
+M-249,Piontek,Sepp,Germany,https://en.wikipedia.org/wiki/Sepp_Piontek
+M-250,Pizzi,Juan Antonio,Spain,https://en.wikipedia.org/wiki/Juan_Antonio_Pizzi
+M-251,Porta,Roberto,Uruguay,https://en.wikipedia.org/wiki/Roberto_Porta
+M-252,Postecoglou,Ange,Australia,https://en.wikipedia.org/wiki/Ange_Postecoglou
+M-253,Pozzo,Vittorio,Italy,https://en.wikipedia.org/wiki/Vittorio_Pozzo
+M-254,Prandelli,Cesare,Italy,https://en.wikipedia.org/wiki/Cesare_Prandelli
+M-255,Pretto,Mario,Italy,https://en.wikipedia.org/wiki/Mario_Pretto
+M-256,Prohaska,Herbert,Austria,https://en.wikipedia.org/wiki/Herbert_Prohaska
+M-257,Púa,Víctor,Uruguay,https://en.wikipedia.org/wiki/V%C3%ADctor_P%C3%BAa
+M-258,Puppo,Sandro,Italy,https://en.wikipedia.org/wiki/Sandro_Puppo
+M-259,Queiroz,Carlos,Portugal,https://en.wikipedia.org/wiki/Carlos_Queiroz
+M-260,Rădulescu,Costel,Romania,https://en.wikipedia.org/wiki/Constantin_R%C4%83dulescu_(footballer._born_1896)
+M-261,Rajevac,Milovan,Serbia,https://en.wikipedia.org/wiki/Milovan_Rajevac
+M-262,Ramírez,Óscar,Costa Rica,https://en.wikipedia.org/wiki/%C3%93scar_Ram%C3%ADrez_(footballer._born_1964)
+M-263,Ramsey,Alf,England,https://en.wikipedia.org/wiki/Alf_Ramsey
+M-264,Rappan,Karl,Austria,https://en.wikipedia.org/wiki/Karl_Rappan
+M-265,Rasic,Rale,Yugoslavia,https://en.wikipedia.org/wiki/Rale_Rasic
+M-266,Raynor,George,England,https://en.wikipedia.org/wiki/George_Raynor
+M-267,Ré,Cayetano,Paraguay,https://en.wikipedia.org/wiki/Cayetano_R%C3%A9
+M-268,Rehhagel,Otto,Germany,https://en.wikipedia.org/wiki/Otto_Rehhagel
+M-269,Renard,Hervé,France,https://en.wikipedia.org/wiki/Herv%C3%A9_Renard
+M-270,Riera,Fernando,Chile,https://en.wikipedia.org/wiki/Fernando_Riera
+M-271,Robson,Bobby,England,https://en.wikipedia.org/wiki/Bobby_Robson
+M-272,Roca,José Antonio,Mexico,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Roca
+M-273,Rodríguez,Mauricio,El Salvador,https://en.wikipedia.org/wiki/Mauricio_Alonso_Rodr%C3%ADguez
+M-274,Rohr,Gernot,Germany,https://en.wikipedia.org/wiki/Gernot_Rohr
+M-275,Romantsev,Oleg,Russia,https://en.wikipedia.org/wiki/Oleg_Romantsev
+M-276,Roxburgh,Andy,Scotland,https://en.wikipedia.org/wiki/Andy_Roxburgh
+M-277,Rueda,Reinaldo,Colombia,https://en.wikipedia.org/wiki/Reinaldo_Rueda
+M-278,Ruiz,Aníbal,Uruguay,https://en.wikipedia.org/wiki/An%C3%ADbal_Ruiz
+M-279,Saâdane,Rabah,Algeria,https://en.wikipedia.org/wiki/Rabah_Sa%C3%A2dane
+M-280,Sabella,Alejandro,Argentina,https://en.wikipedia.org/wiki/Alejandro_Sabella
+M-281,Sacchi,Arrigo,Italy,https://en.wikipedia.org/wiki/Arrigo_Sacchi
+M-282,Sadyrin,Pavel,Russia,https://en.wikipedia.org/wiki/Pavel_Sadyrin
+M-283,Sampaoli,Jorge,Argentina,https://en.wikipedia.org/wiki/Jorge_Sampaoli
+M-284,Sampson,Steve,United States,https://en.wikipedia.org/wiki/Steve_Sampson
+M-285,Santamaría,José,Uruguay,https://en.wikipedia.org/wiki/Jos%C3%A9_Santamar%C3%ADa
+M-286,Santana,Telê,Brazil,https://en.wikipedia.org/wiki/Tel%C3%AA_Santana
+M-287,Santibáñez,Luis,Chile,https://en.wikipedia.org/wiki/Luis_Santib%C3%A1%C3%B1ez
+M-288,Santos,Fernando,Portugal,https://en.wikipedia.org/wiki/Fernando_Santos_(Portuguese_footballer)
+M-289,Santrač,Slobodan,Yugoslavia,https://en.wikipedia.org/wiki/Slobodan_Santra%C4%8D
+M-290,Saucedo,Ulises,Bolivia,https://en.wikipedia.org/wiki/Ulises_Saucedo
+M-291,Săvulescu,Alexandru,Romania,https://en.wikipedia.org/wiki/Alexandru_S%C4%83vulescu_(footballer)
+M-292,Schäfer,Winfried,Germany,https://en.wikipedia.org/wiki/Winfried_Sch%C3%A4fer
+M-293,Schaffer,Alfréd,Hungary,https://en.wikipedia.org/wiki/Alfr%C3%A9d_Schaffer
+M-294,Scheffer,Emmanuel,Israel,https://en.wikipedia.org/wiki/Emmanuel_Scheffer
+M-295,Schmidt,Georg,Austria,https://en.wikipedia.org/wiki/Georg_Schmidt_(football_coach)
+M-296,Schön,Helmut,Germany,https://en.wikipedia.org/wiki/Helmut_Sch%C3%B6n
+M-297,Scolari,Luiz Felipe,Brazil,https://en.wikipedia.org/wiki/Luiz_Felipe_Scolari
+M-298,Sebes,Gusztáv,Hungary,https://en.wikipedia.org/wiki/Guszt%C3%A1v_Sebes
+M-299,Selmi,Ali,Poland,https://en.wikipedia.org/wiki/Ali_Selmi
+M-300,Senekowitsch,Helmut,Austria,https://en.wikipedia.org/wiki/Helmut_Senekowitsch
+M-301,Shin,Tae-yong,South Korea,https://en.wikipedia.org/wiki/Shin_Tae-yong
+M-302,Simões,Renê,Brazil,https://en.wikipedia.org/wiki/Ren%C3%AA_Sim%C3%B5es
+M-303,Simonović,Boško,Yugoslavia,https://en.wikipedia.org/wiki/Bo%C5%A1ko_Simonovi%C4%87
+M-304,Söderberg,Tommy,Sweden,https://en.wikipedia.org/wiki/Tommy_S%C3%B6derberg
+M-305,Solari,Jorge,Argentina,https://en.wikipedia.org/wiki/Jorge_Solari
+M-306,Sono,Jomo,South Africa,https://en.wikipedia.org/wiki/Jomo_Sono
+M-307,Souayah,Ammar,Tunisia,https://en.wikipedia.org/wiki/Ammar_Souayah
+M-308,Southgate,Gareth,England,https://en.wikipedia.org/wiki/Gareth_Southgate
+M-309,Stábile,Guillermo,Argentina,https://en.wikipedia.org/wiki/Guillermo_St%C3%A1bile
+M-310,Stein,Jock,Scotland,https://en.wikipedia.org/wiki/Jock_Stein
+M-311,Suárez,Luis,Spain,https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer._born_1935)
+M-312,Suárez,Luis Fernando,Colombia,https://en.wikipedia.org/wiki/Luis_Fernando_Su%C3%A1rez
+M-313,Suppici,Alberto,Uruguay,https://en.wikipedia.org/wiki/Alberto_Suppici
+M-314,Sušić,Safet,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Safet_Su%C5%A1i%C4%87
+M-315,Svensson,Tommy,Sweden,https://en.wikipedia.org/wiki/Tommy_Svensson
+M-316,Tabárez,Óscar,Uruguay,https://en.wikipedia.org/wiki/%C3%93scar_Tab%C3%A1rez
+M-317,Talebi,Jalal,Iran,https://en.wikipedia.org/wiki/Jalal_Talebi
+M-318,Tapia,José,Cuba,https://en.wikipedia.org/wiki/Jos%C3%A9_Tapia
+M-319,Tassy,Antoine,Haiti,https://en.wikipedia.org/wiki/Antoine_Tassy
+M-320,Thys,Guy,Belgium,https://en.wikipedia.org/wiki/Guy_Thys
+M-321,Tim,not applicable,Brazil,https://en.wikipedia.org/wiki/Tim_(footballer)
+M-322,Tirnanić,Aleksandar,Yugoslavia,https://en.wikipedia.org/wiki/Aleksandar_Tirnani%C4%87
+M-323,Tite,not applicable,Brazil,https://en.wikipedia.org/wiki/Tite_(football_manager)
+M-324,Torres,José,Portugal,https://en.wikipedia.org/wiki/Jos%C3%A9_Augusto_Torres
+M-325,Tramutola,Juan José,Argentina,https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Tramutola
+M-326,Trapattoni,Giovanni,Italy,https://en.wikipedia.org/wiki/Giovanni_Trapattoni
+M-327,Tréllez,Ignacio,Mexico,https://en.wikipedia.org/wiki/Ignacio_Tr%C3%A9llez
+M-328,Troussier,Philippe,France,https://en.wikipedia.org/wiki/Philippe_Troussier
+M-329,Uridil,Josef,Romania,https://en.wikipedia.org/wiki/Josef_Uridil
+M-330,Valcareggi,Ferruccio,Italy,https://en.wikipedia.org/wiki/Ferruccio_Valcareggi
+M-331,van Basten,Marco,Netherlands,https://en.wikipedia.org/wiki/Marco_van_Basten
+M-332,van Gaal,Louis,Netherlands,https://en.wikipedia.org/wiki/Louis_van_Gaal
+M-333,Van Himst,Paul,Belgium,https://en.wikipedia.org/wiki/Paul_Van_Himst
+M-334,van Marwijk,Bert,Netherlands,https://en.wikipedia.org/wiki/Bert_van_Marwijk
+M-335,Vengloš,Jozef,Czechoslovakia,https://en.wikipedia.org/wiki/Jozef_Venglo%C5%A1
+M-336,Verbeek,Pim,Netherlands,https://en.wikipedia.org/wiki/Pim_Verbeek
+M-337,Vial,Octavio,Mexico,https://en.wikipedia.org/wiki/Octavio_Vial
+M-338,Vicini,Azeglio,Italy,https://en.wikipedia.org/wiki/Azeglio_Vicini
+M-339,Vidinić,Blagoje,Yugoslavia,https://en.wikipedia.org/wiki/Blagoje_Vidini%C4%87
+M-340,Viera,Ondino,Uruguay,https://en.wikipedia.org/wiki/Ondino_Viera
+M-341,Villalonga,José,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Villalonga_Llorente
+M-342,Vincent,Jean,France,https://en.wikipedia.org/wiki/Jean_Vincent_(footballer)
+M-343,Vinhaes,Luiz,Brazil,https://en.wikipedia.org/wiki/Luiz_Vinhaes
+M-344,Vogts,Berti,Germany,https://en.wikipedia.org/wiki/Berti_Vogts
+M-345,Völler,Rudi,Germany,https://en.wikipedia.org/wiki/Rudi_V%C3%B6ller
+M-346,Vutsov,Ivan,Bulgaria,https://en.wikipedia.org/wiki/Ivan_Vutsov
+M-347,Vytlačil,Rudolf,Czechoslovakia,https://en.wikipedia.org/wiki/Rudolf_Vytla%C4%8Dil
+M-348,Waiters,Tony,England,https://en.wikipedia.org/wiki/Tony_Waiters
+M-349,Walker,Dawson,Scotland,https://en.wikipedia.org/wiki/Dawson_Walker
+M-350,Waseige,Robert,Belgium,https://en.wikipedia.org/wiki/Robert_Waseige
+M-351,Weiss,Vladimír,Slovakia,https://en.wikipedia.org/wiki/Vladim%C3%ADr_Weiss_(footballer._born_1964)
+M-352,Westerhof,Clemens,Netherlands,https://en.wikipedia.org/wiki/Clemens_Westerhof
+M-353,Wilmots,Marc,Belgium,https://en.wikipedia.org/wiki/Marc_Wilmots
+M-354,Winterbottom,Walter,England,https://en.wikipedia.org/wiki/Walter_Winterbottom
+M-355,Zaccheroni,Alberto,Italy,https://en.wikipedia.org/wiki/Alberto_Zaccheroni
+M-356,Zagallo,Mário,Brazil,https://en.wikipedia.org/wiki/M%C3%A1rio_Zagallo
+M-357,Zico,not applicable,Brazil,https://en.wikipedia.org/wiki/Zico_(footballer)

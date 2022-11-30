@@ -1,0 +1,381 @@
+referee_id,lastname,firstname,country_name,referee_wikipedia_link
+R-001,Abdel-Fatah,Essam,Egypt,https://en.wikipedia.org/wiki/Essam_Abd_El_Fatah
+R-002,Adair,John,Northern Ireland,not available
+R-003,Agnolin,Luigi,Italy,https://en.wikipedia.org/wiki/Luigi_Agnolin
+R-004,Aguilar,Joel,El Salvador,https://en.wikipedia.org/wiki/Joel_Aguilar
+R-005,Aguilar Elizalde,Abel,Mexico,not available
+R-006,Ahlner,Sten,Sweden,not available
+R-007,Al-Doy,Ibrahim Youssef,Bahrain,https://en.wikipedia.org/wiki/Ibrahim_Youssef_Al-Doy
+R-008,Al-Ghamdi,Khalil,Saudi Arabia,https://en.wikipedia.org/wiki/Khalil_Al_Ghamdi
+R-009,Al-Ghandour,Gamal,Egypt,https://en.wikipedia.org/wiki/Gamal_Al-Ghandour
+R-010,Al-Shanar,Fallaj,Saudi Arabia,https://en.wikipedia.org/wiki/Fallaj_Al_Shanar
+R-011,Al-Sharif,Jamal,Syria,https://en.wikipedia.org/wiki/Jamal_Al_Sharif
+R-012,Alghoul,Yousef,Libya,https://en.wikipedia.org/wiki/Yousef_Alghoul
+R-013,Amarilla,Carlos,Paraguay,https://en.wikipedia.org/wiki/Carlos_Amarilla
+R-014,Angeles,Arturo,United States,https://en.wikipedia.org/wiki/Arturo_Angeles
+R-015,Angonese,Aurelio,Italy,not available
+R-016,Aquino,Ubaldo,Paraguay,https://en.wikipedia.org/wiki/Ubaldo_Aquino
+R-017,Archundia,Benito,Mexico,https://en.wikipedia.org/wiki/Benito_Archundia
+R-018,Aristizábal,Gilberto,Colombia,https://en.wikipedia.org/wiki/Gilberto_Aristiz%C3%A1bal
+R-019,Arppi Filho,Romualdo,Brazil,https://en.wikipedia.org/wiki/Romualdo_Arppi_Filho
+R-020,Asensi,Manuel,Spain,not available
+R-021,Ashkenazi,Menachem,Israel,https://en.wikipedia.org/wiki/Menachem_Ashkenazi
+R-022,Aston,Kenneth,England,https://en.wikipedia.org/wiki/Ken_Aston
+R-023,Azón Romá,Ramón,Spain,not available
+R-024,Babacan,Doğan,Turkey,https://en.wikipedia.org/wiki/Do%C4%9Fan_Babacan
+R-025,Badilla,Rodrigo,Costa Rica,https://en.wikipedia.org/wiki/Rodrigo_Badilla
+R-026,Baert,Louis,Belgium,https://en.wikipedia.org/wiki/Louis_Baert
+R-027,Baharmast,Esfandiar,United States,https://en.wikipedia.org/wiki/Esfandiar_Baharmast
+R-028,Bahramov,Tofiq,Soviet Union,https://en.wikipedia.org/wiki/Tofiq_Bahramov
+R-029,Baldas,Fabio,Italy,https://en.wikipedia.org/wiki/Fabio_Baldas
+R-030,Baldassi,Héctor,Argentina,https://en.wikipedia.org/wiki/H%C3%A9ctor_Baldassi
+R-031,Balvay,Thomas,France,https://en.wikipedia.org/wiki/Thomas_Balvay
+R-032,Bambridge,Chris,Australia,https://en.wikipedia.org/wiki/Chris_Bambridge
+R-033,Barlassina,Rinaldo,Italy,https://en.wikipedia.org/wiki/Rinaldo_Barlassina
+R-034,Barrancos,Luis,Bolivia,https://en.wikipedia.org/wiki/Luis_Barrancos
+R-035,Barreto Ruíz,Ramón,Uruguay,https://en.wikipedia.org/wiki/Ram%C3%B3n_Barreto
+R-036,Batres,Carlos Alberto,Guatemala,https://en.wikipedia.org/wiki/Carlos_Alberto_Batres
+R-037,Batta,Marc,France,https://en.wikipedia.org/wiki/Marc_Batta
+R-038,Belqola,Said,Morocco,https://en.wikipedia.org/wiki/Said_Belqola
+R-039,Benkö,Günter,Austria,https://en.wikipedia.org/wiki/G%C3%BCnter_Benk%C3%B6
+R-040,Benquerença,Olegário,Portugal,https://en.wikipedia.org/wiki/Oleg%C3%A1rio_Benqueren%C3%A7a
+R-041,Beranek,Alois,Austria,https://en.wikipedia.org/wiki/Alois_Beranek
+R-042,Bin Nasser,Ali,Tunisia,https://en.wikipedia.org/wiki/Ali_Bin_Nasser
+R-043,Birlem,Alfred,Germany,not available
+R-044,Biwersi,Ferdinand,West Germany,https://en.wikipedia.org/wiki/Ferdinand_Biwersi
+R-045,Blavier,Antoine,Belgium,https://en.wikipedia.org/wiki/Antoine_Blavier
+R-046,Boskovic,Tony,Australia,https://en.wikipedia.org/wiki/Tony_Boskovic
+R-047,Bouchardeau,Lucien,Niger,https://en.wikipedia.org/wiki/Lucien_Bouchardeau
+R-048,Bouzo,Farouk,Syria,https://en.wikipedia.org/wiki/Farouk_Bouzo
+R-049,Braun,Eugen,Austria,not available
+R-050,Brizio Carter,Arturo,Mexico,https://en.wikipedia.org/wiki/Arturo_Brizio_Carter
+R-051,Bronkhorst,Jan,Netherlands,not available
+R-052,Brummeier,Horst,Austria,https://en.wikipedia.org/wiki/Horst_Brummeier
+R-053,Brych,Felix,Germany,https://en.wikipedia.org/wiki/Felix_Brych
+R-054,Bujsaim,Ali,United Arab Emirates,https://en.wikipedia.org/wiki/Ali_Bujsaim
+R-055,Busacca,Massimo,Switzerland,https://en.wikipedia.org/wiki/Massimo_Busacca
+R-056,Bustamante,Sergio,Chile,not available
+R-057,Butenko,Valeri,Soviet Union,https://en.wikipedia.org/wiki/Valeri_Butenko
+R-058,Cáceres,Enrique,Paraguay,https://en.wikipedia.org/wiki/Enrique_C%C3%A1ceres
+R-059,Çakır,Cüneyt,Turkey,https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r
+R-060,Callaghan,Leo,Wales,https://en.wikipedia.org/wiki/Leo_Callaghan
+R-061,Campos,Joaquim,Portugal,not available
+R-062,Capdeville,Georges,France,https://en.wikipedia.org/wiki/Georges_Capdeville
+R-063,Cardellino,Juan Daniel,Uruguay,https://en.wikipedia.org/wiki/Juan_Daniel_Cardellino
+R-064,Carraro,Albino,Italy,not available
+R-065,Casarin,Paolo,Italy,https://en.wikipedia.org/wiki/Paolo_Casarin
+R-066,Castrilli,Javier,Argentina,https://en.wikipedia.org/wiki/Javier_Castrilli
+R-067,Castro,Gastón,Chile,https://en.wikipedia.org/wiki/Gast%C3%B3n_Castro
+R-068,Cavani,Filippi,Uruguay,https://en.wikipedia.org/wiki/Filippi_Cavani
+R-069,Chan,Tam Sun,Hong Kong,https://en.wikipedia.org/wiki/Thomson_Chan
+R-070,Christophe,Henri,Belgium,https://en.wikipedia.org/wiki/Henri_Christophe_(referee)
+R-071,Christov,Vojtěch,Czechoslovakia,https://en.wikipedia.org/wiki/Vojt%C4%9Bch_Christov
+R-072,Codesal,Edgardo,Mexico,https://en.wikipedia.org/wiki/Edgardo_Codesal
+R-073,Codesal,José María,Uruguay,not available
+R-074,Codjia,Coffi,Benin,https://en.wikipedia.org/wiki/Coffi_Codjia
+R-075,Coelho,Arnaldo Cézar,Brazil,https://en.wikipedia.org/wiki/Arnaldo_C%C3%A9zar_Coelho
+R-076,Coerezza,Ángel Norberto,Argentina,not available
+R-077,Collina,Pierluigi,Italy,https://en.wikipedia.org/wiki/Pierluigi_Collina
+R-078,Conger,Matthew,New Zealand,https://en.wikipedia.org/wiki/Matthew_Conger
+R-079,Conrié,Roger,France,not available
+R-080,Corver,Charles,Netherlands,https://en.wikipedia.org/wiki/Charles_Corver
+R-081,Coulibaly,Koman,Mali,https://en.wikipedia.org/wiki/Koman_Coulibaly
+R-082,Courtney,George,England,https://en.wikipedia.org/wiki/George_Courtney
+R-083,Cunha,Andrés,Uruguay,https://en.wikipedia.org/wiki/Andr%C3%A9s_Cunha
+R-084,da Costa Vieira,Jose,Portugal,not available
+R-085,Daami,Mourad,Tunisia,https://en.wikipedia.org/wiki/Mourad_Daami
+R-086,Dagnall,Ken,England,https://en.wikipedia.org/wiki/Ken_Dagnall
+R-087,Daina,André,Switzerland,https://en.wikipedia.org/wiki/Andr%C3%A9_Daina
+R-088,Dallas,Hugh,Scotland,https://en.wikipedia.org/wiki/Hugh_Dallas
+R-089,Damon,Jerome,South Africa,https://en.wikipedia.org/wiki/Jerome_Damon
+R-090,Dattilo,Generoso,Italy,not available
+R-091,Davidson,Bobby,Scotland,https://en.wikipedia.org/wiki/Bobby_Davidson
+R-092,de Almeida Rêgo,Gilberto,Brazil,https://en.wikipedia.org/wiki/Gilberto_de_Almeida_R%C3%AAgo
+R-093,De Bleeckere,Frank,Belgium,https://en.wikipedia.org/wiki/Frank_De_Bleeckere
+R-094,De Leo,Diego,Mexico,https://en.wikipedia.org/wiki/Diego_De_Leo
+R-095,Delgado Gómez,Omar,Colombia,not available
+R-096,Díaz,Jesús,Colombia,https://en.wikipedia.org/wiki/Jes%C3%BAs_D%C3%ADaz_(football_referee)
+R-097,Díaz Vega,Manuel,Spain,https://en.wikipedia.org/wiki/Manuel_D%C3%ADaz_Vega
+R-098,Diedhiou,Malang,Senegal,https://en.wikipedia.org/wiki/Malang_Diedhiou
+R-099,Dienst,Gottfried,Switzerland,https://en.wikipedia.org/wiki/Gottfried_Dienst
+R-100,Don,Philip,England,https://en.wikipedia.org/wiki/Philip_Don
+R-101,Dorogi,Andor,Hungary,not available
+R-102,Dotchev,Bogdan,Bulgaria,https://en.wikipedia.org/wiki/Bogdan_Dotchev
+R-103,Doué,Noumandiez,Ivory Coast,https://en.wikipedia.org/wiki/Noumandiez_Dou%C3%A9
+R-104,Dubach,Jean,Switzerland,not available
+R-105,Durkin,Paul,England,https://en.wikipedia.org/wiki/Paul_Durkin
+R-106,Dusch,Albert,West Germany,not available
+R-107,Dwomoh,Benjamin,Ghana,https://en.wikipedia.org/wiki/Benjamin_Dwomoh
+R-108,Eklind,Ivan,Sweden,https://en.wikipedia.org/wiki/Ivan_Eklind
+R-109,Elizondo,Horacio,Argentina,https://en.wikipedia.org/wiki/Horacio_Elizondo
+R-110,Ellis,Arthur Edward,England,https://en.wikipedia.org/wiki/Arthur_Edward_Ellis
+R-111,Eriksson,Arne,Finland,https://en.wikipedia.org/wiki/Arne_Eriksson
+R-112,Eriksson,Jonas,Sweden,https://en.wikipedia.org/wiki/Jonas_Eriksson_(referee)
+R-113,Eriksson,Ulf,Sweden,https://en.wikipedia.org/wiki/Ulf_Eriksson_(referee)
+R-114,Eschweiler,Walter,West Germany,https://en.wikipedia.org/wiki/Walter_Eschweiler
+R-115,Espósito,Carlos,Argentina,https://en.wikipedia.org/wiki/Carlos_Esp%C3%B3sito
+R-116,Etzel Filho,João,Brazil,not available
+R-117,Faghani,Alireza,Iran,https://en.wikipedia.org/wiki/Alireza_Faghani
+R-118,Faultless,Charlie,Scotland,not available
+R-119,Finney,Jim,England,https://en.wikipedia.org/wiki/Jim_Finney
+R-120,Franken,Laurent,Belgium,not available
+R-121,Fredriksson,Erik,Sweden,https://en.wikipedia.org/wiki/Erik_Fredriksson
+R-122,Frisk,Anders,Sweden,https://en.wikipedia.org/wiki/Anders_Frisk
+R-123,Galba,Karol,Czechoslovakia,https://en.wikipedia.org/wiki/Karol_Galba
+R-124,Galeati,Giovanni,Italy,not available
+R-125,Galler,Bruno,Switzerland,https://en.wikipedia.org/wiki/Bruno_Galler
+R-126,Garay Gardeazábal,Juan,Spain,not available
+R-127,García-Aranda,José María,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Garc%C3%ADa-Aranda
+R-128,Gardelli,Mário,Brazil,https://en.wikipedia.org/wiki/M%C3%A1rio_Gardelli
+R-129,Garrido,António,Portugal,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Garrido_(referee)
+R-130,Gassama,Bakary,Gambia,https://en.wikipedia.org/wiki/Bakary_Gassama
+R-131,Geiger,Mark,United States,https://en.wikipedia.org/wiki/Mark_Geiger
+R-132,Glöckner,Rudi,East Germany,https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner
+R-133,Goicoechea,Roberto,Argentina,not available
+R-134,Gonella,Sergio,Italy,https://en.wikipedia.org/wiki/Sergio_Gonella
+R-135,González,Epifanio,Paraguay,https://en.wikipedia.org/wiki/Epifanio_Gonz%C3%A1lez
+R-136,González,Gabriel,Paraguay,https://en.wikipedia.org/wiki/Gabriel_Gonz%C3%A1lez_(referee)
+R-137,González Archundía,Alfonso,Mexico,not available
+R-138,Gordon,John,Scotland,https://en.wikipedia.org/wiki/John_Gordon_(referee)
+R-139,Griffiths,Sandy,Wales,https://en.wikipedia.org/wiki/Sandy_Griffiths
+R-140,Grisha,Gehad,Egypt,https://en.wikipedia.org/wiki/Gehad_Grisha
+R-141,Guerrero Orosco,César,Peru,not available
+R-142,Guezzaz,Mohamed,Morocco,https://en.wikipedia.org/wiki/Mohamed_Guezzaz
+R-143,Guigue,Maurice,France,https://en.wikipedia.org/wiki/Maurice_Guigue
+R-144,Haimoudi,Djamel,Algeria,https://en.wikipedia.org/wiki/Djamel_Haimoudi
+R-145,Hall,Brian,United States,https://en.wikipedia.org/wiki/Brian_Hall_(referee)
+R-146,Hassan Mohamed,Mohammed Abdulla,United Arab Emirates,https://en.wikipedia.org/wiki/Mohammed_Abdulla_Hassan_Mohamed
+R-147,Hauge,Terje,Norway,https://en.wikipedia.org/wiki/Terje_Hauge
+R-148,Hester,Michael,New Zealand,https://en.wikipedia.org/wiki/Michael_Hester
+R-149,Heynemann,Bernd,Germany,https://en.wikipedia.org/wiki/Bernd_Heynemann
+R-150,Hormazábal Díaz,Rafael,Chile,not available
+R-151,Horn,Leo,Netherlands,https://en.wikipedia.org/wiki/Leo_Horn
+R-152,Igna,Ioan,Romania,https://en.wikipedia.org/wiki/Ioan_Igna
+R-153,Irmatov,Ravshan,Uzbekistan,https://en.wikipedia.org/wiki/Ravshan_Irmatov
+R-154,Ithurralde,Arturo,Argentina,https://en.wikipedia.org/wiki/Arturo_Ithurralde
+R-155,Ivanov,Valentin,Russia,https://en.wikipedia.org/wiki/Valentin_Ivanov_(footballer_born_1961)
+R-156,Jácome,Elías,Ecuador,https://en.wikipedia.org/wiki/El%C3%ADas_J%C3%A1come
+R-157,Jarguz,Alojzy,Poland,not available
+R-158,Jonni,Cesare,Italy,https://en.wikipedia.org/wiki/Cesare_Jonni
+R-159,Jørgensen,Carl,Denmark,not available
+R-160,Jouini,Neji,Tunisia,https://en.wikipedia.org/wiki/Neji_Jouini
+R-161,Kamikawa,Toru,Japan,https://en.wikipedia.org/wiki/Toru_Kamikawa
+R-162,Kandil,Ali,United Arab Republic,https://en.wikipedia.org/wiki/Ali_Kandil
+R-163,Karasev,Sergei,Russia,https://en.wikipedia.org/wiki/Sergei_Karasev
+R-164,Karlsson,Bo,Sweden,https://en.wikipedia.org/wiki/Bo_Karlsson
+R-165,Kassai,Viktor,Hungary,https://en.wikipedia.org/wiki/Viktor_Kassai
+R-166,Kazakov,Pavel,Soviet Union,https://en.wikipedia.org/wiki/Pavel_Kazakov
+R-167,Keizer,Jan,Netherlands,https://en.wikipedia.org/wiki/Jan_Keizer_(referee)
+R-168,Kim,Young-joo,South Korea,https://en.wikipedia.org/wiki/Kim_Young-joo
+R-169,Kirschen,Siegfried,East Germany,https://en.wikipedia.org/wiki/Siegfried_Kirschen
+R-170,Klein,Abraham,Israel,https://en.wikipedia.org/wiki/Abraham_Klein_(referee)
+R-171,Kohl,Helmut,Austria,https://en.wikipedia.org/wiki/Helmut_Kohl_(referee)
+R-172,Kreitlein,Rudolf,West Germany,https://en.wikipedia.org/wiki/Rudolf_Kreitlein
+R-173,Krist,Augustin,Czechoslovakia,https://en.wikipedia.org/wiki/Augustin_Krist
+R-174,Krug,Hellmut,Germany,https://en.wikipedia.org/wiki/Hellmut_Krug
+R-175,Kuipers,Björn,Netherlands,https://en.wikipedia.org/wiki/Bj%C3%B6rn_Kuipers
+R-176,Labo Revoredo,Enrique,Peru,https://en.wikipedia.org/wiki/Enrique_Labo_Revoredo
+R-177,Lacarne,Belaïd,Algeria,https://en.wikipedia.org/wiki/Bela%C3%AFd_Lacarne
+R-178,Lamo Castillo,Augusto,Spain,https://en.wikipedia.org/wiki/Augusto_Lamo_Castillo
+R-179,Lamolina,Francisco Oscar,Argentina,https://en.wikipedia.org/wiki/Francisco_Oscar_Lamolina
+R-180,Landauer,Henry,United States,not available
+R-181,Lanese,Tullio,Italy,https://en.wikipedia.org/wiki/Tullio_Lanese
+R-182,Langenus,John,Belgium,https://en.wikipedia.org/wiki/John_Langenus
+R-183,Lannoy,Stéphane,France,https://en.wikipedia.org/wiki/St%C3%A9phane_Lannoy
+R-184,Larrionda,Jorge,Uruguay,https://en.wikipedia.org/wiki/Jorge_Larrionda
+R-185,Leafe,Reginald,England,https://en.wikipedia.org/wiki/Reginald_Leafe
+R-186,Leclerq,Lucien,France,not available
+R-187,Lemesic,Leo,Yugoslavia,https://en.wikipedia.org/wiki/Leo_Lemesic
+R-188,Lennie,Eddie,Australia,https://en.wikipedia.org/wiki/Eddie_Lennie
+R-189,Levnikov,Nikolai,Soviet Union,https://en.wikipedia.org/wiki/Nikolai_Levnikov
+R-190,Lim,Kee Chong,Mauritius,https://en.wikipedia.org/wiki/Lim_Kee_Chong
+R-191,Linemayr,Erich,Austria,https://en.wikipedia.org/wiki/Erich_Linemayr
+R-192,Ling,William,England,https://en.wikipedia.org/wiki/William_Ling_(referee)
+R-193,Llobregat,Vicente,Venezuela,not available
+R-194,Lo Bello,Concetto,Italy,https://en.wikipedia.org/wiki/Concetto_Lo_Bello
+R-195,Lombardi,Domingo,Uruguay,not available
+R-196,Lööw,Bertil,Sweden,not available
+R-197,López Nieto,Antonio,Spain,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Nieto
+R-198,Loraux,Vital,Belgium,not available
+R-199,Loustau,Juan Carlos,Argentina,https://en.wikipedia.org/wiki/Juan_Carlos_Loustau
+R-200,Lu,Jun,China,https://en.wikipedia.org/wiki/Lu_Jun
+R-201,Lund-Sørensen,Henning,Denmark,https://en.wikipedia.org/wiki/Henning_Lund-S%C3%B8rensen
+R-202,Lutz,Jean,Switzerland,not available
+R-203,Machin,Roger,France,https://en.wikipedia.org/wiki/Roger_Machin
+R-204,Macías,José,Argentina,not available
+R-205,Maciel,Carlos,Paraguay,https://en.wikipedia.org/wiki/Carlos_Maciel
+R-206,Macko,Martin,Czechoslovakia,not available
+R-207,Maidin,Shamsul,Singapore,https://en.wikipedia.org/wiki/Shamsul_Maidin
+R-208,Maillet,Eddy,Seychelles,https://en.wikipedia.org/wiki/Eddy_Maillet
+R-209,Maksimović,Dušan,Yugoslavia,not available
+R-210,Malcher,Alberto,Brazil,not available
+R-211,Mane,Saad,Kuwait,https://en.wikipedia.org/wiki/Saad_Mane
+R-212,Marciniak,Szymon,Poland,https://en.wikipedia.org/wiki/Szymon_Marciniak
+R-213,Marino,Esteban,Uruguay,https://en.wikipedia.org/wiki/Esteban_Marino
+R-214,Marques,Armando,Brazil,not available
+R-215,Márquez Ramírez,Antonio,Mexico,https://en.wikipedia.org/wiki/Antonio_M%C3%A1rquez_Ram%C3%ADrez
+R-216,Marrufo,Jair,United States,https://en.wikipedia.org/wiki/Jair_Marrufo
+R-217,Marschall,Ferdinand,Austria,https://en.wikipedia.org/wiki/Ferdinand_Marschall
+R-218,Marsiglia,Renato,Brazil,https://en.wikipedia.org/wiki/Renato_Marsiglia
+R-219,Martínez,Ángel Franco,Spain,not available
+R-220,Martínez Bazán,José Luis,Uruguay,https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Mart%C3%ADnez_Baz%C3%A1n
+R-221,Mateu Lahoz,Antonio,Spain,https://en.wikipedia.org/wiki/Antonio_Mateu_Lahoz
+R-222,Mateucci,Francisco,Uruguay,not available
+R-223,Matovinović,Damir,Yugoslavia,https://en.wikipedia.org/wiki/Damir_Matovinovi%C4%87
+R-224,Mattea,Francesco,Italy,not available
+R-225,Mattus,William,Costa Rica,https://en.wikipedia.org/wiki/William_Mattus
+R-226,Mauro,Vincent,United States,not available
+R-227,Mažić,Milorad,Serbia,https://en.wikipedia.org/wiki/Milorad_Ma%C5%BEi%C4%87
+R-228,McCabe,George,England,https://en.wikipedia.org/wiki/George_McCabe
+R-229,McLeod,Ian,South Africa,https://en.wikipedia.org/wiki/Ian_McLeod_(referee)
+R-230,Medina Cantalejo,Luis,Spain,https://en.wikipedia.org/wiki/Luis_Medina_Cantalejo
+R-231,Meier,Urs,Switzerland,https://en.wikipedia.org/wiki/Urs_Meier
+R-232,Melo Pereira,Vítor,Portugal,https://en.wikipedia.org/wiki/V%C3%ADtor_Melo_Pereira
+R-233,Méndez,Rómulo,Guatemala,https://en.wikipedia.org/wiki/R%C3%B3mulo_M%C3%A9ndez
+R-234,Mercet,René,Switzerland,https://en.wikipedia.org/wiki/Ren%C3%A9_Mercet
+R-235,Merk,Markus,Germany,https://en.wikipedia.org/wiki/Markus_Merk
+R-236,Micheľ,Ľuboš,Slovakia,https://en.wikipedia.org/wiki/%C4%BDubo%C5%A1_Miche%C4%BE
+R-237,Mikkelsen,Peter,Denmark,https://en.wikipedia.org/wiki/Peter_Mikkelsen_(referee)
+R-238,Mitchell,George,Scotland,https://en.wikipedia.org/wiki/George_Mitchell_(referee)
+R-239,Moffat,Malcolm,Northern Ireland,not available
+R-240,Moreno,Byron,Ecuador,https://en.wikipedia.org/wiki/Byron_Moreno
+R-241,Mottram,Leslie,Scotland,https://en.wikipedia.org/wiki/Leslie_Mottram
+R-242,Mowat,Jack,Scotland,https://en.wikipedia.org/wiki/Jack_Mowat
+R-243,Mustafa Kamel,Mahmoud,Egypt,not available
+R-244,N'Diaye,Youssou,Senegal,not available
+R-245,N'Doye,Falla,Senegal,https://en.wikipedia.org/wiki/Falla_N%27Doye
+R-246,Namdar,Jafar,Iran,https://en.wikipedia.org/wiki/Jafar_Namdar
+R-247,Németh,Lajos,Hungary,not available
+R-248,Nielsen,Kim Milton,Denmark,https://en.wikipedia.org/wiki/Kim_Milton_Nielsen
+R-249,Nishimura,Yuichi,Japan,https://en.wikipedia.org/wiki/Yuichi_Nishimura
+R-250,O'Leary,Peter,New Zealand,https://en.wikipedia.org/wiki/Peter_O%27Leary_(referee)
+R-251,Okada,Masayoshi,Japan,https://en.wikipedia.org/wiki/Masayoshi_Okada
+R-252,Orlandini,Vincenzo,Italy,https://en.wikipedia.org/wiki/Vincenzo_Orlandini
+R-253,Ortiz,Héctor,Paraguay,https://en.wikipedia.org/wiki/H%C3%A9ctor_Ortiz_(referee)
+R-254,Ortiz de Mendíbil,José María,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Ortiz_de_Mend%C3%ADbil
+R-255,Ortubé,René,Bolivia,https://en.wikipedia.org/wiki/Ren%C3%A9_Ortub%C3%A9
+R-256,Osses,Enrique,Chile,https://en.wikipedia.org/wiki/Enrique_Osses
+R-257,Pairetto,Pierluigi,Italy,https://en.wikipedia.org/wiki/Pierluigi_Pairetto
+R-258,Palotai,Károly,Hungary,https://en.wikipedia.org/wiki/K%C3%A1roly_Palotai
+R-259,Partridge,Pat,England,https://en.wikipedia.org/wiki/Pat_Partridge
+R-260,Paulino Siles,Luis,Costa Rica,https://en.wikipedia.org/wiki/Luis_Paulino_Siles
+R-261,Pedersen,Rune,Norway,https://en.wikipedia.org/wiki/Rune_Pedersen_(referee)
+R-262,Peréz Núñez,Edison,Peru,not available
+R-263,Pestarino,Luis,Argentina,not available
+R-264,Petrović,Zoran,Yugoslavia,https://en.wikipedia.org/wiki/Zoran_Petrovi%C4%87_(referee)
+R-265,Phillips,Hugh,Scotland,not available
+R-266,Picon-Ackong,Edwin,Mauritius,https://en.wikipedia.org/wiki/Edwin_Picon-Ackong
+R-267,Pitana,Néstor,Argentina,https://en.wikipedia.org/wiki/N%C3%A9stor_Pitana
+R-268,Poll,Graham,England,https://en.wikipedia.org/wiki/Graham_Poll
+R-269,Ponnet,Alexis,Belgium,https://en.wikipedia.org/wiki/Alexis_Ponnet
+R-270,Poulat,Éric,France,https://en.wikipedia.org/wiki/%C3%89ric_Poulat
+R-271,Pozo,Pablo,Chile,https://en.wikipedia.org/wiki/Pablo_Pozo
+R-272,Prendergast,Peter,Jamaica,https://en.wikipedia.org/wiki/Peter_Prendergast_(referee)
+R-273,Proença,Pedro,Portugal,https://en.wikipedia.org/wiki/Pedro_Proen%C3%A7a
+R-274,Prokop,Adolf,East Germany,https://en.wikipedia.org/wiki/Adolf_Prokop
+R-275,Puhl,Sándor,Hungary,https://en.wikipedia.org/wiki/S%C3%A1ndor_Puhl
+R-276,Quiniou,Joël,France,https://en.wikipedia.org/wiki/Jo%C3%ABl_Quiniou
+R-277,Rădulescu,Andrei,Romania,https://en.wikipedia.org/wiki/Andrei_R%C4%83dulescu_(footballer)
+R-278,Rahman Al-Zeid,Abdul,Saudi Arabia,https://en.wikipedia.org/wiki/Abdul_Rahman_Al-Zeid
+R-279,Rainea,Nicolae,Romania,https://en.wikipedia.org/wiki/Nicolae_Rainea
+R-280,Ramdhan,Ramesh,Trinidad and Tobago,https://en.wikipedia.org/wiki/Ramesh_Ramdhan
+R-281,Ramos,César Arturo,Mexico,https://en.wikipedia.org/wiki/C%C3%A9sar_Arturo_Ramos
+R-282,Ramos,Felipe,Mexico,https://en.wikipedia.org/wiki/Felipe_Ramos
+R-283,Reader,George,England,https://en.wikipedia.org/wiki/George_Reader
+R-284,Regis Brozzi,Juan,Argentina,not available
+R-285,Rezende de Freitas,Márcio,Brazil,https://en.wikipedia.org/wiki/M%C3%A1rcio_Rezende_de_Freitas
+R-286,Ribeiro Saldanha,Antonio,Portugal,not available
+R-287,Ricci,Sandro,Brazil,https://en.wikipedia.org/wiki/Sandro_Ricci
+R-288,Rion,Francis,Belgium,not available
+R-289,Rizzoli,Nicola,Italy,https://en.wikipedia.org/wiki/Nicola_Rizzoli
+R-290,Robles,Carlos,Chile,not available
+R-291,Rocchi,Gianluca,Italy,https://en.wikipedia.org/wiki/Gianluca_Rocchi
+R-292,Rodríguez,Marco Antonio,Mexico,https://en.wikipedia.org/wiki/Marco_Antonio_Rodr%C3%ADguez
+R-293,Roldán,Wilmar,Colombia,https://en.wikipedia.org/wiki/Wilmar_Rold%C3%A1n
+R-294,Rosetti,Roberto,Italy,https://en.wikipedia.org/wiki/Roberto_Rosetti
+R-295,Roth,Volker,West Germany,https://en.wikipedia.org/wiki/Volker_Roth
+R-296,Röthlisberger,Kurt,Switzerland,https://en.wikipedia.org/wiki/Kurt_R%C3%B6thlisberger
+R-297,Ruiz,Óscar,Colombia,https://en.wikipedia.org/wiki/%C3%93scar_Ruiz
+R-298,Rumenchev,Dimitar,Bulgaria,not available
+R-299,Sánchez,Ángel,Argentina,https://en.wikipedia.org/wiki/%C3%81ngel_S%C3%A1nchez_(referee)
+R-300,Sánchez Arminio,Victoriano,Spain,not available
+R-301,Sánchez Ibáñez,Pablo,Spain,not available
+R-302,Sánchez Yantén,Mario,Chile,https://en.wikipedia.org/wiki/Mario_S%C3%A1nchez_Yant%C3%A9n
+R-303,Saucedo,Ulises,Bolivia,https://en.wikipedia.org/wiki/Ulises_Saucedo
+R-304,Sbardella,Antonio,Italy,https://en.wikipedia.org/wiki/Antonio_Sbardella
+R-305,Scarpi,Giuseppe,Italy,not available
+R-306,Scheurer,Rudolf,Switzerland,https://en.wikipedia.org/wiki/Rudolf_Scheurer
+R-307,Schmetzer,Emil,West Germany,not available
+R-308,Schmidhuber,Aron,West Germany,https://en.wikipedia.org/wiki/Aron_Schmidhuber
+R-309,Schulenburg,Gerhard,West Germany,not available
+R-310,Schwinte,Pierre,France,not available
+R-311,Seipelt,Fritz,Austria,not available
+R-312,Shield,Mark,Australia,https://en.wikipedia.org/wiki/Mark_Shield
+R-313,Shukralla,Nawaf,Bahrain,https://en.wikipedia.org/wiki/Nawaf_Shukralla
+R-314,Sikazwe,Janny,Zambia,https://en.wikipedia.org/wiki/Janny_Sikazwe
+R-315,Silva,Hernán,Chile,https://en.wikipedia.org/wiki/Hern%C3%A1n_Silva
+R-316,Silva Valente,Carlos,Portugal,https://en.wikipedia.org/wiki/Carlos_Silva_Valente
+R-317,Silvagno Cavanna,Juan,Chile,not available
+R-318,Simon,Carlos Eugênio,Brazil,https://en.wikipedia.org/wiki/Carlos_Eug%C3%AAnio_Simon
+R-319,Skomina,Damir,Slovenia,https://en.wikipedia.org/wiki/Damir_Skomina
+R-320,Smith,George,Scotland,https://en.wikipedia.org/wiki/George_Smith_(referee)
+R-321,Snoddy,Alan,Northern Ireland,https://en.wikipedia.org/wiki/Alan_Snoddy
+R-322,Socha,David,United States,https://en.wikipedia.org/wiki/David_Socha
+R-323,Soriano Aladrén,Emilio,Spain,https://en.wikipedia.org/wiki/Emilio_Soriano_Aladr%C3%A9n
+R-324,Spirin,Alexey,Soviet Union,https://en.wikipedia.org/wiki/Alexey_Spirin
+R-325,Stark,Wolfgang,Germany,https://en.wikipedia.org/wiki/Wolfgang_Stark
+R-326,Stefanovic,Vasa,Yugoslavia,not available
+R-327,Steiner,Carl Erich,Austria,not available
+R-328,Stupar,Myroslav,Soviet Union,https://en.wikipedia.org/wiki/Myroslav_Stupar
+R-329,Suppiah,Govindasamy,Singapore,https://en.wikipedia.org/wiki/Govindasamy_Suppiah
+R-330,Takada,Shizuo,Japan,https://en.wikipedia.org/wiki/Shizuo_Takada
+R-331,Tarekegn,Seyoum,Ethiopia,not available
+R-332,Taylor,Jack,England,https://en.wikipedia.org/wiki/Jack_Taylor_(referee)
+R-333,Tejada,Aníbal,Uruguay,not available
+R-334,Tejada Noriega,Alberto,Peru,https://en.wikipedia.org/wiki/Alberto_Tejada_Noriega
+R-335,Tesanić,Branko,Yugoslavia,not available
+R-336,Thomas,Clive,Wales,https://en.wikipedia.org/wiki/Clive_Thomas_(football)
+R-337,Toro Rendón,John,Colombia,https://en.wikipedia.org/wiki/John_Toro_Rend%C3%B3n
+R-338,Torres Cadena,José,Colombia,https://en.wikipedia.org/wiki/Jos%C3%A9_Torres_Cadena
+R-339,Traoré,Idrissa,Mali,https://en.wikipedia.org/wiki/Idrissa_Traor%C3%A9_(referee)
+R-340,Tschenscher,Kurt,West Germany,https://en.wikipedia.org/wiki/Kurt_Tschenscher
+R-341,Turpin,Clément,France,https://en.wikipedia.org/wiki/Cl%C3%A9ment_Turpin
+R-342,Ulloa Morera,Berny,Costa Rica,https://en.wikipedia.org/wiki/Berny_Ulloa_Morera
+R-343,Un-prasert,Pirom,Thailand,https://en.wikipedia.org/wiki/Pirom_Un-prasert
+R-344,Undiano Mallenco,Alberto,Spain,https://en.wikipedia.org/wiki/Alberto_Undiano_Mallenco
+R-345,Vágner,László,Hungary,https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_V%C3%A1gner
+R-346,Valentine,Bob,Scotland,https://en.wikipedia.org/wiki/Bob_Valentine_(referee)
+R-347,Vallarino,Ricardo,Uruguay,not available
+R-348,van der Ende,Mario,Netherlands,https://en.wikipedia.org/wiki/Mario_van_der_Ende
+R-349,van der Meer,Karel,Netherlands,not available
+R-350,van Gemert,Arie,Netherlands,not available
+R-351,van Langenhove,Marcel,Belgium,https://en.wikipedia.org/wiki/Marcel_van_Langenhove_(referee)
+R-352,van Moorsel,Johannes,Netherlands,not available
+R-353,van Nuffel,Lucien,Belgium,not available
+R-354,van Ravens,Laurens,Netherlands,https://en.wikipedia.org/wiki/Laurens_van_Ravens
+R-355,Vassaras,Kyros,Greece,https://en.wikipedia.org/wiki/Kyros_Vassaras
+R-356,Vautrot,Michel,France,https://en.wikipedia.org/wiki/Michel_Vautrot
+R-357,Vázquez,Mario Rubio,Mexico,not available
+R-358,Veissière,Gilles,France,https://en.wikipedia.org/wiki/Gilles_Veissi%C3%A8re
+R-359,Velasco Carballo,Carlos,Spain,https://en.wikipedia.org/wiki/Carlos_Velasco_Carballo
+R-360,Vera,Carlos,Ecuador,https://en.wikipedia.org/wiki/Carlos_Vera
+R-361,Vianna,Mário,Brazil,not available
+R-362,Vieira de Moraes,Ayrton,Brazil,not available
+R-363,Vincenti,Raymond,France,not available
+R-364,von Hertzka,Pál,Hungary,not available
+R-365,Warnken,Alberto,Chile,not available
+R-366,Webb,Howard,England,https://en.wikipedia.org/wiki/Howard_Webb
+R-367,Wegereef,Jan,Netherlands,https://en.wikipedia.org/wiki/Jan_Wegereef
+R-368,Weyland,Hans-Joachim,West Germany,not available
+R-369,White,Clive,England,https://en.wikipedia.org/wiki/Clive_White
+R-370,Williams,Ben,Australia,https://en.wikipedia.org/wiki/Ben_Williams_(referee)
+R-371,Winsemann,Werner,Canada,https://en.wikipedia.org/wiki/Werner_Winsemann
+R-372,Wöhrer,Franz,Austria,https://en.wikipedia.org/wiki/Franz_W%C3%B6hrer
+R-373,Wójcik,Ryszard,Poland,https://en.wikipedia.org/wiki/Ryszard_W%C3%B3jcik
+R-374,Wright,José Roberto,Brazil,https://en.wikipedia.org/wiki/Jos%C3%A9_Roberto_Wright
+R-375,Wurtz,Robert,France,https://en.wikipedia.org/wiki/Robert_Wurtz_(referee)
+R-376,Wüthrich,Hans,Switzerland,https://en.wikipedia.org/wiki/Hans_Wuthrich
+R-377,Wyssling,Raymond,Switzerland,not available
+R-378,Yamasaki Maldonado,Arturo,Peru,https://en.wikipedia.org/wiki/Arturo_Yamasaki
+R-379,Zečević,Konstantin,Yugoslavia,not available
+R-380,Zsolt,István,Hungary,https://en.wikipedia.org/wiki/Istv%C3%A1n_Zsolt

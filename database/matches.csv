@@ -1,0 +1,901 @@
+match_id,match_name,tournament_id,tournament_name,stage_name,group_name,group_stage,knockout_stage,match_date,match_time,stadium_id,stadium_name,city_name,country_name,home_team_id,away_team_id,score,home_team_score,away_team_score,extra_time,penalty_shootout,score_penalties,home_team_score_penalties,away_team_score_penalties,result,home_team_win,away_team_win,draw
+M-1930-01,France v Mexico,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-13,15:00,S-185,Estadio Pocitos,Montevideo,Uruguay,T-28,T-44,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-02,United States v Belgium,WC-1930,1930 FIFA World Cup,group stage,Group 4,1,0,1930-07-13,15:00,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-79,T-06,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-03,Yugoslavia v Brazil,WC-1930,1930 FIFA World Cup,group stage,Group 2,1,0,1930-07-14,12:45,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-83,T-09,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-04,Romania v Peru,WC-1930,1930 FIFA World Cup,group stage,Group 3,1,0,1930-07-14,14:50,S-185,Estadio Pocitos,Montevideo,Uruguay,T-58,T-54,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-05,Argentina v France,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-15,16:00,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-03,T-28,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-06,Chile v Mexico,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-16,14:45,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-13,T-44,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-07,Yugoslavia v Bolivia,WC-1930,1930 FIFA World Cup,group stage,Group 2,1,0,1930-07-17,12:45,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-83,T-07,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-08,United States v Paraguay,WC-1930,1930 FIFA World Cup,group stage,Group 4,1,0,1930-07-17,14:45,S-184,Estadio Gran Parque Central,Montevideo,Uruguay,T-79,T-53,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-09,Uruguay v Peru,WC-1930,1930 FIFA World Cup,group stage,Group 3,1,0,1930-07-18,14:30,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,T-54,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-10,Chile v France,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-19,12:50,S-183,Estadio Centenario,Montevideo,Uruguay,T-13,T-28,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-11,Argentina v Mexico,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-19,15:00,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,T-44,6–3,6,3,0,0,0-0,0,0,home team win,1,0,0
+M-1930-12,Brazil v Bolivia,WC-1930,1930 FIFA World Cup,group stage,Group 2,1,0,1930-07-20,13:00,S-183,Estadio Centenario,Montevideo,Uruguay,T-09,T-07,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-13,Paraguay v Belgium,WC-1930,1930 FIFA World Cup,group stage,Group 4,1,0,1930-07-20,15:00,S-183,Estadio Centenario,Montevideo,Uruguay,T-53,T-06,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-14,Uruguay v Romania,WC-1930,1930 FIFA World Cup,group stage,Group 3,1,0,1930-07-21,14:50,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,T-58,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1930-15,Argentina v Chile,WC-1930,1930 FIFA World Cup,group stage,Group 1,1,0,1930-07-22,14:45,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,T-13,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-16,Argentina v United States,WC-1930,1930 FIFA World Cup,semi-finals,not applicable,0,1,1930-07-26,14:45,S-183,Estadio Centenario,Montevideo,Uruguay,T-03,T-79,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-17,Uruguay v Yugoslavia,WC-1930,1930 FIFA World Cup,semi-finals,not applicable,0,1,1930-07-27,14:45,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,T-83,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1930-18,Uruguay v Argentina,WC-1930,1930 FIFA World Cup,final,not applicable,0,1,1930-07-30,14:15,S-183,Estadio Centenario,Montevideo,Uruguay,T-80,T-03,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-01,Austria v France,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-081,Stadio Benito Mussolini,Turin,Italy,T-05,T-28,3–2,3,2,1,0,0-0,0,0,home team win,1,0,0
+M-1934-02,Czechoslovakia v Romania,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-080,Stadio Littorio,Trieste,Italy,T-20,T-58,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-03,Germany v Belgium,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-072,Stadio Giovanni Berta,Florence,Italy,T-29,T-06,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-04,Hungary v Egypt,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-075,Stadio Giorgio Ascarelli,Naples,Italy,T-34,T-25,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-05,Italy v United States,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-078,Stadio Nazionale PNF,Rome,Italy,T-39,T-79,7–1,7,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-06,Spain v Brazil,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-70,T-09,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-07,Sweden v Argentina,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-71,T-03,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-08,Switzerland v Netherlands,WC-1934,1934 FIFA World Cup,round of 16,not applicable,0,1,1934-05-27,16:00,S-074,San Siro,Milan,Italy,T-72,T-46,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-09,Austria v Hungary,WC-1934,1934 FIFA World Cup,quarter-finals,not applicable,0,1,1934-05-31,16:30,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-05,T-34,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-10,Czechoslovakia v Switzerland,WC-1934,1934 FIFA World Cup,quarter-finals,not applicable,0,1,1934-05-31,16:30,S-081,Stadio Benito Mussolini,Turin,Italy,T-20,T-72,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-11,Germany v Sweden,WC-1934,1934 FIFA World Cup,quarter-finals,not applicable,0,1,1934-05-31,16:30,S-074,San Siro,Milan,Italy,T-29,T-71,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-12,Italy v Spain,WC-1934,1934 FIFA World Cup,quarter-finals,not applicable,0,1,1934-05-31,16:30,S-072,Stadio Giovanni Berta,Florence,Italy,T-39,T-70,1–1,1,1,1,0,0-0,0,0,draw,0,0,1
+M-1934-13,Italy v Spain,WC-1934,1934 FIFA World Cup,quarter-finals,not applicable,0,1,1934-06-01,16:30,S-072,Stadio Giovanni Berta,Florence,Italy,T-39,T-70,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1934-14,Czechoslovakia v Germany,WC-1934,1934 FIFA World Cup,semi-finals,not applicable,0,1,1934-06-03,16:30,S-078,Stadio Nazionale PNF,Rome,Italy,T-20,T-29,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1934-15,Italy v Austria,WC-1934,1934 FIFA World Cup,semi-finals,not applicable,0,1,1934-06-03,16:30,S-074,San Siro,Milan,Italy,T-39,T-05,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1934-16,Germany v Austria,WC-1934,1934 FIFA World Cup,third-place match,not applicable,0,1,1934-06-07,18:00,S-075,Stadio Giorgio Ascarelli,Naples,Italy,T-29,T-05,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1934-17,Italy v Czechoslovakia,WC-1934,1934 FIFA World Cup,final,not applicable,0,1,1934-06-10,17:00,S-078,Stadio Nazionale PNF,Rome,Italy,T-39,T-20,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-1938-01,Switzerland v Germany,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-04,17:00,S-045,Parc des Princes,Paris,France,T-72,T-29,1–1,1,1,1,0,0-0,0,0,draw,0,0,1
+M-1938-02,Cuba v Romania,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,17:00,S-052,Stade du T.O.E.C.,Toulouse,France,T-18,T-58,3–3,3,3,1,0,0-0,0,0,draw,0,0,1
+M-1938-03,France v Belgium,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,17:00,S-046,Stade Olympique de Colombes,Paris,France,T-28,T-06,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-04,Hungary v Dutch East Indies,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,17:00,S-047,Vélodrome Municipal,Reims,France,T-34,T-22,6–0,6,0,0,0,0-0,0,0,home team win,1,0,0
+M-1938-05,Italy v Norway,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,17:00,S-042,Stade Vélodrome,Marseille,France,T-39,T-51,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-1938-06,Brazil v Poland,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,17:30,S-050,Stade de la Meinau,Strasbourg,France,T-09,T-55,6–5,6,5,1,0,0-0,0,0,home team win,1,0,0
+M-1938-07,Czechoslovakia v Netherlands,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-05,18:30,S-038,Stade Jules Deschaseaux,Le Havre,France,T-20,T-46,3–0,3,0,1,0,0-0,0,0,home team win,1,0,0
+M-1938-08,Cuba v Romania,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-09,18:00,S-052,Stade du T.O.E.C.,Toulouse,France,T-18,T-58,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-09,Switzerland v Germany,WC-1938,1938 FIFA World Cup,round of 16,not applicable,0,1,1938-06-09,18:00,S-045,Parc des Princes,Paris,France,T-72,T-29,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1938-10,Brazil v Czechoslovakia,WC-1938,1938 FIFA World Cup,quarter-finals,not applicable,0,1,1938-06-12,17:00,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,T-20,1–1,1,1,1,0,0-0,0,0,draw,0,0,1
+M-1938-11,Hungary v Switzerland,WC-1938,1938 FIFA World Cup,quarter-finals,not applicable,0,1,1938-06-12,17:00,S-040,Stade Victor Boucquey,Lille,France,T-34,T-72,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1938-12,Italy v France,WC-1938,1938 FIFA World Cup,quarter-finals,not applicable,0,1,1938-06-12,17:00,S-046,Stade Olympique de Colombes,Paris,France,T-39,T-28,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-13,Sweden v Cuba,WC-1938,1938 FIFA World Cup,quarter-finals,not applicable,0,1,1938-06-12,17:00,S-036,Stade du Fort Carré,Antibes,France,T-71,T-18,8–0,8,0,0,0,0-0,0,0,home team win,1,0,0
+M-1938-14,Brazil v Czechoslovakia,WC-1938,1938 FIFA World Cup,quarter-finals,not applicable,0,1,1938-06-14,18:00,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,T-20,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-15,Hungary v Sweden,WC-1938,1938 FIFA World Cup,semi-finals,not applicable,0,1,1938-06-16,18:00,S-045,Parc des Princes,Paris,France,T-34,T-71,5–1,5,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-16,Italy v Brazil,WC-1938,1938 FIFA World Cup,semi-finals,not applicable,0,1,1938-06-16,18:00,S-042,Stade Vélodrome,Marseille,France,T-39,T-09,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1938-17,Brazil v Sweden,WC-1938,1938 FIFA World Cup,third-place match,not applicable,0,1,1938-06-19,17:00,S-037,Stade du Parc Lescure,Bordeaux,France,T-09,T-71,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1938-18,Italy v Hungary,WC-1938,1938 FIFA World Cup,final,not applicable,0,1,1938-06-19,17:00,S-046,Stade Olympique de Colombes,Paris,France,T-39,T-34,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1950-01,Brazil v Mexico,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-06-24,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,T-44,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-02,Yugoslavia v Switzerland,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-06-25,15:00,S-007,Estádio Independência,Belo Horizonte,Brazil,T-83,T-72,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-03,England v Chile,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-06-25,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-27,T-13,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-04,Spain v United States,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-06-25,15:00,S-012,Estádio Vila Capanema,Curitiba,Brazil,T-70,T-79,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-05,Sweden v Italy,WC-1950,1950 FIFA World Cup,group stage,Group 3,1,0,1950-06-25,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-71,T-39,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1950-06,Brazil v Switzerland,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-06-28,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-09,T-72,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1950-07,Yugoslavia v Mexico,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-06-28,15:00,S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil,T-83,T-44,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-08,Spain v Chile,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-06-29,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,T-13,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-09,United States v England,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-06-29,15:00,S-007,Estádio Independência,Belo Horizonte,Brazil,T-79,T-27,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-10,Sweden v Paraguay,WC-1950,1950 FIFA World Cup,group stage,Group 3,1,0,1950-06-29,15:30,S-012,Estádio Vila Capanema,Curitiba,Brazil,T-71,T-53,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1950-11,Brazil v Yugoslavia,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-07-01,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,T-83,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-12,Chile v United States,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-07-02,15:00,S-019,Estádio Ilha do Retiro,Recife,Brazil,T-13,T-79,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1950-13,Spain v England,WC-1950,1950 FIFA World Cup,group stage,Group 2,1,0,1950-07-02,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,T-27,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-14,Italy v Paraguay,WC-1950,1950 FIFA World Cup,group stage,Group 3,1,0,1950-07-02,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-39,T-53,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-15,Uruguay v Bolivia,WC-1950,1950 FIFA World Cup,group stage,Group 4,1,0,1950-07-02,15:00,S-007,Estádio Independência,Belo Horizonte,Brazil,T-80,T-07,8–0,8,0,0,0,0-0,0,0,home team win,1,0,0
+M-1950-16,Switzerland v Mexico,WC-1950,1950 FIFA World Cup,group stage,Group 1,1,0,1950-07-02,15:40,S-017,Estádio dos Eucaliptos,Porto Alegre,Brazil,T-72,T-44,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-17,Brazil v Sweden,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-09,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,T-71,7–1,7,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-18,Uruguay v Spain,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-09,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-80,T-70,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1950-19,Brazil v Spain,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-13,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-09,T-70,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-20,Uruguay v Sweden,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-13,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-80,T-71,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1950-21,Sweden v Spain,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-16,15:00,S-023,Estádio do Pacaembu,São Paulo,Brazil,T-71,T-70,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1950-22,Uruguay v Brazil,WC-1950,1950 FIFA World Cup,final round,not applicable,1,0,1950-07-16,15:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-80,T-09,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-01,Brazil v Mexico,WC-1954,1954 FIFA World Cup,group stage,Group 1,1,0,1954-06-16,18:00,S-170,Charmilles Stadium,Geneva,Switzerland,T-09,T-44,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-02,Yugoslavia v France,WC-1954,1954 FIFA World Cup,group stage,Group 1,1,0,1954-06-16,18:00,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-83,T-28,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-03,Austria v Scotland,WC-1954,1954 FIFA World Cup,group stage,Group 3,1,0,1954-06-16,18:00,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,T-61,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-04,Uruguay v Czechoslovakia,WC-1954,1954 FIFA World Cup,group stage,Group 3,1,0,1954-06-16,18:00,S-169,Wankdorf Stadium,Bern,Switzerland,T-80,T-20,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-05,Switzerland v Italy,WC-1954,1954 FIFA World Cup,group stage,Group 4,1,0,1954-06-17,17:50,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-72,T-39,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-06,Hungary v South Korea,WC-1954,1954 FIFA World Cup,group stage,Group 2,1,0,1954-06-17,18:00,S-173,Hardturm Stadium,Zürich,Switzerland,T-34,T-68,9–0,9,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-07,West Germany v Turkey,WC-1954,1954 FIFA World Cup,group stage,Group 2,1,0,1954-06-17,18:00,S-169,Wankdorf Stadium,Bern,Switzerland,T-82,T-76,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-08,England v Belgium,WC-1954,1954 FIFA World Cup,group stage,Group 4,1,0,1954-06-17,18:10,S-168,St. Jakob Stadium,Basel,Switzerland,T-27,T-06,4–4,4,4,1,0,0-0,0,0,draw,0,0,1
+M-1954-09,Uruguay v Scotland,WC-1954,1954 FIFA World Cup,group stage,Group 3,1,0,1954-06-19,16:50,S-168,St. Jakob Stadium,Basel,Switzerland,T-80,T-61,7–0,7,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-10,Brazil v Yugoslavia,WC-1954,1954 FIFA World Cup,group stage,Group 1,1,0,1954-06-19,17:00,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-09,T-83,1–1,1,1,1,0,0-0,0,0,draw,0,0,1
+M-1954-11,Austria v Czechoslovakia,WC-1954,1954 FIFA World Cup,group stage,Group 3,1,0,1954-06-19,17:00,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,T-20,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-12,France v Mexico,WC-1954,1954 FIFA World Cup,group stage,Group 1,1,0,1954-06-19,17:10,S-170,Charmilles Stadium,Geneva,Switzerland,T-28,T-44,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1954-13,Hungary v West Germany,WC-1954,1954 FIFA World Cup,group stage,Group 2,1,0,1954-06-20,16:50,S-168,St. Jakob Stadium,Basel,Switzerland,T-34,T-82,8–3,8,3,0,0,0-0,0,0,home team win,1,0,0
+M-1954-14,Turkey v South Korea,WC-1954,1954 FIFA World Cup,group stage,Group 2,1,0,1954-06-20,17:00,S-170,Charmilles Stadium,Geneva,Switzerland,T-76,T-68,7–0,7,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-15,Italy v Belgium,WC-1954,1954 FIFA World Cup,group stage,Group 4,1,0,1954-06-20,17:00,S-172,Cornaredo Stadium,Lugano,Switzerland,T-39,T-06,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-16,England v Switzerland,WC-1954,1954 FIFA World Cup,group stage,Group 4,1,0,1954-06-20,17:10,S-169,Wankdorf Stadium,Bern,Switzerland,T-27,T-72,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-17,West Germany v Turkey,WC-1954,1954 FIFA World Cup,group stage,Group 2,1,0,1954-06-23,18:00,S-173,Hardturm Stadium,Zürich,Switzerland,T-82,T-76,7–2,7,2,0,0,0-0,0,0,home team win,1,0,0
+M-1954-18,Switzerland v Italy,WC-1954,1954 FIFA World Cup,group stage,Group 4,1,0,1954-06-23,18:00,S-168,St. Jakob Stadium,Basel,Switzerland,T-72,T-39,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-19,Austria v Switzerland,WC-1954,1954 FIFA World Cup,quarter-finals,not applicable,0,1,1954-06-26,17:00,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-05,T-72,7–5,7,5,0,0,0-0,0,0,home team win,1,0,0
+M-1954-20,Uruguay v England,WC-1954,1954 FIFA World Cup,quarter-finals,not applicable,0,1,1954-06-26,17:00,S-168,St. Jakob Stadium,Basel,Switzerland,T-80,T-27,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1954-21,Hungary v Brazil,WC-1954,1954 FIFA World Cup,quarter-finals,not applicable,0,1,1954-06-27,17:00,S-169,Wankdorf Stadium,Bern,Switzerland,T-34,T-09,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1954-22,West Germany v Yugoslavia,WC-1954,1954 FIFA World Cup,quarter-finals,not applicable,0,1,1954-06-27,17:00,S-170,Charmilles Stadium,Geneva,Switzerland,T-82,T-83,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1954-23,Hungary v Uruguay,WC-1954,1954 FIFA World Cup,semi-finals,not applicable,0,1,1954-06-30,18:00,S-171,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-34,T-80,4–2,4,2,1,0,0-0,0,0,home team win,1,0,0
+M-1954-24,West Germany v Austria,WC-1954,1954 FIFA World Cup,semi-finals,not applicable,0,1,1954-06-30,18:00,S-168,St. Jakob Stadium,Basel,Switzerland,T-82,T-05,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-25,Austria v Uruguay,WC-1954,1954 FIFA World Cup,third-place match,not applicable,0,1,1954-07-03,17:00,S-173,Hardturm Stadium,Zürich,Switzerland,T-05,T-80,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1954-26,West Germany v Hungary,WC-1954,1954 FIFA World Cup,final,not applicable,0,1,1954-07-04,17:00,S-169,Wankdorf Stadium,Bern,Switzerland,T-82,T-34,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1958-01,Sweden v Mexico,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-08,14:00,S-165,Råsunda Stadium,Solna,Sweden,T-71,T-44,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-02,Argentina v West Germany,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-08,19:00,S-161,Malmö Stadion,Malmö,Sweden,T-03,T-82,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1958-03,Northern Ireland v Czechoslovakia,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-08,19:00,S-159,Örjans Vall,Halmstad,Sweden,T-50,T-20,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-04,France v Paraguay,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-08,19:00,S-162,Idrottsparken,Norrköping,Sweden,T-28,T-53,7–3,7,3,0,0,0-0,0,0,home team win,1,0,0
+M-1958-05,Yugoslavia v Scotland,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-08,19:00,S-167,Arosvallen,Västerås,Sweden,T-83,T-61,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1958-06,Hungary v Wales,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-08,19:00,S-164,Jernvallen,Sandviken,Sweden,T-34,T-81,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1958-07,Brazil v Austria,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-08,19:00,S-166,Rimnersvallen,Uddevalla,Sweden,T-09,T-05,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-08,Soviet Union v England,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-08,19:00,S-158,Ullevi,Gothenburg,Sweden,T-69,T-27,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1958-09,Argentina v Northern Ireland,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-11,19:00,S-159,Örjans Vall,Halmstad,Sweden,T-03,T-50,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-10,West Germany v Czechoslovakia,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-11,19:00,S-160,Olympia,Helsingborg,Sweden,T-82,T-20,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1958-11,Paraguay v Scotland,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-11,19:00,S-162,Idrottsparken,Norrköping,Sweden,T-53,T-61,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1958-12,Yugoslavia v France,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-11,19:00,S-167,Arosvallen,Västerås,Sweden,T-83,T-28,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1958-13,Mexico v Wales,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-11,19:00,S-165,Råsunda Stadium,Solna,Sweden,T-44,T-81,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1958-14,Brazil v England,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-11,19:00,S-158,Ullevi,Gothenburg,Sweden,T-09,T-27,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1958-15,Soviet Union v Austria,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-11,19:00,S-156,Ryavallen,Borås,Sweden,T-69,T-05,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-16,Sweden v Hungary,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-12,19:00,S-165,Råsunda Stadium,Solna,Sweden,T-71,T-34,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-17,Sweden v Wales,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-15,14:00,S-165,Råsunda Stadium,Solna,Sweden,T-71,T-81,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1958-18,Czechoslovakia v Argentina,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-15,19:00,S-160,Olympia,Helsingborg,Sweden,T-20,T-03,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-19,West Germany v Northern Ireland,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-15,19:00,S-161,Malmö Stadion,Malmö,Sweden,T-82,T-50,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1958-20,France v Scotland,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-15,19:00,S-163,Eyravallen,Örebro,Sweden,T-28,T-61,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-21,Paraguay v Yugoslavia,WC-1958,1958 FIFA World Cup,group stage,Group 2,1,0,1958-06-15,19:00,S-157,Tunavallen,Eskilstuna,Sweden,T-53,T-83,3–3,3,3,0,0,0-0,0,0,draw,0,0,1
+M-1958-22,Hungary v Mexico,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-15,19:00,S-164,Jernvallen,Sandviken,Sweden,T-34,T-44,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-23,Brazil v Soviet Union,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-15,19:00,S-158,Ullevi,Gothenburg,Sweden,T-09,T-69,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-24,England v Austria,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-15,19:00,S-156,Ryavallen,Borås,Sweden,T-27,T-05,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1958-25,Northern Ireland v Czechoslovakia,WC-1958,1958 FIFA World Cup,group stage,Group 1,1,0,1958-06-17,19:00,S-161,Malmö Stadion,Malmö,Sweden,T-50,T-20,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-1958-26,Wales v Hungary,WC-1958,1958 FIFA World Cup,group stage,Group 3,1,0,1958-06-17,19:00,S-165,Råsunda Stadium,Solna,Sweden,T-81,T-34,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-27,Soviet Union v England,WC-1958,1958 FIFA World Cup,group stage,Group 4,1,0,1958-06-17,19:00,S-158,Ullevi,Gothenburg,Sweden,T-69,T-27,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-28,Brazil v Wales,WC-1958,1958 FIFA World Cup,quarter-finals,not applicable,0,1,1958-06-19,19:00,S-158,Ullevi,Gothenburg,Sweden,T-09,T-81,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-29,France v Northern Ireland,WC-1958,1958 FIFA World Cup,quarter-finals,not applicable,0,1,1958-06-19,19:00,S-162,Idrottsparken,Norrköping,Sweden,T-28,T-50,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-30,Sweden v Soviet Union,WC-1958,1958 FIFA World Cup,quarter-finals,not applicable,0,1,1958-06-19,19:00,S-165,Råsunda Stadium,Solna,Sweden,T-71,T-69,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-31,West Germany v Yugoslavia,WC-1958,1958 FIFA World Cup,quarter-finals,not applicable,0,1,1958-06-19,19:00,S-161,Malmö Stadion,Malmö,Sweden,T-82,T-83,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1958-32,Brazil v France,WC-1958,1958 FIFA World Cup,semi-finals,not applicable,0,1,1958-06-24,19:00,S-165,Råsunda Stadium,Solna,Sweden,T-09,T-28,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1958-33,Sweden v West Germany,WC-1958,1958 FIFA World Cup,semi-finals,not applicable,0,1,1958-06-24,19:00,S-158,Ullevi,Gothenburg,Sweden,T-71,T-82,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1958-34,France v West Germany,WC-1958,1958 FIFA World Cup,third-place match,not applicable,0,1,1958-06-28,17:00,S-158,Ullevi,Gothenburg,Sweden,T-28,T-82,6–3,6,3,0,0,0-0,0,0,home team win,1,0,0
+M-1958-35,Brazil v Sweden,WC-1958,1958 FIFA World Cup,final,not applicable,0,1,1958-06-29,15:00,S-165,Råsunda Stadium,Solna,Sweden,T-09,T-71,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1962-01,Uruguay v Colombia,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-05-30,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-80,T-15,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-02,Chile v Switzerland,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-05-30,15:00,S-026,Estadio Nacional,Santiago,Chile,T-13,T-72,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-03,Brazil v Mexico,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-05-30,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,T-44,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-04,Argentina v Bulgaria,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-05-30,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-03,T-10,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-05,Soviet Union v Yugoslavia,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-05-31,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,T-83,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-06,West Germany v Italy,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-05-31,15:00,S-026,Estadio Nacional,Santiago,Chile,T-82,T-39,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1962-07,Czechoslovakia v Spain,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-05-31,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-20,T-70,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-08,Hungary v England,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-05-31,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-34,T-27,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-09,Yugoslavia v Uruguay,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-06-02,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-83,T-80,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-10,Chile v Italy,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-06-02,15:00,S-026,Estadio Nacional,Santiago,Chile,T-13,T-39,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-11,Brazil v Czechoslovakia,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-06-02,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,T-20,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1962-12,England v Argentina,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-06-02,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-27,T-03,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-13,Soviet Union v Colombia,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-06-03,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,T-15,4–4,4,4,0,0,0-0,0,0,draw,0,0,1
+M-1962-14,West Germany v Switzerland,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-06-03,15:00,S-026,Estadio Nacional,Santiago,Chile,T-82,T-72,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-15,Spain v Mexico,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-06-03,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-70,T-44,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-16,Hungary v Bulgaria,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-06-03,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-34,T-10,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-17,Soviet Union v Uruguay,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-06-06,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-69,T-80,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-18,West Germany v Chile,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-06-06,15:00,S-026,Estadio Nacional,Santiago,Chile,T-82,T-13,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-19,Brazil v Spain,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-06-06,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-20,Hungary v Argentina,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-06-06,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-34,T-03,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1962-21,Yugoslavia v Colombia,WC-1962,1962 FIFA World Cup,group stage,Group 1,1,0,1962-06-07,15:00,S-024,Estadio Carlos Dittborn,Arica,Chile,T-83,T-15,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-22,Italy v Switzerland,WC-1962,1962 FIFA World Cup,group stage,Group 2,1,0,1962-06-07,15:00,S-026,Estadio Nacional,Santiago,Chile,T-39,T-72,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-23,Mexico v Czechoslovakia,WC-1962,1962 FIFA World Cup,group stage,Group 3,1,0,1962-06-07,15:00,S-027,Estadio Sausalito,Viña del Mar,Chile,T-44,T-20,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-24,England v Bulgaria,WC-1962,1962 FIFA World Cup,group stage,Group 4,1,0,1962-06-07,15:00,S-025,Estadio El Teniente,Rancagua,Chile,T-27,T-10,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1962-25,Brazil v England,WC-1962,1962 FIFA World Cup,quarter-finals,not applicable,0,1,1962-06-10,14:30,S-027,Estadio Sausalito,Viña del Mar,Chile,T-09,T-27,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-26,Chile v Soviet Union,WC-1962,1962 FIFA World Cup,quarter-finals,not applicable,0,1,1962-06-10,14:30,S-024,Estadio Carlos Dittborn,Arica,Chile,T-13,T-69,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-27,Czechoslovakia v Hungary,WC-1962,1962 FIFA World Cup,quarter-finals,not applicable,0,1,1962-06-10,14:30,S-025,Estadio El Teniente,Rancagua,Chile,T-20,T-34,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-28,Yugoslavia v West Germany,WC-1962,1962 FIFA World Cup,quarter-finals,not applicable,0,1,1962-06-10,14:30,S-026,Estadio Nacional,Santiago,Chile,T-83,T-82,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-29,Brazil v Chile,WC-1962,1962 FIFA World Cup,semi-finals,not applicable,0,1,1962-06-13,14:30,S-026,Estadio Nacional,Santiago,Chile,T-09,T-13,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1962-30,Czechoslovakia v Yugoslavia,WC-1962,1962 FIFA World Cup,semi-finals,not applicable,0,1,1962-06-13,14:30,S-027,Estadio Sausalito,Viña del Mar,Chile,T-20,T-83,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1962-31,Chile v Yugoslavia,WC-1962,1962 FIFA World Cup,third-place match,not applicable,0,1,1962-06-16,14:30,S-026,Estadio Nacional,Santiago,Chile,T-13,T-83,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1962-32,Brazil v Czechoslovakia,WC-1962,1962 FIFA World Cup,final,not applicable,0,1,1962-06-17,14:30,S-026,Estadio Nacional,Santiago,Chile,T-09,T-20,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-01,England v Uruguay,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-11,19:30,S-030,Wembley Stadium,London,England,T-27,T-80,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1966-02,West Germany v Switzerland,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-12,19:30,S-034,Hillsborough Stadium,Sheffield,England,T-82,T-72,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-03,Brazil v Bulgaria,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-12,19:30,S-029,Goodison Park,Liverpool,England,T-09,T-10,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-04,Soviet Union v North Korea,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-12,19:30,S-033,Ayresome Park,Middlesbrough,England,T-69,T-49,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-05,France v Mexico,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-13,19:30,S-030,Wembley Stadium,London,England,T-28,T-44,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1966-06,Argentina v Spain,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-13,19:30,S-028,Villa Park,Birmingham,England,T-03,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-07,Portugal v Hungary,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-13,19:30,S-032,Old Trafford,Manchester,England,T-56,T-34,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-08,Italy v Chile,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-13,19:30,S-035,Roker Park,Sunderland,England,T-39,T-13,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-09,Uruguay v France,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-15,19:30,S-031,White City Stadium,London,England,T-80,T-28,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-10,Spain v Switzerland,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-15,19:30,S-034,Hillsborough Stadium,Sheffield,England,T-70,T-72,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-11,Hungary v Brazil,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-15,19:30,S-029,Goodison Park,Liverpool,England,T-34,T-09,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-12,Chile v North Korea,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-15,19:30,S-033,Ayresome Park,Middlesbrough,England,T-13,T-49,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1966-13,Argentina v West Germany,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-16,15:00,S-028,Villa Park,Birmingham,England,T-03,T-82,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1966-14,Portugal v Bulgaria,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-16,15:00,S-032,Old Trafford,Manchester,England,T-56,T-10,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-15,Soviet Union v Italy,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-16,15:00,S-035,Roker Park,Sunderland,England,T-69,T-39,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-16,England v Mexico,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-16,19:30,S-030,Wembley Stadium,London,England,T-27,T-44,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-17,Mexico v Uruguay,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-19,16:30,S-030,Wembley Stadium,London,England,T-44,T-80,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1966-18,Argentina v Switzerland,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-19,19:30,S-034,Hillsborough Stadium,Sheffield,England,T-03,T-72,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-19,Portugal v Brazil,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-19,19:30,S-029,Goodison Park,Liverpool,England,T-56,T-09,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-20,North Korea v Italy,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-19,19:30,S-033,Ayresome Park,Middlesbrough,England,T-49,T-39,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-21,England v France,WC-1966,1966 FIFA World Cup,group stage,Group 1,1,0,1966-07-20,19:30,S-030,Wembley Stadium,London,England,T-27,T-28,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-22,West Germany v Spain,WC-1966,1966 FIFA World Cup,group stage,Group 2,1,0,1966-07-20,19:30,S-028,Villa Park,Birmingham,England,T-82,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-23,Hungary v Bulgaria,WC-1966,1966 FIFA World Cup,group stage,Group 3,1,0,1966-07-20,19:30,S-032,Old Trafford,Manchester,England,T-34,T-10,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-24,Soviet Union v Chile,WC-1966,1966 FIFA World Cup,group stage,Group 4,1,0,1966-07-20,19:30,S-035,Roker Park,Sunderland,England,T-69,T-13,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-25,England v Argentina,WC-1966,1966 FIFA World Cup,quarter-finals,not applicable,0,1,1966-07-23,15:00,S-030,Wembley Stadium,London,England,T-27,T-03,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-26,Portugal v North Korea,WC-1966,1966 FIFA World Cup,quarter-finals,not applicable,0,1,1966-07-23,15:00,S-029,Goodison Park,Liverpool,England,T-56,T-49,5–3,5,3,0,0,0-0,0,0,home team win,1,0,0
+M-1966-27,Soviet Union v Hungary,WC-1966,1966 FIFA World Cup,quarter-finals,not applicable,0,1,1966-07-23,15:00,S-035,Roker Park,Sunderland,England,T-69,T-34,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-28,West Germany v Uruguay,WC-1966,1966 FIFA World Cup,quarter-finals,not applicable,0,1,1966-07-23,15:00,S-034,Hillsborough Stadium,Sheffield,England,T-82,T-80,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1966-29,West Germany v Soviet Union,WC-1966,1966 FIFA World Cup,semi-finals,not applicable,0,1,1966-07-25,19:30,S-029,Goodison Park,Liverpool,England,T-82,T-69,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-30,England v Portugal,WC-1966,1966 FIFA World Cup,semi-finals,not applicable,0,1,1966-07-26,19:30,S-030,Wembley Stadium,London,England,T-27,T-56,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-31,Portugal v Soviet Union,WC-1966,1966 FIFA World Cup,third-place match,not applicable,0,1,1966-07-28,19:30,S-030,Wembley Stadium,London,England,T-56,T-69,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1966-32,England v West Germany,WC-1966,1966 FIFA World Cup,final,not applicable,0,1,1966-07-30,15:00,S-030,Wembley Stadium,London,England,T-27,T-82,4–2,4,2,1,0,0-0,0,0,home team win,1,0,0
+M-1970-01,Mexico v Soviet Union,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-05-31,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-44,T-69,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1970-02,Uruguay v Israel,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-02,16:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-80,T-38,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-03,England v Romania,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-02,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-27,T-58,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-04,Peru v Bulgaria,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-02,16:00,S-098,Estadio Nou Camp,León,Mexico,T-54,T-10,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1970-05,Belgium v El Salvador,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-06-03,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-06,T-26,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-06,Italy v Sweden,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-03,16:00,S-106,La Bombonera,Toluca,Mexico,T-39,T-71,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-07,Brazil v Czechoslovakia,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-03,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-20,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-08,West Germany v Morocco,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-03,16:00,S-098,Estadio Nou Camp,León,Mexico,T-82,T-45,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-09,Soviet Union v Belgium,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-06-06,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-69,T-06,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-10,Uruguay v Italy,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-06,16:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-80,T-39,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1970-11,Romania v Czechoslovakia,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-06,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-58,T-20,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-12,Peru v Morocco,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-06,16:00,S-098,Estadio Nou Camp,León,Mexico,T-54,T-45,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-13,Mexico v El Salvador,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-06-07,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-44,T-26,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-14,Sweden v Israel,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-07,12:00,S-106,La Bombonera,Toluca,Mexico,T-71,T-38,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1970-15,Brazil v England,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-07,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-27,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-16,West Germany v Bulgaria,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-07,12:00,S-098,Estadio Nou Camp,León,Mexico,T-82,T-10,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1970-17,Soviet Union v El Salvador,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-06-10,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-69,T-26,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-18,Sweden v Uruguay,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-10,16:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-71,T-80,1-0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-19,Brazil v Romania,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-10,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-58,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1970-20,West Germany v Peru,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-10,16:00,S-098,Estadio Nou Camp,León,Mexico,T-82,T-54,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-21,Mexico v Belgium,WC-1970,1970 FIFA World Cup,group stage,Group 1,1,0,1970-06-11,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-44,T-06,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-22,Italy v Israel,WC-1970,1970 FIFA World Cup,group stage,Group 2,1,0,1970-06-11,16:00,S-106,La Bombonera,Toluca,Mexico,T-39,T-38,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1970-23,England v Czechoslovakia,WC-1970,1970 FIFA World Cup,group stage,Group 3,1,0,1970-06-11,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-27,T-20,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-24,Bulgaria v Morocco,WC-1970,1970 FIFA World Cup,group stage,Group 4,1,0,1970-06-11,16:00,S-098,Estadio Nou Camp,León,Mexico,T-10,T-45,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1970-25,Brazil v Peru,WC-1970,1970 FIFA World Cup,quarter-finals,not applicable,0,1,1970-06-14,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-54,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1970-26,Italy v Mexico,WC-1970,1970 FIFA World Cup,quarter-finals,not applicable,0,1,1970-06-14,12:00,S-106,La Bombonera,Toluca,Mexico,T-39,T-44,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-27,Soviet Union v Uruguay,WC-1970,1970 FIFA World Cup,quarter-finals,not applicable,0,1,1970-06-14,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-69,T-80,0–1,0,1,1,0,0-0,0,0,away team win,0,1,0
+M-1970-28,West Germany v England,WC-1970,1970 FIFA World Cup,quarter-finals,not applicable,0,1,1970-06-14,12:00,S-098,Estadio Nou Camp,León,Mexico,T-82,T-27,3–2,3,2,1,0,0-0,0,0,home team win,1,0,0
+M-1970-29,Brazil v Uruguay,WC-1970,1970 FIFA World Cup,semi-finals,not applicable,0,1,1970-06-17,16:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-80,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1970-30,Italy v West Germany,WC-1970,1970 FIFA World Cup,semi-finals,not applicable,0,1,1970-06-17,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-39,T-82,4–3,4,3,1,0,0-0,0,0,home team win,1,0,0
+M-1970-31,West Germany v Uruguay,WC-1970,1970 FIFA World Cup,third-place match,not applicable,0,1,1970-06-20,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-82,T-80,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1970-32,Brazil v Italy,WC-1970,1970 FIFA World Cup,final,not applicable,0,1,1970-06-21,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-09,T-39,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-01,Brazil v Yugoslavia,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-13,17:00,S-057,Waldstadion,Frankfurt,Germany,T-09,T-83,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1974-02,West Germany v Chile,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-14,16:00,S-053,Olympiastadion,Berlin,Germany,T-82,T-13,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-03,East Germany v Australia,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-14,19:30,S-060,Volksparkstadion,Hamburg,Germany,T-23,T-04,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-04,Zaire v Scotland,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-14,19:30,S-055,Westfalenstadion,Dortmund,Germany,T-84,T-61,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1974-05,Sweden v Bulgaria,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-15,16:00,S-056,Rheinstadion,Düsseldorf,Germany,T-71,T-10,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1974-06,Uruguay v Netherlands,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-15,16:00,S-061,Niedersachsenstadion,Hanover,Germany,T-80,T-46,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1974-07,Italy v Haiti,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-15,18:00,S-065,Olympiastadion,Munich,Germany,T-39,T-32,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-08,Poland v Argentina,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-15,18:00,S-067,Neckarstadion,Stuttgart,Germany,T-55,T-03,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1974-09,Australia v West Germany,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-18,16:00,S-060,Volksparkstadion,Hamburg,Germany,T-04,T-82,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1974-10,Chile v East Germany,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-18,19:00,S-053,Olympiastadion,Berlin,Germany,T-13,T-23,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1974-11,Scotland v Brazil,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-18,19:30,S-057,Waldstadion,Frankfurt,Germany,T-61,T-09,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1974-12,Yugoslavia v Zaire,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-18,19:30,S-059,Parkstadion,Gelsenkirchen,Germany,T-83,T-84,9–0,9,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-13,Bulgaria v Uruguay,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-19,19:30,S-061,Niedersachsenstadion,Hanover,Germany,T-10,T-80,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1974-14,Netherlands v Sweden,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-19,19:30,S-055,Westfalenstadion,Dortmund,Germany,T-46,T-71,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1974-15,Argentina v Italy,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-19,19:30,S-067,Neckarstadion,Stuttgart,Germany,T-03,T-39,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1974-16,Haiti v Poland,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-19,19:30,S-065,Olympiastadion,Munich,Germany,T-32,T-55,0–7,0,7,0,0,0-0,0,0,away team win,0,1,0
+M-1974-17,Australia v Chile,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-22,16:00,S-053,Olympiastadion,Berlin,Germany,T-04,T-13,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1974-18,Scotland v Yugoslavia,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-22,16:00,S-057,Waldstadion,Frankfurt,Germany,T-61,T-83,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1974-19,Zaire v Brazil,WC-1974,1974 FIFA World Cup,group stage,Group 2,1,0,1974-06-22,16:00,S-059,Parkstadion,Gelsenkirchen,Germany,T-84,T-09,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1974-20,East Germany v West Germany,WC-1974,1974 FIFA World Cup,group stage,Group 1,1,0,1974-06-22,19:30,S-060,Volksparkstadion,Hamburg,Germany,T-23,T-82,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-21,Bulgaria v Netherlands,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-23,16:00,S-055,Westfalenstadion,Dortmund,Germany,T-10,T-46,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-1974-22,Sweden v Uruguay,WC-1974,1974 FIFA World Cup,group stage,Group 3,1,0,1974-06-23,16:00,S-056,Rheinstadion,Düsseldorf,Germany,T-71,T-80,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-23,Argentina v Haiti,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-23,16:00,S-065,Olympiastadion,Munich,Germany,T-03,T-32,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-24,Poland v Italy,WC-1974,1974 FIFA World Cup,group stage,Group 4,1,0,1974-06-23,16:00,S-067,Neckarstadion,Stuttgart,Germany,T-55,T-39,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-25,Yugoslavia v West Germany,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-06-26,16:00,S-056,Rheinstadion,Düsseldorf,Germany,T-83,T-82,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1974-26,Brazil v East Germany,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-06-26,19:30,S-061,Niedersachsenstadion,Hanover,Germany,T-09,T-23,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-27,Netherlands v Argentina,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-06-26,19:30,S-059,Parkstadion,Gelsenkirchen,Germany,T-46,T-03,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-28,Sweden v Poland,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-06-26,19:30,S-067,Neckarstadion,Stuttgart,Germany,T-71,T-55,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1974-29,Argentina v Brazil,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-06-30,16:00,S-061,Niedersachsenstadion,Hanover,Germany,T-03,T-09,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1974-30,East Germany v Netherlands,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-06-30,16:00,S-059,Parkstadion,Gelsenkirchen,Germany,T-23,T-46,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1974-31,Poland v Yugoslavia,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-06-30,16:00,S-057,Waldstadion,Frankfurt,Germany,T-55,T-83,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-32,West Germany v Sweden,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-06-30,19:30,S-056,Rheinstadion,Düsseldorf,Germany,T-82,T-71,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-1974-33,Poland v West Germany,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-07-03,16:30,S-057,Waldstadion,Frankfurt,Germany,T-55,T-82,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1974-34,Argentina v East Germany,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-07-03,19:30,S-059,Parkstadion,Gelsenkirchen,Germany,T-03,T-23,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1974-35,Netherlands v Brazil,WC-1974,1974 FIFA World Cup,second group stage,Group A,1,0,1974-07-03,19:30,S-055,Westfalenstadion,Dortmund,Germany,T-46,T-09,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1974-36,Sweden v Yugoslavia,WC-1974,1974 FIFA World Cup,second group stage,Group B,1,0,1974-07-03,19:30,S-056,Rheinstadion,Düsseldorf,Germany,T-71,T-83,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1974-37,Brazil v Poland,WC-1974,1974 FIFA World Cup,third-place match,not applicable,0,1,1974-07-06,16:00,S-065,Olympiastadion,Munich,Germany,T-09,T-55,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1974-38,Netherlands v West Germany,WC-1974,1974 FIFA World Cup,final,not applicable,0,1,1974-07-07,16:00,S-065,Olympiastadion,Munich,Germany,T-46,T-82,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1978-01,West Germany v Poland,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-01,15:00,S-002,Estadio Monumental,Buenos Aires,Argentina,T-82,T-55,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-02,Italy v France,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-02,13:45,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-39,T-28,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-03,Tunisia v Mexico,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-02,16:45,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-75,T-44,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-04,Argentina v Hungary,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-02,19:15,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,T-34,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-05,Austria v Spain,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-03,13:45,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-05,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-06,Brazil v Sweden,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-03,13:45,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,T-71,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1978-07,Netherlands v Iran,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-03,16:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-46,T-36,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-08,Peru v Scotland,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-03,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-54,T-61,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-09,Italy v Hungary,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-06,13:45,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-39,T-34,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-10,Poland v Tunisia,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-06,16:45,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-55,T-75,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-11,West Germany v Mexico,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-06,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-82,T-44,6–0,6,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-12,Argentina v France,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-06,19:15,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,T-28,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-13,Austria v Sweden,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-07,13:45,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-05,T-71,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-14,Brazil v Spain,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-07,13:45,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,T-70,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-15,Netherlands v Peru,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-07,16:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-46,T-54,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-16,Scotland v Iran,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-07,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-61,T-36,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1978-17,France v Hungary,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-10,14:30,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-28,T-34,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-18,Poland v Mexico,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-10,16:45,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-55,T-44,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-19,West Germany v Tunisia,WC-1978,1978 FIFA World Cup,group stage,Group 2,1,0,1978-06-10,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-82,T-75,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-20,Argentina v Italy,WC-1978,1978 FIFA World Cup,group stage,Group 1,1,0,1978-06-10,19:15,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,T-39,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1978-21,Brazil v Austria,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-11,13:45,S-004,Estadio José María Minella,Mar del Plata,Argentina,T-09,T-05,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-22,Spain v Sweden,WC-1978,1978 FIFA World Cup,group stage,Group 3,1,0,1978-06-11,13:45,S-001,Estadio José Amalfitani,Buenos Aires,Argentina,T-70,T-71,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-23,Peru v Iran,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-11,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-54,T-36,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-24,Scotland v Netherlands,WC-1978,1978 FIFA World Cup,group stage,Group 4,1,0,1978-06-11,16:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-61,T-46,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1978-25,Austria v Netherlands,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-14,13:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-05,T-46,1–5,1,5,0,0,0-0,0,0,away team win,0,1,0
+M-1978-26,Italy v West Germany,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-14,13:45,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,T-82,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-27,Brazil v Peru,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-14,16:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-09,T-54,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-28,Argentina v Poland,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-14,19:15,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,T-55,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-29,Peru v Poland,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-18,13:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-54,T-55,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1978-30,Italy v Austria,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-18,16:45,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,T-05,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-31,Netherlands v West Germany,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-18,16:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-46,T-82,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1978-32,Argentina v Brazil,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-18,19:15,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,T-09,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1978-33,Austria v West Germany,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-21,13:45,S-003,Estadio Chateau Carreras,Córdoba,Argentina,T-05,T-82,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1978-34,Italy v Netherlands,WC-1978,1978 FIFA World Cup,second group stage,Group A,1,0,1978-06-21,13:45,S-002,Estadio Monumental,Buenos Aires,Argentina,T-39,T-46,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1978-35,Brazil v Poland,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-21,16:45,S-005,Estadio Ciudad de Mendoza,Mendoza,Argentina,T-09,T-55,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-36,Argentina v Peru,WC-1978,1978 FIFA World Cup,second group stage,Group B,1,0,1978-06-21,19:15,S-006,Estadio Gigante de Arroyito,Rosario,Argentina,T-03,T-54,6–0,6,0,0,0,0-0,0,0,home team win,1,0,0
+M-1978-37,Brazil v Italy,WC-1978,1978 FIFA World Cup,third-place match,not applicable,0,1,1978-06-24,15:00,S-002,Estadio Monumental,Buenos Aires,Argentina,T-09,T-39,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1978-38,Argentina v Netherlands,WC-1978,1978 FIFA World Cup,final,not applicable,0,1,1978-06-25,15:00,S-002,Estadio Monumental,Buenos Aires,Argentina,T-03,T-46,3–1,3,1,1,0,0-0,0,0,home team win,1,0,0
+M-1982-01,Argentina v Belgium,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-13,20:00,S-141,Camp Nou,Barcelona,Spain,T-03,T-06,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-02,Italy v Poland,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-14,17:15,S-154,Balaídos,Vigo,Spain,T-39,T-55,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-03,Brazil v Soviet Union,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-14,21:00,S-151,Estadio Ramón Sánchez Pizjuán,Seville,Spain,T-09,T-69,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-04,Peru v Cameroon,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-15,17:15,S-139,Estadio Riazor,A Coruña,Spain,T-54,T-11,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-05,Hungary v El Salvador,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-15,21:00,S-144,Nuevo Estadio,Elche,Spain,T-34,T-26,10–1,10,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-06,Scotland v New Zealand,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-15,21:00,S-148,Estadio La Rosaleda,Málaga,Spain,T-61,T-47,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-1982-07,West Germany v Algeria,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-16,17:15,S-145,Estadio El Molinón,Gijón,Spain,T-82,T-01,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1982-08,England v France,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-16,17:15,S-143,Estadio San Mamés,Bilbao,Spain,T-27,T-28,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-09,Spain v Honduras,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-16,21:00,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,T-33,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-10,Chile v Austria,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-17,17:15,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-13,T-05,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-11,Czechoslovakia v Kuwait,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-17,17:15,S-153,Estadio José Zorrilla,Valladolid,Spain,T-20,T-43,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-12,Yugoslavia v Northern Ireland,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-17,21:00,S-155,Estadio La Romareda,Zaragoza,Spain,T-83,T-50,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-13,Italy v Peru,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-18,17:15,S-154,Balaídos,Vigo,Spain,T-39,T-54,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-14,Argentina v Hungary,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-18,21:00,S-140,Estadio José Rico Pérez,Alicante,Spain,T-03,T-34,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-15,Brazil v Scotland,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-18,21:00,S-150,Estadio Benito Villamarín,Seville,Spain,T-09,T-61,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-16,Poland v Cameroon,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-19,17:15,S-139,Estadio Riazor,A Coruña,Spain,T-55,T-11,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-17,Belgium v El Salvador,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-19,21:00,S-144,Nuevo Estadio,Elche,Spain,T-06,T-26,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-18,Soviet Union v New Zealand,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-19,21:00,S-148,Estadio La Rosaleda,Málaga,Spain,T-69,T-47,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-19,West Germany v Chile,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-20,17:15,S-145,Estadio El Molinón,Gijón,Spain,T-82,T-13,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-20,England v Czechoslovakia,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-20,17:15,S-143,Estadio San Mamés,Bilbao,Spain,T-27,T-20,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-21,Spain v Yugoslavia,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-20,21:00,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,T-83,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-22,Algeria v Austria,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-21,17:15,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-01,T-05,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1982-23,France v Kuwait,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-21,17:15,S-153,Estadio José Zorrilla,Valladolid,Spain,T-28,T-43,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-24,Honduras v Northern Ireland,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-21,21:00,S-155,Estadio La Romareda,Zaragoza,Spain,T-33,T-50,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-25,Poland v Peru,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-22,17:15,S-139,Estadio Riazor,A Coruña,Spain,T-55,T-54,5–1,5,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-26,Belgium v Hungary,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-22,21:00,S-144,Nuevo Estadio,Elche,Spain,T-06,T-34,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-27,Soviet Union v Scotland,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-22,21:00,S-148,Estadio La Rosaleda,Málaga,Spain,T-69,T-61,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1982-28,Italy v Cameroon,WC-1982,1982 FIFA World Cup,group stage,Group 1,1,0,1982-06-23,17:15,S-154,Balaídos,Vigo,Spain,T-39,T-11,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-29,Argentina v El Salvador,WC-1982,1982 FIFA World Cup,group stage,Group 3,1,0,1982-06-23,21:00,S-140,Estadio José Rico Pérez,Alicante,Spain,T-03,T-26,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-30,Brazil v New Zealand,WC-1982,1982 FIFA World Cup,group stage,Group 6,1,0,1982-06-23,21:00,S-150,Estadio Benito Villamarín,Seville,Spain,T-09,T-47,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-31,Algeria v Chile,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-24,17:15,S-149,Estadio Carlos Tartiere,Oviedo,Spain,T-01,T-13,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1982-32,France v Czechoslovakia,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-24,17:15,S-153,Estadio José Zorrilla,Valladolid,Spain,T-28,T-20,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1982-33,Honduras v Yugoslavia,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-24,21:00,S-155,Estadio La Romareda,Zaragoza,Spain,T-33,T-83,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-34,West Germany v Austria,WC-1982,1982 FIFA World Cup,group stage,Group 2,1,0,1982-06-25,17:15,S-145,Estadio El Molinón,Gijón,Spain,T-82,T-05,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-35,England v Kuwait,WC-1982,1982 FIFA World Cup,group stage,Group 4,1,0,1982-06-25,17:15,S-143,Estadio San Mamés,Bilbao,Spain,T-27,T-43,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-36,Spain v Northern Ireland,WC-1982,1982 FIFA World Cup,group stage,Group 5,1,0,1982-06-25,21:00,S-152,Estadio Luis Casanova,Valencia,Spain,T-70,T-50,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-37,Austria v France,WC-1982,1982 FIFA World Cup,second group stage,Group 4,1,0,1982-06-28,17:15,S-147,Vicente Calderón,Madrid,Spain,T-05,T-28,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-38,Poland v Belgium,WC-1982,1982 FIFA World Cup,second group stage,Group 1,1,0,1982-06-28,21:00,S-141,Camp Nou,Barcelona,Spain,T-55,T-06,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1982-39,Italy v Argentina,WC-1982,1982 FIFA World Cup,second group stage,Group 3,1,0,1982-06-29,17:15,S-142,Estadi de Sarrià,Barcelona,Spain,T-39,T-03,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-40,West Germany v England,WC-1982,1982 FIFA World Cup,second group stage,Group 2,1,0,1982-06-29,21:00,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-82,T-27,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-41,Austria v Northern Ireland,WC-1982,1982 FIFA World Cup,second group stage,Group 4,1,0,1982-07-01,17:15,S-147,Vicente Calderón,Madrid,Spain,T-05,T-50,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1982-42,Belgium v Soviet Union,WC-1982,1982 FIFA World Cup,second group stage,Group 1,1,0,1982-07-01,21:00,S-141,Camp Nou,Barcelona,Spain,T-06,T-69,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1982-43,Argentina v Brazil,WC-1982,1982 FIFA World Cup,second group stage,Group 3,1,0,1982-07-02,17:15,S-142,Estadi de Sarrià,Barcelona,Spain,T-03,T-09,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1982-44,West Germany v Spain,WC-1982,1982 FIFA World Cup,second group stage,Group 2,1,0,1982-07-02,21:00,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-82,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-45,France v Northern Ireland,WC-1982,1982 FIFA World Cup,second group stage,Group 4,1,0,1982-07-04,17:15,S-147,Vicente Calderón,Madrid,Spain,T-28,T-50,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1982-46,Soviet Union v Poland,WC-1982,1982 FIFA World Cup,second group stage,Group 1,1,0,1982-07-04,21:00,S-141,Camp Nou,Barcelona,Spain,T-69,T-55,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-47,Italy v Brazil,WC-1982,1982 FIFA World Cup,second group stage,Group 3,1,0,1982-07-05,17:15,S-142,Estadi de Sarrià,Barcelona,Spain,T-39,T-09,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1982-48,Spain v England,WC-1982,1982 FIFA World Cup,second group stage,Group 2,1,0,1982-07-05,21:00,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-70,T-27,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1982-49,Poland v Italy,WC-1982,1982 FIFA World Cup,semi-finals,not applicable,0,1,1982-07-08,17:15,S-141,Camp Nou,Barcelona,Spain,T-55,T-39,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1982-50,West Germany v France,WC-1982,1982 FIFA World Cup,semi-finals,not applicable,0,1,1982-07-08,21:00,S-151,Estadio Ramón Sánchez Pizjuán,Seville,Spain,T-82,T-28,3–3,3,3,1,1,5–4,5,4,home team win,1,0,0
+M-1982-51,Poland v France,WC-1982,1982 FIFA World Cup,third-place match,not applicable,0,1,1982-07-10,20:00,S-140,Estadio José Rico Pérez,Alicante,Spain,T-55,T-28,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1982-52,Italy v West Germany,WC-1982,1982 FIFA World Cup,final,not applicable,0,1,1982-07-11,20:00,S-146,Estadio Santiago Bernabéu,Madrid,Spain,T-39,T-82,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1986-01,Bulgaria v Italy,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-05-31,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-10,T-39,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-02,Spain v Brazil,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-01,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-70,T-09,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1986-03,Canada v France,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-01,16:00,S-098,Estadio Nou Camp,León,Mexico,T-12,T-28,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1986-04,Argentina v South Korea,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-06-02,12:00,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-03,T-68,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1986-05,Soviet Union v Hungary,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-02,12:00,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-69,T-34,6–0,6,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-06,Morocco v Poland,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-02,16:00,S-102,Estadio Universitario,Monterrey,Mexico,T-45,T-55,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1986-07,Belgium v Mexico,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-03,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-06,T-44,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1986-08,Algeria v Northern Ireland,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-03,12:00,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-01,T-50,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-09,Portugal v England,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-03,16:00,S-101,Estadio Tecnológico,Monterrey,Mexico,T-56,T-27,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-10,Paraguay v Iraq,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-04,12:00,S-106,La Bombonera,Toluca,Mexico,T-53,T-37,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-11,Uruguay v West Germany,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-04,12:00,S-105,Estadio La Corregidora,Querétaro,Mexico,T-80,T-82,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-12,Scotland v Denmark,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-04,16:00,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-61,T-21,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1986-13,Italy v Argentina,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-06-05,12:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-39,T-03,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-14,France v Soviet Union,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-05,12:00,S-098,Estadio Nou Camp,León,Mexico,T-28,T-69,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-15,South Korea v Bulgaria,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-06-05,16:00,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-68,T-10,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-16,Hungary v Canada,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-06,12:00,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-34,T-12,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-17,Brazil v Algeria,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-06,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-01,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-18,England v Morocco,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-06,16:00,S-101,Estadio Tecnológico,Monterrey,Mexico,T-27,T-45,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1986-19,Mexico v Paraguay,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-07,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-44,T-53,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1986-20,Northern Ireland v Spain,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-07,12:00,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-50,T-70,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1986-21,Poland v Portugal,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-07,16:00,S-102,Estadio Universitario,Monterrey,Mexico,T-55,T-56,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-22,Iraq v Belgium,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-08,12:00,S-106,La Bombonera,Toluca,Mexico,T-37,T-06,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1986-23,West Germany v Scotland,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-08,12:00,S-105,Estadio La Corregidora,Querétaro,Mexico,T-82,T-61,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1986-24,Denmark v Uruguay,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-08,16:00,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-21,T-80,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1986-25,Hungary v France,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-09,12:00,S-098,Estadio Nou Camp,León,Mexico,T-34,T-28,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1986-26,Soviet Union v Canada,WC-1986,1986 FIFA World Cup,group stage,Group C,1,0,1986-06-09,12:00,S-097,Estadio Sergio León Chavez,Irapuato,Mexico,T-69,T-12,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-27,Argentina v Bulgaria,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-06-10,12:00,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-03,T-10,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-28,South Korea v Italy,WC-1986,1986 FIFA World Cup,group stage,Group A,1,0,1986-06-10,12:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-68,T-39,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-1986-29,Iraq v Mexico,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-11,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-37,T-44,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1986-30,Paraguay v Belgium,WC-1986,1986 FIFA World Cup,group stage,Group B,1,0,1986-06-11,12:00,S-106,La Bombonera,Toluca,Mexico,T-53,T-06,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1986-31,England v Poland,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-11,16:00,S-102,Estadio Universitario,Monterrey,Mexico,T-27,T-55,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-32,Portugal v Morocco,WC-1986,1986 FIFA World Cup,group stage,Group F,1,0,1986-06-11,16:00,S-096,Estadio Tres de Marzo,Guadalajara,Mexico,T-56,T-45,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1986-33,Algeria v Spain,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-12,12:00,S-101,Estadio Tecnológico,Monterrey,Mexico,T-01,T-70,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1986-34,Northern Ireland v Brazil,WC-1986,1986 FIFA World Cup,group stage,Group D,1,0,1986-06-12,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-50,T-09,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1986-35,Denmark v West Germany,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-13,12:00,S-105,Estadio La Corregidora,Querétaro,Mexico,T-21,T-82,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-36,Scotland v Uruguay,WC-1986,1986 FIFA World Cup,group stage,Group E,1,0,1986-06-13,12:00,S-103,Estadio Neza 86,Nezahualcóyotl,Mexico,T-61,T-80,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1986-37,Mexico v Bulgaria,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-15,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-44,T-10,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-38,Soviet Union v Belgium,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-15,16:00,S-098,Estadio Nou Camp,León,Mexico,T-69,T-06,3–4,3,4,1,0,0-0,0,0,away team win,0,1,0
+M-1986-39,Brazil v Poland,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-16,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-55,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-40,Argentina v Uruguay,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-16,16:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-03,T-80,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-41,Italy v France,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-17,12:00,S-100,Estadio Olímpico Universitario,Mexico City,Mexico,T-39,T-28,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1986-42,Morocco v West Germany,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-17,16:00,S-102,Estadio Universitario,Monterrey,Mexico,T-45,T-82,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1986-43,England v Paraguay,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-18,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-27,T-53,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-44,Denmark v Spain,WC-1986,1986 FIFA World Cup,round of 16,not applicable,0,1,1986-06-18,16:00,S-105,Estadio La Corregidora,Querétaro,Mexico,T-21,T-70,1–5,1,5,0,0,0-0,0,0,away team win,0,1,0
+M-1986-45,Brazil v France,WC-1986,1986 FIFA World Cup,quarter-finals,not applicable,0,1,1986-06-21,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-09,T-28,1–1,1,1,1,1,3–4,3,4,away team win,0,1,0
+M-1986-46,West Germany v Mexico,WC-1986,1986 FIFA World Cup,quarter-finals,not applicable,0,1,1986-06-21,16:00,S-102,Estadio Universitario,Monterrey,Mexico,T-82,T-44,0–0,0,0,1,1,4–1,4,1,home team win,1,0,0
+M-1986-47,Argentina v England,WC-1986,1986 FIFA World Cup,quarter-finals,not applicable,0,1,1986-06-22,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-03,T-27,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1986-48,Spain v Belgium,WC-1986,1986 FIFA World Cup,quarter-finals,not applicable,0,1,1986-06-22,16:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-70,T-06,1–1,1,1,1,1,4–5,4,5,away team win,0,1,0
+M-1986-49,France v West Germany,WC-1986,1986 FIFA World Cup,semi-finals,not applicable,0,1,1986-06-25,12:00,S-095,Estadio Jalisco,Guadalajara,Mexico,T-28,T-82,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1986-50,Argentina v Belgium,WC-1986,1986 FIFA World Cup,semi-finals,not applicable,0,1,1986-06-25,16:00,S-099,Estadio Azteca,Mexico City,Mexico,T-03,T-06,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1986-51,Belgium v France,WC-1986,1986 FIFA World Cup,third-place match,not applicable,0,1,1986-06-28,12:00,S-104,Estadio Cuauhtémoc,Puebla,Mexico,T-06,T-28,2–4,2,4,1,0,0-0,0,0,away team win,0,1,0
+M-1986-52,Argentina v West Germany,WC-1986,1986 FIFA World Cup,final,not applicable,0,1,1986-06-29,12:00,S-099,Estadio Azteca,Mexico City,Mexico,T-03,T-82,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1990-01,Argentina v Cameroon,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-08,18:00,S-074,San Siro,Milan,Italy,T-03,T-11,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-02,Soviet Union v Romania,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-09,17:00,S-068,Stadio San Nicola,Bari,Italy,T-69,T-58,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1990-03,United Arab Emirates v Colombia,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-09,17:00,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-78,T-15,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1990-04,Italy v Austria,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-09,21:00,S-079,Stadio Olimpico,Rome,Italy,T-39,T-05,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-05,United States v Czechoslovakia,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-10,17:00,S-071,Stadio Comunale,Florence,Italy,T-79,T-20,1–5,1,5,0,0,0-0,0,0,away team win,0,1,0
+M-1990-06,Brazil v Sweden,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-10,21:00,S-082,Stadio delle Alpi,Turin,Italy,T-09,T-71,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-07,West Germany v Yugoslavia,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-10,21:00,S-074,San Siro,Milan,Italy,T-82,T-83,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-08,Costa Rica v Scotland,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-11,17:00,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-16,T-61,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-09,England v Republic of Ireland,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-11,21:00,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,T-57,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1990-10,Belgium v South Korea,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-12,17:00,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,T-68,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-11,Netherlands v Egypt,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-12,21:00,S-077,Stadio La Favorita,Palermo,Italy,T-46,T-25,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1990-12,Uruguay v Spain,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-13,17:00,S-083,Stadio Friuli,Udine,Italy,T-80,T-70,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1990-13,Argentina v Soviet Union,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-13,21:00,S-076,Stadio San Paolo,Naples,Italy,T-03,T-69,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-14,Cameroon v Romania,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-14,17:00,S-068,Stadio San Nicola,Bari,Italy,T-11,T-58,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-15,Yugoslavia v Colombia,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-14,17:00,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-83,T-15,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-16,Italy v United States,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-14,21:00,S-079,Stadio Olimpico,Rome,Italy,T-39,T-79,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-17,Austria v Czechoslovakia,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-15,17:00,S-071,Stadio Comunale,Florence,Italy,T-05,T-20,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-18,West Germany v United Arab Emirates,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-15,21:00,S-074,San Siro,Milan,Italy,T-82,T-78,5–1,5,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-19,Brazil v Costa Rica,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-16,17:00,S-082,Stadio delle Alpi,Turin,Italy,T-09,T-16,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-20,Sweden v Scotland,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-16,21:00,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-71,T-61,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1990-21,England v Netherlands,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-16,21:00,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,T-46,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1990-22,Republic of Ireland v Egypt,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-17,17:00,S-077,Stadio La Favorita,Palermo,Italy,T-57,T-25,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1990-23,Belgium v Uruguay,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-17,21:00,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,T-80,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-24,South Korea v Spain,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-17,21:00,S-083,Stadio Friuli,Udine,Italy,T-68,T-70,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1990-25,Argentina v Romania,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-18,21:00,S-076,Stadio San Paolo,Naples,Italy,T-03,T-58,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1990-26,Cameroon v Soviet Union,WC-1990,1990 FIFA World Cup,group stage,Group B,1,0,1990-06-18,21:00,S-068,Stadio San Nicola,Bari,Italy,T-11,T-69,0–4,0,4,0,0,0-0,0,0,away team win,0,1,0
+M-1990-27,West Germany v Colombia,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-19,17:00,S-074,San Siro,Milan,Italy,T-82,T-15,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1990-28,Yugoslavia v United Arab Emirates,WC-1990,1990 FIFA World Cup,group stage,Group D,1,0,1990-06-19,17:00,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-83,T-78,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-29,Austria v United States,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-19,21:00,S-071,Stadio Comunale,Florence,Italy,T-05,T-79,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-30,Italy v Czechoslovakia,WC-1990,1990 FIFA World Cup,group stage,Group A,1,0,1990-06-19,21:00,S-079,Stadio Olimpico,Rome,Italy,T-39,T-20,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-31,Brazil v Scotland,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-20,21:00,S-082,Stadio delle Alpi,Turin,Italy,T-09,T-61,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-32,Sweden v Costa Rica,WC-1990,1990 FIFA World Cup,group stage,Group C,1,0,1990-06-20,21:00,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-71,T-16,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1990-33,Belgium v Spain,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-21,17:00,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-06,T-70,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1990-34,South Korea v Uruguay,WC-1990,1990 FIFA World Cup,group stage,Group E,1,0,1990-06-21,17:00,S-083,Stadio Friuli,Udine,Italy,T-68,T-80,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-35,England v Egypt,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-21,21:00,S-070,Stadio Sant'Elia,Cagliari,Italy,T-27,T-25,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-36,Republic of Ireland v Netherlands,WC-1990,1990 FIFA World Cup,group stage,Group F,1,0,1990-06-21,21:00,S-077,Stadio La Favorita,Palermo,Italy,T-57,T-46,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1990-37,Cameroon v Colombia,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-23,17:00,S-076,Stadio San Paolo,Naples,Italy,T-11,T-15,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-1990-38,Czechoslovakia v Costa Rica,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-23,21:00,S-068,Stadio San Nicola,Bari,Italy,T-20,T-16,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-39,Brazil v Argentina,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-24,17:00,S-082,Stadio delle Alpi,Turin,Italy,T-09,T-03,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-40,West Germany v Netherlands,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-24,21:00,S-074,San Siro,Milan,Italy,T-82,T-46,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-41,Republic of Ireland v Romania,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-25,17:00,S-073,Stadio Luigi Ferraris,Genoa,Italy,T-57,T-58,0–0,0,0,1,1,5–4,5,4,home team win,1,0,0
+M-1990-42,Italy v Uruguay,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-25,21:00,S-079,Stadio Olimpico,Rome,Italy,T-39,T-80,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1990-43,Spain v Yugoslavia,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-26,17:00,S-084,Stadio Marc'Antonio Bentegodi,Verona,Italy,T-70,T-83,1–2,1,2,1,0,0-0,0,0,away team win,0,1,0
+M-1990-44,England v Belgium,WC-1990,1990 FIFA World Cup,round of 16,not applicable,0,1,1990-06-26,21:00,S-069,Stadio Renato Dall'Ara,Bologna,Italy,T-27,T-06,1–0,1,0,1,0,0-0,0,0,home team win,1,0,0
+M-1990-45,Argentina v Yugoslavia,WC-1990,1990 FIFA World Cup,quarter-finals,not applicable,0,1,1990-06-30,17:00,S-071,Stadio Comunale,Florence,Italy,T-03,T-83,0–0,0,0,1,1,3–2,3,2,home team win,1,0,0
+M-1990-46,Republic of Ireland v Italy,WC-1990,1990 FIFA World Cup,quarter-finals,not applicable,0,1,1990-06-30,21:00,S-079,Stadio Olimpico,Rome,Italy,T-57,T-39,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-47,Czechoslovakia v West Germany,WC-1990,1990 FIFA World Cup,quarter-finals,not applicable,0,1,1990-07-01,17:00,S-074,San Siro,Milan,Italy,T-20,T-82,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1990-48,Cameroon v England,WC-1990,1990 FIFA World Cup,quarter-finals,not applicable,0,1,1990-07-01,21:00,S-076,Stadio San Paolo,Naples,Italy,T-11,T-27,2–3,2,3,1,0,0-0,0,0,away team win,0,1,0
+M-1990-49,Argentina v Italy,WC-1990,1990 FIFA World Cup,semi-finals,not applicable,0,1,1990-07-03,20:00,S-076,Stadio San Paolo,Naples,Italy,T-03,T-39,1–1,1,1,1,1,4–3,4,3,home team win,1,0,0
+M-1990-50,West Germany v England,WC-1990,1990 FIFA World Cup,semi-finals,not applicable,0,1,1990-07-04,20:00,S-082,Stadio delle Alpi,Turin,Italy,T-82,T-27,1–1,1,1,1,1,4–3,4,3,home team win,1,0,0
+M-1990-51,Italy v England,WC-1990,1990 FIFA World Cup,third-place match,not applicable,0,1,1990-07-07,20:00,S-068,Stadio San Nicola,Bari,Italy,T-39,T-27,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1990-52,West Germany v Argentina,WC-1990,1990 FIFA World Cup,final,not applicable,0,1,1990-07-08,20:00,S-079,Stadio Olimpico,Rome,Italy,T-82,T-03,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-01,Germany v Bolivia,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-17,14:00,S-174,Soldier Field,Chicago,United States,T-29,T-07,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-02,Spain v South Korea,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-17,18:30,S-175,Cotton Bowl,Dallas,United States,T-70,T-68,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1994-03,United States v Switzerland,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-18,11:30,S-180,Pontiac Silverdome,Pontiac,United States,T-79,T-72,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1994-04,Italy v Republic of Ireland,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-18,16:00,S-176,Giants Stadium,East Rutherford,United States,T-39,T-57,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1994-05,Colombia v Romania,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-18,16:30,S-179,Rose Bowl,Pasadena,United States,T-15,T-58,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1994-06,Belgium v Morocco,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-19,12:30,S-178,Citrus Bowl,Orlando,United States,T-06,T-45,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-07,Norway v Mexico,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-19,16:00,S-182,RFK Stadium,Washington. D.C.,United States,T-51,T-44,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-08,Cameroon v Sweden,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-19,16:30,S-179,Rose Bowl,Pasadena,United States,T-11,T-71,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1994-09,Brazil v Russia,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-20,13:00,S-181,Stanford Stadium,Stanford,United States,T-09,T-59,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-10,Netherlands v Saudi Arabia,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-20,19:30,S-182,RFK Stadium,Washington. D.C.,United States,T-46,T-60,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-11,Argentina v Greece,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-21,12:30,S-177,Foxboro Stadium,Foxborough,United States,T-03,T-31,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-12,Germany v Spain,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-21,15:00,S-174,Soldier Field,Chicago,United States,T-29,T-70,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1994-13,Nigeria v Bulgaria,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-21,18:30,S-175,Cotton Bowl,Dallas,United States,T-48,T-10,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-14,Romania v Switzerland,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-22,16:00,S-180,Pontiac Silverdome,Pontiac,United States,T-58,T-72,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-1994-15,United States v Colombia,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-22,16:30,S-179,Rose Bowl,Pasadena,United States,T-79,T-15,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-16,Italy v Norway,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-23,16:00,S-176,Giants Stadium,East Rutherford,United States,T-39,T-51,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-17,South Korea v Bolivia,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-23,19:30,S-177,Foxboro Stadium,Foxborough,United States,T-68,T-07,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1994-18,Mexico v Republic of Ireland,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-24,12:30,S-178,Citrus Bowl,Orlando,United States,T-44,T-57,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-19,Brazil v Cameroon,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-24,13:00,S-181,Stanford Stadium,Stanford,United States,T-09,T-11,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-20,Sweden v Russia,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-24,19:30,S-180,Pontiac Silverdome,Pontiac,United States,T-71,T-59,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-21,Belgium v Netherlands,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-25,12:30,S-178,Citrus Bowl,Orlando,United States,T-06,T-46,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-22,Saudi Arabia v Morocco,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-25,12:30,S-176,Giants Stadium,East Rutherford,United States,T-60,T-45,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-23,Argentina v Nigeria,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-25,16:00,S-177,Foxboro Stadium,Foxborough,United States,T-03,T-48,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-24,Bulgaria v Greece,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-26,11:30,S-174,Soldier Field,Chicago,United States,T-10,T-31,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-25,Switzerland v Colombia,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-26,13:00,S-181,Stanford Stadium,Stanford,United States,T-72,T-15,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1994-26,United States v Romania,WC-1994,1994 FIFA World Cup,group stage,Group A,1,0,1994-06-26,13:00,S-179,Rose Bowl,Pasadena,United States,T-79,T-58,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1994-27,Bolivia v Spain,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-27,15:00,S-174,Soldier Field,Chicago,United States,T-07,T-70,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1994-28,Germany v South Korea,WC-1994,1994 FIFA World Cup,group stage,Group C,1,0,1994-06-27,15:00,S-175,Cotton Bowl,Dallas,United States,T-29,T-68,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1994-29,Italy v Mexico,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-28,12:30,S-182,RFK Stadium,Washington. D.C.,United States,T-39,T-44,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1994-30,Republic of Ireland v Norway,WC-1994,1994 FIFA World Cup,group stage,Group E,1,0,1994-06-28,12:30,S-176,Giants Stadium,East Rutherford,United States,T-57,T-51,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1994-31,Russia v Cameroon,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-28,13:00,S-181,Stanford Stadium,Stanford,United States,T-59,T-11,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-32,Brazil v Sweden,WC-1994,1994 FIFA World Cup,group stage,Group B,1,0,1994-06-28,16:00,S-180,Pontiac Silverdome,Pontiac,United States,T-09,T-71,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1994-33,Belgium v Saudi Arabia,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-29,12:30,S-182,RFK Stadium,Washington. D.C.,United States,T-06,T-60,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1994-34,Morocco v Netherlands,WC-1994,1994 FIFA World Cup,group stage,Group F,1,0,1994-06-29,12:30,S-178,Citrus Bowl,Orlando,United States,T-45,T-46,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1994-35,Argentina v Bulgaria,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-30,18:30,S-175,Cotton Bowl,Dallas,United States,T-03,T-10,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1994-36,Greece v Nigeria,WC-1994,1994 FIFA World Cup,group stage,Group D,1,0,1994-06-30,19:30,S-177,Foxboro Stadium,Foxborough,United States,T-31,T-48,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1994-37,Germany v Belgium,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-02,12:00,S-174,Soldier Field,Chicago,United States,T-29,T-06,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1994-38,Spain v Switzerland,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-02,16:30,S-182,RFK Stadium,Washington. D.C.,United States,T-70,T-72,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-39,Saudi Arabia v Sweden,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-03,12:00,S-175,Cotton Bowl,Dallas,United States,T-60,T-71,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1994-40,Romania v Argentina,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-03,13:30,S-179,Rose Bowl,Pasadena,United States,T-58,T-03,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1994-41,Netherlands v Republic of Ireland,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-04,12:00,S-178,Citrus Bowl,Orlando,United States,T-46,T-57,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-42,Brazil v United States,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-04,12:30,S-181,Stanford Stadium,Stanford,United States,T-09,T-79,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-43,Nigeria v Italy,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-05,13:00,S-177,Foxboro Stadium,Foxborough,United States,T-48,T-39,1–2,1,2,1,0,0-0,0,0,away team win,0,1,0
+M-1994-44,Mexico v Bulgaria,WC-1994,1994 FIFA World Cup,round of 16,not applicable,0,1,1994-07-05,16:30,S-176,Giants Stadium,East Rutherford,United States,T-44,T-10,1–1,1,1,1,1,1–3,1,3,away team win,0,1,0
+M-1994-45,Italy v Spain,WC-1994,1994 FIFA World Cup,quarter-finals,not applicable,0,1,1994-07-09,12:00,S-177,Foxboro Stadium,Foxborough,United States,T-39,T-70,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-46,Netherlands v Brazil,WC-1994,1994 FIFA World Cup,quarter-finals,not applicable,0,1,1994-07-09,14:30,S-175,Cotton Bowl,Dallas,United States,T-46,T-09,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-1994-47,Bulgaria v Germany,WC-1994,1994 FIFA World Cup,quarter-finals,not applicable,0,1,1994-07-10,12:00,S-176,Giants Stadium,East Rutherford,United States,T-10,T-29,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1994-48,Romania v Sweden,WC-1994,1994 FIFA World Cup,quarter-finals,not applicable,0,1,1994-07-10,12:30,S-181,Stanford Stadium,Stanford,United States,T-58,T-71,2–2,2,2,1,1,4–5,4,5,away team win,0,1,0
+M-1994-49,Bulgaria v Italy,WC-1994,1994 FIFA World Cup,semi-finals,not applicable,0,1,1994-07-13,16:00,S-176,Giants Stadium,East Rutherford,United States,T-10,T-39,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1994-50,Sweden v Brazil,WC-1994,1994 FIFA World Cup,semi-finals,not applicable,0,1,1994-07-13,16:30,S-179,Rose Bowl,Pasadena,United States,T-71,T-09,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1994-51,Sweden v Bulgaria,WC-1994,1994 FIFA World Cup,third-place match,not applicable,0,1,1994-07-16,12:30,S-179,Rose Bowl,Pasadena,United States,T-71,T-10,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1994-52,Brazil v Italy,WC-1994,1994 FIFA World Cup,final,not applicable,0,1,1994-07-17,12:30,S-179,Rose Bowl,Pasadena,United States,T-09,T-39,0–0,0,0,1,1,3–2,3,2,home team win,1,0,0
+M-1998-01,Brazil v Scotland,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-10,17:30,S-048,Stade de France,Saint-Denis,France,T-09,T-61,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-02,Morocco v Norway,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-10,21:00,S-043,Stade de la Mosson,Montpellier,France,T-45,T-51,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-03,Italy v Chile,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-11,17:30,S-037,Stade du Parc Lescure,Bordeaux,France,T-39,T-13,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-04,Cameroon v Austria,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-11,21:00,S-051,Stade de Toulouse,Toulouse,France,T-11,T-05,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-05,Paraguay v Bulgaria,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-12,14:30,S-043,Stade de la Mosson,Montpellier,France,T-53,T-10,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1998-06,Saudi Arabia v Denmark,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-12,17:30,S-039,Stade Félix-Bollaert,Lens,France,T-60,T-21,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1998-07,France v South Africa,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-12,21:00,S-042,Stade Vélodrome,Marseille,France,T-28,T-67,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-08,Spain v Nigeria,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-13,14:30,S-044,Stade de la Beaujoire,Nantes,France,T-70,T-48,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-09,South Korea v Mexico,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-13,17:30,S-041,Stade de Gerland,Lyon,France,T-68,T-44,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-10,Netherlands v Belgium,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-13,21:00,S-048,Stade de France,Saint-Denis,France,T-46,T-06,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1998-11,Argentina v Japan,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-14,14:30,S-051,Stade de Toulouse,Toulouse,France,T-03,T-42,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-12,Yugoslavia v Iran,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-14,17:30,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-83,T-36,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-13,Jamaica v Croatia,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-14,21:00,S-039,Stade Félix-Bollaert,Lens,France,T-41,T-17,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-14,England v Tunisia,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-15,14:30,S-042,Stade Vélodrome,Marseille,France,T-27,T-75,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-15,Romania v Colombia,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-15,17:30,S-041,Stade de Gerland,Lyon,France,T-58,T-15,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-16,Germany v United States,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-15,21:00,S-045,Parc des Princes,Paris,France,T-29,T-79,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-17,Scotland v Norway,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-16,17:30,S-037,Stade du Parc Lescure,Bordeaux,France,T-61,T-51,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-18,Brazil v Morocco,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-16,21:00,S-044,Stade de la Beaujoire,Nantes,France,T-09,T-45,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-19,Chile v Austria,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-17,17:30,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-13,T-05,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-20,Italy v Cameroon,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-17,21:00,S-043,Stade de la Mosson,Montpellier,France,T-39,T-11,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-21,South Africa v Denmark,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-18,17:30,S-051,Stade de Toulouse,Toulouse,France,T-67,T-21,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-22,France v Saudi Arabia,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-18,21:00,S-048,Stade de France,Saint-Denis,France,T-28,T-60,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-23,Nigeria v Bulgaria,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-19,17:30,S-045,Parc des Princes,Paris,France,T-48,T-10,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-24,Spain v Paraguay,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-19,21:00,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-70,T-53,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-1998-25,Japan v Croatia,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-20,14:30,S-044,Stade de la Beaujoire,Nantes,France,T-42,T-17,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1998-26,Belgium v Mexico,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-20,17:30,S-037,Stade du Parc Lescure,Bordeaux,France,T-06,T-44,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-27,Netherlands v South Korea,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-20,21:00,S-042,Stade Vélodrome,Marseille,France,T-46,T-68,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-28,Germany v Yugoslavia,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-21,14:30,S-039,Stade Félix-Bollaert,Lens,France,T-29,T-83,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-29,Argentina v Jamaica,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-21,17:30,S-045,Parc des Princes,Paris,France,T-03,T-41,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-30,United States v Iran,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-21,21:00,S-041,Stade de Gerland,Lyon,France,T-79,T-36,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1998-31,Colombia v Tunisia,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-22,17:30,S-043,Stade de la Mosson,Montpellier,France,T-15,T-75,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-32,Romania v England,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-22,21:00,S-051,Stade de Toulouse,Toulouse,France,T-58,T-27,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-33,Chile v Cameroon,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-23,16:00,S-044,Stade de la Beaujoire,Nantes,France,T-13,T-11,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-34,Italy v Austria,WC-1998,1998 FIFA World Cup,group stage,Group B,1,0,1998-06-23,16:00,S-048,Stade de France,Saint-Denis,France,T-39,T-05,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-35,Brazil v Norway,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-23,21:00,S-042,Stade Vélodrome,Marseille,France,T-09,T-51,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1998-36,Scotland v Morocco,WC-1998,1998 FIFA World Cup,group stage,Group A,1,0,1998-06-23,21:00,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-61,T-45,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-37,France v Denmark,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-24,16:00,S-041,Stade de Gerland,Lyon,France,T-28,T-21,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-38,South Africa v Saudi Arabia,WC-1998,1998 FIFA World Cup,group stage,Group C,1,0,1998-06-24,16:00,S-037,Stade du Parc Lescure,Bordeaux,France,T-67,T-60,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-39,Nigeria v Paraguay,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-24,21:00,S-051,Stade de Toulouse,Toulouse,France,T-48,T-53,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-40,Spain v Bulgaria,WC-1998,1998 FIFA World Cup,group stage,Group D,1,0,1998-06-24,21:00,S-039,Stade Félix-Bollaert,Lens,France,T-70,T-10,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-41,Belgium v South Korea,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-25,16:00,S-045,Parc des Princes,Paris,France,T-06,T-68,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-42,Netherlands v Mexico,WC-1998,1998 FIFA World Cup,group stage,Group E,1,0,1998-06-25,16:00,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-46,T-44,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-1998-43,Germany v Iran,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-25,21:00,S-043,Stade de la Mosson,Montpellier,France,T-29,T-36,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-44,United States v Yugoslavia,WC-1998,1998 FIFA World Cup,group stage,Group F,1,0,1998-06-25,21:00,S-044,Stade de la Beaujoire,Nantes,France,T-79,T-83,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1998-45,Argentina v Croatia,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-26,16:00,S-037,Stade du Parc Lescure,Bordeaux,France,T-03,T-17,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-46,Japan v Jamaica,WC-1998,1998 FIFA World Cup,group stage,Group H,1,0,1998-06-26,16:00,S-041,Stade de Gerland,Lyon,France,T-42,T-41,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1998-47,Colombia v England,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-26,21:00,S-039,Stade Félix-Bollaert,Lens,France,T-15,T-27,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-1998-48,Romania v Tunisia,WC-1998,1998 FIFA World Cup,group stage,Group G,1,0,1998-06-26,21:00,S-048,Stade de France,Saint-Denis,France,T-58,T-75,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-1998-49,Italy v Norway,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-27,16:30,S-042,Stade Vélodrome,Marseille,France,T-39,T-51,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-1998-50,Brazil v Chile,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-27,21:00,S-045,Parc des Princes,Paris,France,T-09,T-13,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-51,France v Paraguay,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-28,16:30,S-039,Stade Félix-Bollaert,Lens,France,T-28,T-53,1–0,1,0,1,0,0-0,0,0,home team win,1,0,0
+M-1998-52,Nigeria v Denmark,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-28,21:00,S-048,Stade de France,Saint-Denis,France,T-48,T-21,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-1998-53,Germany v Mexico,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-29,16:30,S-043,Stade de la Mosson,Montpellier,France,T-29,T-44,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-54,Netherlands v Yugoslavia,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-29,21:00,S-051,Stade de Toulouse,Toulouse,France,T-46,T-83,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-55,Romania v Croatia,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-30,16:30,S-037,Stade du Parc Lescure,Bordeaux,France,T-58,T-17,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-1998-56,Argentina v England,WC-1998,1998 FIFA World Cup,round of 16,not applicable,0,1,1998-06-30,21:00,S-049,Stade Geoffroy-Guichard,Saint-Étienne,France,T-03,T-27,2–2,2,2,1,1,4–3,4,3,home team win,1,0,0
+M-1998-57,Italy v France,WC-1998,1998 FIFA World Cup,quarter-finals,not applicable,0,1,1998-07-03,16:30,S-048,Stade de France,Saint-Denis,France,T-39,T-28,0–0,0,0,1,1,3–4,3,4,away team win,0,1,0
+M-1998-58,Brazil v Denmark,WC-1998,1998 FIFA World Cup,quarter-finals,not applicable,0,1,1998-07-03,21:00,S-044,Stade de la Beaujoire,Nantes,France,T-09,T-21,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-1998-59,Netherlands v Argentina,WC-1998,1998 FIFA World Cup,quarter-finals,not applicable,0,1,1998-07-04,16:30,S-042,Stade Vélodrome,Marseille,France,T-46,T-03,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-60,Germany v Croatia,WC-1998,1998 FIFA World Cup,quarter-finals,not applicable,0,1,1998-07-04,21:00,S-041,Stade de Gerland,Lyon,France,T-29,T-17,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-1998-61,Brazil v Netherlands,WC-1998,1998 FIFA World Cup,semi-finals,not applicable,0,1,1998-07-07,21:00,S-042,Stade Vélodrome,Marseille,France,T-09,T-46,1–1,1,1,1,1,4–2,4,2,home team win,1,0,0
+M-1998-62,France v Croatia,WC-1998,1998 FIFA World Cup,semi-finals,not applicable,0,1,1998-07-08,21:00,S-048,Stade de France,Saint-Denis,France,T-28,T-17,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-1998-63,Netherlands v Croatia,WC-1998,1998 FIFA World Cup,third-place match,not applicable,0,1,1998-07-11,21:00,S-045,Parc des Princes,Paris,France,T-46,T-17,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-1998-64,Brazil v France,WC-1998,1998 FIFA World Cup,final,not applicable,0,1,1998-07-12,21:00,S-048,Stade de France,Saint-Denis,France,T-09,T-28,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-01,France v Senegal,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-05-31,20:30,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-28,T-62,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2002-02,Republic of Ireland v Cameroon,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-01,15:30,S-088,Niigata Stadium,Niigata,Japan,T-57,T-11,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-03,Uruguay v Denmark,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-06-01,18:00,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-80,T-21,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-04,Germany v Saudi Arabia,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-01,20:30,S-092,Sapporo Dome,Sapporo,Japan,T-29,T-60,8–0,8,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-05,Argentina v Nigeria,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-02,14:30,S-085,Kashima Stadium,Ibaraki,Japan,T-03,T-48,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-06,Paraguay v South Africa,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-02,16:30,S-129,Busan Asiad Stadium,Busan,South Korea,T-53,T-67,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2002-07,England v Sweden,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-02,18:30,S-091,Saitama Stadium,Saitama,Japan,T-27,T-71,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-08,Spain v Slovenia,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-02,20:30,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-70,T-66,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-09,Croatia v Mexico,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-03,15:30,S-088,Niigata Stadium,Niigata,Japan,T-17,T-44,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2002-10,Brazil v Turkey,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-03,18:00,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-09,T-76,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-11,Italy v Ecuador,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-03,20:30,S-092,Sapporo Dome,Sapporo,Japan,T-39,T-24,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-12,China v Costa Rica,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-04,15:30,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-14,T-16,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-13,Japan v Belgium,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-04,18:00,S-091,Saitama Stadium,Saitama,Japan,T-42,T-06,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2002-14,South Korea v Poland,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-04,20:30,S-129,Busan Asiad Stadium,Busan,South Korea,T-68,T-55,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-15,Russia v Tunisia,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-05,15:30,S-086,Kobe Wing Stadium,Kobe,Japan,T-59,T-75,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-16,United States v Portugal,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-05,18:00,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-79,T-56,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-2002-17,Germany v Republic of Ireland,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-05,20:30,S-085,Kashima Stadium,Ibaraki,Japan,T-29,T-57,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-18,Denmark v Senegal,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-06-06,15:30,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-21,T-62,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-19,Cameroon v Saudi Arabia,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-06,18:00,S-091,Saitama Stadium,Saitama,Japan,T-11,T-60,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-20,France v Uruguay,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-06-06,20:30,S-129,Busan Asiad Stadium,Busan,South Korea,T-28,T-80,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2002-21,Sweden v Nigeria,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-07,15:30,S-086,Kobe Wing Stadium,Kobe,Japan,T-71,T-48,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-22,Spain v Paraguay,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-07,18:00,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-70,T-53,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-23,Argentina v England,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-07,20:30,S-092,Sapporo Dome,Sapporo,Japan,T-03,T-27,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2002-24,South Africa v Slovenia,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-08,15:30,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-67,T-66,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-25,Italy v Croatia,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-08,18:00,S-085,Kashima Stadium,Ibaraki,Japan,T-39,T-17,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-26,Brazil v China,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-08,20:30,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-09,T-14,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-27,Mexico v Ecuador,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-09,15:30,S-087,Miyagi Stadium,Miyagi,Japan,T-44,T-24,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-28,Costa Rica v Turkey,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-09,18:00,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-16,T-76,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-29,Japan v Russia,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-09,20:30,S-094,International Stadium Yokohama,Yokohama,Japan,T-42,T-59,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-30,South Korea v United States,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-10,15:30,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-68,T-79,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-31,Tunisia v Belgium,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-10,18:00,S-089,Ōita Stadium,Ōita,Japan,T-75,T-06,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-32,Portugal v Poland,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-10,20:30,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-56,T-55,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-33,Denmark v France,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-06-11,15:30,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-21,T-28,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-34,Senegal v Uruguay,WC-2002,2002 FIFA World Cup,group stage,Group A,1,0,2002-06-11,15:30,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-62,T-80,3–3,3,3,0,0,0-0,0,0,draw,0,0,1
+M-2002-35,Cameroon v Germany,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-11,20:30,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-11,T-29,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-36,Saudi Arabia v Republic of Ireland,WC-2002,2002 FIFA World Cup,group stage,Group E,1,0,2002-06-11,20:30,S-094,International Stadium Yokohama,Yokohama,Japan,T-60,T-57,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-37,Nigeria v England,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-12,15:30,S-090,Nagai Stadium,Osaka,Japan,T-48,T-27,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2002-38,Sweden v Argentina,WC-2002,2002 FIFA World Cup,group stage,Group F,1,0,2002-06-12,15:30,S-087,Miyagi Stadium,Miyagi,Japan,T-71,T-03,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-39,Slovenia v Paraguay,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-12,20:30,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-66,T-53,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-40,South Africa v Spain,WC-2002,2002 FIFA World Cup,group stage,Group B,1,0,2002-06-12,20:30,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-67,T-70,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-41,Costa Rica v Brazil,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-13,15:30,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-16,T-09,2–5,2,5,0,0,0-0,0,0,away team win,0,1,0
+M-2002-42,Turkey v China,WC-2002,2002 FIFA World Cup,group stage,Group C,1,0,2002-06-13,15:30,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-76,T-14,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-43,Ecuador v Croatia,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-13,20:30,S-094,International Stadium Yokohama,Yokohama,Japan,T-24,T-17,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-44,Mexico v Italy,WC-2002,2002 FIFA World Cup,group stage,Group G,1,0,2002-06-13,20:30,S-089,Ōita Stadium,Ōita,Japan,T-44,T-39,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2002-45,Belgium v Russia,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-14,15:30,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-06,T-59,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-2002-46,Tunisia v Japan,WC-2002,2002 FIFA World Cup,group stage,Group H,1,0,2002-06-14,15:30,S-090,Nagai Stadium,Osaka,Japan,T-75,T-42,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-47,Poland v United States,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-14,20:30,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-55,T-79,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2002-48,Portugal v South Korea,WC-2002,2002 FIFA World Cup,group stage,Group D,1,0,2002-06-14,20:30,S-133,Incheon Munhak Stadium,Incheon,South Korea,T-56,T-68,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2002-49,Germany v Paraguay,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-15,15:30,S-135,Jeju World Cup Stadium,Seogwipo,South Korea,T-29,T-53,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-50,Denmark v England,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-15,20:30,S-088,Niigata Stadium,Niigata,Japan,T-21,T-27,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-51,Sweden v Senegal,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-16,15:30,S-089,Ōita Stadium,Ōita,Japan,T-71,T-62,1–2,1,2,1,0,0-0,0,0,away team win,0,1,0
+M-2002-52,Spain v Republic of Ireland,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-16,20:30,S-137,Suwon World Cup Stadium,Suwon,South Korea,T-70,T-57,1–1,1,1,1,1,3–2,3,2,home team win,1,0,0
+M-2002-53,Mexico v United States,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-17,15:30,S-134,Jeonju World Cup Stadium,Jeonju,South Korea,T-44,T-79,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-54,Brazil v Belgium,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-17,20:30,S-086,Kobe Wing Stadium,Kobe,Japan,T-09,T-06,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-55,Japan v Turkey,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-18,15:30,S-087,Miyagi Stadium,Miyagi,Japan,T-42,T-76,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2002-56,South Korea v Italy,WC-2002,2002 FIFA World Cup,round of 16,not applicable,0,1,2002-06-18,20:30,S-131,Daejeon World Cup Stadium,Daejeon,South Korea,T-68,T-39,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-2002-57,England v Brazil,WC-2002,2002 FIFA World Cup,quarter-finals,not applicable,0,1,2002-06-21,15:30,S-093,Shizuoka Stadium ECOPA,Shizuoka,Japan,T-27,T-09,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2002-58,Germany v United States,WC-2002,2002 FIFA World Cup,quarter-finals,not applicable,0,1,2002-06-21,20:30,S-138,Ulsan Munsu Football Stadium,Ulsan,South Korea,T-29,T-79,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-59,Spain v South Korea,WC-2002,2002 FIFA World Cup,quarter-finals,not applicable,0,1,2002-06-22,15:30,S-132,Gwangju World Cup Stadium,Gwangju,South Korea,T-70,T-68,0–0,0,0,1,1,3–5,3,5,away team win,0,1,0
+M-2002-60,Senegal v Turkey,WC-2002,2002 FIFA World Cup,quarter-finals,not applicable,0,1,2002-06-22,20:30,S-090,Nagai Stadium,Osaka,Japan,T-62,T-76,0–1,0,1,1,0,0-0,0,0,away team win,0,1,0
+M-2002-61,Germany v South Korea,WC-2002,2002 FIFA World Cup,semi-finals,not applicable,0,1,2002-06-25,20:30,S-136,Seoul World Cup Stadium,Seoul,South Korea,T-29,T-68,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-62,Brazil v Turkey,WC-2002,2002 FIFA World Cup,semi-finals,not applicable,0,1,2002-06-26,20:30,S-091,Saitama Stadium,Saitama,Japan,T-09,T-76,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2002-63,South Korea v Turkey,WC-2002,2002 FIFA World Cup,third-place match,not applicable,0,1,2002-06-29,20:00,S-130,Daegu World Cup Stadium,Daegu,South Korea,T-68,T-76,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2002-64,Germany v Brazil,WC-2002,2002 FIFA World Cup,final,not applicable,0,1,2002-06-30,20:00,S-094,International Stadium Yokohama,Yokohama,Japan,T-29,T-09,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-01,Germany v Costa Rica,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-09,18:00,S-064,Allianz Arena,Munich,Germany,T-29,T-16,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
+M-2006-02,Poland v Ecuador,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-09,21:00,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-55,T-24,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-03,England v Paraguay,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-10,15:00,S-057,Waldstadion,Frankfurt,Germany,T-27,T-53,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-04,Trinidad and Tobago v Sweden,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-10,18:00,S-055,Westfalenstadion,Dortmund,Germany,T-74,T-71,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2006-05,Argentina v Ivory Coast,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-10,21:00,S-060,Volksparkstadion,Hamburg,Germany,T-03,T-40,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-06,Serbia and Montenegro v Netherlands,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-11,15:00,S-063,Zentralstadion,Leipzig,Germany,T-64,T-46,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2006-07,Mexico v Iran,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-11,18:00,S-066,Frankenstadion,Nuremberg,Germany,T-44,T-36,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-08,Angola v Portugal,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-11,21:00,S-054,RheinEnergieStadion,Cologne,Germany,T-02,T-56,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2006-09,Australia v Japan,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-12,15:00,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-04,T-42,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-10,United States v Czech Republic,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-12,18:00,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-79,T-19,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2006-11,Italy v Ghana,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-12,21:00,S-061,Niedersachsenstadion,Hanover,Germany,T-39,T-30,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-12,South Korea v Togo,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-13,15:00,S-057,Waldstadion,Frankfurt,Germany,T-68,T-73,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-13,France v Switzerland,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-13,18:00,S-067,Neckarstadion,Stuttgart,Germany,T-28,T-72,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2006-14,Brazil v Croatia,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-13,21:00,S-053,Olympiastadion,Berlin,Germany,T-09,T-17,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-15,Spain v Ukraine,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-14,15:00,S-063,Zentralstadion,Leipzig,Germany,T-70,T-77,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-16,Tunisia v Saudi Arabia,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-14,18:00,S-064,Allianz Arena,Munich,Germany,T-75,T-60,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2006-17,Germany v Poland,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-14,21:00,S-055,Westfalenstadion,Dortmund,Germany,T-29,T-55,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-18,Ecuador v Costa Rica,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-15,15:00,S-060,Volksparkstadion,Hamburg,Germany,T-24,T-16,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-19,England v Trinidad and Tobago,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-15,18:00,S-066,Frankenstadion,Nuremberg,Germany,T-27,T-74,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-20,Sweden v Paraguay,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-15,21:00,S-053,Olympiastadion,Berlin,Germany,T-71,T-53,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-21,Argentina v Serbia and Montenegro,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-16,15:00,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-03,T-64,6–0,6,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-22,Netherlands v Ivory Coast,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-16,18:00,S-067,Neckarstadion,Stuttgart,Germany,T-46,T-40,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-23,Mexico v Angola,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-16,21:00,S-061,Niedersachsenstadion,Hanover,Germany,T-44,T-02,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2006-24,Portugal v Iran,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-17,15:00,S-057,Waldstadion,Frankfurt,Germany,T-56,T-36,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-25,Czech Republic v Ghana,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-17,18:00,S-054,RheinEnergieStadion,Cologne,Germany,T-19,T-30,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-26,Italy v United States,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-17,21:00,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-39,T-79,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2006-27,Japan v Croatia,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-18,15:00,S-066,Frankenstadion,Nuremberg,Germany,T-42,T-17,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2006-28,Brazil v Australia,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-18,18:00,S-064,Allianz Arena,Munich,Germany,T-09,T-04,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-29,France v South Korea,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-18,21:00,S-063,Zentralstadion,Leipzig,Germany,T-28,T-68,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2006-30,Togo v Switzerland,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-19,15:00,S-055,Westfalenstadion,Dortmund,Germany,T-73,T-72,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-31,Saudi Arabia v Ukraine,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-19,18:00,S-060,Volksparkstadion,Hamburg,Germany,T-60,T-77,0–4,0,4,0,0,0-0,0,0,away team win,0,1,0
+M-2006-32,Spain v Tunisia,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-19,21:00,S-067,Neckarstadion,Stuttgart,Germany,T-70,T-75,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-33,Costa Rica v Poland,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-20,16:00,S-061,Niedersachsenstadion,Hanover,Germany,T-16,T-55,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-34,Ecuador v Germany,WC-2006,2006 FIFA World Cup,group stage,Group A,1,0,2006-06-20,16:00,S-053,Olympiastadion,Berlin,Germany,T-24,T-29,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2006-35,Paraguay v Trinidad and Tobago,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-20,21:00,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-53,T-74,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-36,Sweden v England,WC-2006,2006 FIFA World Cup,group stage,Group B,1,0,2006-06-20,21:00,S-054,RheinEnergieStadion,Cologne,Germany,T-71,T-27,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2006-37,Iran v Angola,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-21,16:00,S-063,Zentralstadion,Leipzig,Germany,T-36,T-02,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2006-38,Portugal v Mexico,WC-2006,2006 FIFA World Cup,group stage,Group D,1,0,2006-06-21,16:00,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-56,T-44,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-39,Ivory Coast v Serbia and Montenegro,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-21,21:00,S-064,Allianz Arena,Munich,Germany,T-40,T-64,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-2006-40,Netherlands v Argentina,WC-2006,2006 FIFA World Cup,group stage,Group C,1,0,2006-06-21,21:00,S-057,Waldstadion,Frankfurt,Germany,T-46,T-03,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2006-41,Czech Republic v Italy,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-22,16:00,S-060,Volksparkstadion,Hamburg,Germany,T-19,T-39,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-42,Ghana v United States,WC-2006,2006 FIFA World Cup,group stage,Group E,1,0,2006-06-22,16:00,S-066,Frankenstadion,Nuremberg,Germany,T-30,T-79,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-43,Croatia v Australia,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-22,21:00,S-067,Neckarstadion,Stuttgart,Germany,T-17,T-04,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2006-44,Japan v Brazil,WC-2006,2006 FIFA World Cup,group stage,Group F,1,0,2006-06-22,21:00,S-055,Westfalenstadion,Dortmund,Germany,T-42,T-09,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-2006-45,Saudi Arabia v Spain,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-23,16:00,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-60,T-70,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2006-46,Ukraine v Tunisia,WC-2006,2006 FIFA World Cup,group stage,Group H,1,0,2006-06-23,16:00,S-053,Olympiastadion,Berlin,Germany,T-77,T-75,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-47,Switzerland v South Korea,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-23,21:00,S-061,Niedersachsenstadion,Hanover,Germany,T-72,T-68,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-48,Togo v France,WC-2006,2006 FIFA World Cup,group stage,Group G,1,0,2006-06-23,21:00,S-054,RheinEnergieStadion,Cologne,Germany,T-73,T-28,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2006-49,Germany v Sweden,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-24,17:00,S-064,Allianz Arena,Munich,Germany,T-29,T-71,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-50,Argentina v Mexico,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-24,21:00,S-063,Zentralstadion,Leipzig,Germany,T-03,T-44,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-2006-51,England v Ecuador,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-25,17:00,S-067,Neckarstadion,Stuttgart,Germany,T-27,T-24,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-52,Portugal v Netherlands,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-25,21:00,S-066,Frankenstadion,Nuremberg,Germany,T-56,T-46,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-53,Italy v Australia,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-26,17:00,S-062,Fritz-Walter-Stadion,Kaiserslautern,Germany,T-39,T-04,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-54,Switzerland v Ukraine,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-26,21:00,S-054,RheinEnergieStadion,Cologne,Germany,T-72,T-77,0–0,0,0,1,1,0–3,0,3,away team win,0,1,0
+M-2006-55,Brazil v Ghana,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-27,17:00,S-055,Westfalenstadion,Dortmund,Germany,T-09,T-30,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-56,Spain v France,WC-2006,2006 FIFA World Cup,round of 16,not applicable,0,1,2006-06-27,21:00,S-061,Niedersachsenstadion,Hanover,Germany,T-70,T-28,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-2006-57,Germany v Argentina,WC-2006,2006 FIFA World Cup,quarter-finals,not applicable,0,1,2006-06-30,17:00,S-053,Olympiastadion,Berlin,Germany,T-29,T-03,1–1,1,1,1,1,4–2,4,2,home team win,1,0,0
+M-2006-58,Italy v Ukraine,WC-2006,2006 FIFA World Cup,quarter-finals,not applicable,0,1,2006-06-30,21:00,S-060,Volksparkstadion,Hamburg,Germany,T-39,T-77,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2006-59,England v Portugal,WC-2006,2006 FIFA World Cup,quarter-finals,not applicable,0,1,2006-07-01,17:00,S-058,Arena AufShalke,Gelsenkirchen,Germany,T-27,T-56,0–0,0,0,1,1,1–3,1,3,away team win,0,1,0
+M-2006-60,Brazil v France,WC-2006,2006 FIFA World Cup,quarter-finals,not applicable,0,1,2006-07-01,21:00,S-057,Waldstadion,Frankfurt,Germany,T-09,T-28,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2006-61,Germany v Italy,WC-2006,2006 FIFA World Cup,semi-finals,not applicable,0,1,2006-07-04,21:00,S-055,Westfalenstadion,Dortmund,Germany,T-29,T-39,0–2,0,2,1,0,0-0,0,0,away team win,0,1,0
+M-2006-62,Portugal v France,WC-2006,2006 FIFA World Cup,semi-finals,not applicable,0,1,2006-07-05,21:00,S-064,Allianz Arena,Munich,Germany,T-56,T-28,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2006-63,Germany v Portugal,WC-2006,2006 FIFA World Cup,third-place match,not applicable,0,1,2006-07-08,21:00,S-067,Neckarstadion,Stuttgart,Germany,T-29,T-56,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2006-64,Italy v France,WC-2006,2006 FIFA World Cup,final,not applicable,0,1,2006-07-09,20:00,S-053,Olympiastadion,Berlin,Germany,T-39,T-28,1–1,1,1,1,1,5–3,5,3,home team win,1,0,0
+M-2010-01,South Africa v Mexico,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-11,16:00,S-123,Soccer City,Johannesburg,South Africa,T-67,T-44,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-02,Uruguay v France,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-11,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-80,T-28,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-03,South Korea v Greece,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-12,13:30,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-68,T-31,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-04,Argentina v Nigeria,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-12,16:00,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-03,T-48,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-05,England v United States,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-12,20:30,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-27,T-79,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-06,Algeria v Slovenia,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-13,13:30,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-01,T-66,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-07,Serbia v Ghana,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-13,16:00,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-63,T-30,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-08,Germany v Australia,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-13,20:30,S-121,Moses Mabhida Stadium,Durban,South Africa,T-29,T-04,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-09,Netherlands v Denmark,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-14,13:30,S-123,Soccer City,Johannesburg,South Africa,T-46,T-21,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-10,Japan v Cameroon,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-14,16:00,S-119,Free State Stadium,Bloemfontein,South Africa,T-42,T-11,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-11,Italy v Paraguay,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-14,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-39,T-53,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-12,New Zealand v Slovakia,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-15,13:30,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-47,T-65,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-13,Ivory Coast v Portugal,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-15,16:00,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-40,T-56,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-14,Brazil v North Korea,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-15,20:30,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-09,T-49,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-15,Honduras v Chile,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-16,13:30,S-124,Mbombela Stadium,Nelspruit,South Africa,T-33,T-13,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-16,Spain v Switzerland,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-16,16:00,S-121,Moses Mabhida Stadium,Durban,South Africa,T-70,T-72,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-17,South Africa v Uruguay,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-16,20:30,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-67,T-80,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2010-18,Argentina v South Korea,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-17,13:30,S-123,Soccer City,Johannesburg,South Africa,T-03,T-68,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-19,Greece v Nigeria,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-17,16:00,S-119,Free State Stadium,Bloemfontein,South Africa,T-31,T-48,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-20,France v Mexico,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-17,20:30,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-28,T-44,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-21,Germany v Serbia,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-18,13:30,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-29,T-63,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-22,Slovenia v United States,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-18,16:00,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-66,T-79,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2010-23,England v Algeria,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-18,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-27,T-01,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-24,Netherlands v Japan,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-19,13:30,S-121,Moses Mabhida Stadium,Durban,South Africa,T-46,T-42,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-25,Ghana v Australia,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-19,16:00,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-30,T-04,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-26,Cameroon v Denmark,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-19,20:30,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-11,T-21,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-27,Slovakia v Paraguay,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-20,13:30,S-119,Free State Stadium,Bloemfontein,South Africa,T-65,T-53,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-28,Italy v New Zealand,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-20,16:00,S-124,Mbombela Stadium,Nelspruit,South Africa,T-39,T-47,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2010-29,Brazil v Ivory Coast,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-20,20:30,S-123,Soccer City,Johannesburg,South Africa,T-09,T-40,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-30,Portugal v North Korea,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-21,13:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-56,T-49,7–0,7,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-31,Chile v Switzerland,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-21,16:00,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-13,T-72,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-32,Spain v Honduras,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-21,20:30,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-70,T-33,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-33,France v South Africa,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-22,16:00,S-119,Free State Stadium,Bloemfontein,South Africa,T-28,T-67,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-34,Mexico v Uruguay,WC-2010,2010 FIFA World Cup,group stage,Group A,1,0,2010-06-22,16:00,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-44,T-80,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-35,Greece v Argentina,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-22,20:30,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-31,T-03,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-36,Nigeria v South Korea,WC-2010,2010 FIFA World Cup,group stage,Group B,1,0,2010-06-22,20:30,S-121,Moses Mabhida Stadium,Durban,South Africa,T-48,T-68,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2010-37,Slovenia v England,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-23,16:00,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-66,T-27,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-38,United States v Algeria,WC-2010,2010 FIFA World Cup,group stage,Group C,1,0,2010-06-23,16:00,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-79,T-01,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-39,Australia v Serbia,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-23,20:30,S-124,Mbombela Stadium,Nelspruit,South Africa,T-04,T-63,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-40,Ghana v Germany,WC-2010,2010 FIFA World Cup,group stage,Group D,1,0,2010-06-23,20:30,S-123,Soccer City,Johannesburg,South Africa,T-30,T-29,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-41,Paraguay v New Zealand,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-24,16:00,S-125,Peter Mokaba Stadium,Polokwane,South Africa,T-53,T-47,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-42,Slovakia v Italy,WC-2010,2010 FIFA World Cup,group stage,Group F,1,0,2010-06-24,16:00,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-65,T-39,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-2010-43,Cameroon v Netherlands,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-24,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-11,T-46,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-44,Denmark v Japan,WC-2010,2010 FIFA World Cup,group stage,Group E,1,0,2010-06-24,20:30,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-21,T-42,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-2010-45,North Korea v Ivory Coast,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-25,16:00,S-124,Mbombela Stadium,Nelspruit,South Africa,T-49,T-40,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2010-46,Portugal v Brazil,WC-2010,2010 FIFA World Cup,group stage,Group G,1,0,2010-06-25,16:00,S-121,Moses Mabhida Stadium,Durban,South Africa,T-56,T-09,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-47,Chile v Spain,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-25,20:30,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-13,T-70,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2010-48,Switzerland v Honduras,WC-2010,2010 FIFA World Cup,group stage,Group H,1,0,2010-06-25,20:30,S-119,Free State Stadium,Bloemfontein,South Africa,T-72,T-33,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2010-49,Uruguay v South Korea,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-26,16:00,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-80,T-68,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-50,United States v Ghana,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-26,20:30,S-128,Royal Bafokeng Stadium,Rustenburg,South Africa,T-79,T-30,1–2,1,2,1,0,0-0,0,0,away team win,0,1,0
+M-2010-51,Germany v England,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-27,16:00,S-119,Free State Stadium,Bloemfontein,South Africa,T-29,T-27,4–1,4,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-52,Argentina v Mexico,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-27,20:30,S-123,Soccer City,Johannesburg,South Africa,T-03,T-44,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-53,Netherlands v Slovakia,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-28,16:00,S-121,Moses Mabhida Stadium,Durban,South Africa,T-46,T-65,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-54,Brazil v Chile,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-28,20:30,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-09,T-13,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-55,Paraguay v Japan,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-29,16:00,S-127,Loftus Versfeld Stadium,Pretoria,South Africa,T-53,T-42,0–0,0,0,1,1,5–3,5,3,home team win,1,0,0
+M-2010-56,Spain v Portugal,WC-2010,2010 FIFA World Cup,round of 16,not applicable,0,1,2010-06-29,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-70,T-56,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2010-57,Netherlands v Brazil,WC-2010,2010 FIFA World Cup,quarter-finals,not applicable,0,1,2010-07-02,16:00,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-46,T-09,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2010-58,Uruguay v Ghana,WC-2010,2010 FIFA World Cup,quarter-finals,not applicable,0,1,2010-07-02,20:30,S-123,Soccer City,Johannesburg,South Africa,T-80,T-30,1–1,1,1,1,1,4–2,4,2,home team win,1,0,0
+M-2010-59,Argentina v Germany,WC-2010,2010 FIFA World Cup,quarter-finals,not applicable,0,1,2010-07-03,16:00,S-120,Cape Town Stadium,Cape Town,South Africa,T-03,T-29,0–4,0,4,0,0,0-0,0,0,away team win,0,1,0
+M-2010-60,Paraguay v Spain,WC-2010,2010 FIFA World Cup,quarter-finals,not applicable,0,1,2010-07-03,20:30,S-122,Ellis Park Stadium,Johannesburg,South Africa,T-53,T-70,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-61,Uruguay v Netherlands,WC-2010,2010 FIFA World Cup,semi-finals,not applicable,0,1,2010-07-06,20:30,S-120,Cape Town Stadium,Cape Town,South Africa,T-80,T-46,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2010-62,Germany v Spain,WC-2010,2010 FIFA World Cup,semi-finals,not applicable,0,1,2010-07-07,20:30,S-121,Moses Mabhida Stadium,Durban,South Africa,T-29,T-70,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2010-63,Uruguay v Germany,WC-2010,2010 FIFA World Cup,third-place match,not applicable,0,1,2010-07-10,20:30,S-126,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,T-80,T-29,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2010-64,Netherlands v Spain,WC-2010,2010 FIFA World Cup,final,not applicable,0,1,2010-07-11,20:30,S-123,Soccer City,Johannesburg,South Africa,T-46,T-70,0–1,0,1,1,0,0-0,0,0,away team win,0,1,0
+M-2014-01,Brazil v Croatia,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-12,17:00,S-022,Arena Corinthians,São Paulo,Brazil,T-09,T-17,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-02,Mexico v Cameroon,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-13,13:00,S-015,Arena das Dunas,Natal,Brazil,T-44,T-11,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-03,Spain v Netherlands,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-13,16:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-70,T-46,1–5,1,5,0,0,0-0,0,0,away team win,0,1,0
+M-2014-04,Chile v Australia,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-13,18:00,S-010,Arena Pantanal,Cuiabá,Brazil,T-13,T-04,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-05,Colombia v Greece,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-14,13:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-15,T-31,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-06,Uruguay v Costa Rica,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-14,16:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-80,T-16,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-07,England v Italy,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-14,18:00,S-014,Arena da Amazônia,Manaus,Brazil,T-27,T-39,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2014-08,Ivory Coast v Japan,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-14,22:00,S-018,Arena Pernambuco,Recife,Brazil,T-40,T-42,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-09,Switzerland v Ecuador,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-15,13:00,S-009,Estádio Nacional,Brasília,Brazil,T-72,T-24,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-10,France v Honduras,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-15,16:00,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-28,T-33,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-11,Argentina v Bosnia and Herzegovina,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-15,19:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-03,T-08,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-12,Germany v Portugal,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-16,13:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-29,T-56,4–0,4,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-13,Iran v Nigeria,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-16,16:00,S-011,Arena da Baixada,Curitiba,Brazil,T-36,T-48,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2014-14,Ghana v United States,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-16,19:00,S-015,Arena das Dunas,Natal,Brazil,T-30,T-79,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2014-15,Belgium v Algeria,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-17,13:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-06,T-01,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-16,Brazil v Mexico,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-17,16:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-09,T-44,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2014-17,Russia v South Korea,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-17,18:00,S-010,Arena Pantanal,Cuiabá,Brazil,T-59,T-68,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2014-18,Australia v Netherlands,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-18,13:00,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-04,T-46,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-19,Spain v Chile,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-18,16:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,T-13,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2014-20,Cameroon v Croatia,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-18,18:00,S-014,Arena da Amazônia,Manaus,Brazil,T-11,T-17,0–4,0,4,0,0,0-0,0,0,away team win,0,1,0
+M-2014-21,Colombia v Ivory Coast,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-19,13:00,S-009,Estádio Nacional,Brasília,Brazil,T-15,T-40,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-22,Uruguay v England,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-19,16:00,S-022,Arena Corinthians,São Paulo,Brazil,T-80,T-27,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-23,Japan v Greece,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-19,19:00,S-015,Arena das Dunas,Natal,Brazil,T-42,T-31,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2014-24,Italy v Costa Rica,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-20,13:00,S-018,Arena Pernambuco,Recife,Brazil,T-39,T-16,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2014-25,Switzerland v France,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-20,16:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-72,T-28,2–5,2,5,0,0,0-0,0,0,away team win,0,1,0
+M-2014-26,Honduras v Ecuador,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-20,19:00,S-011,Arena da Baixada,Curitiba,Brazil,T-33,T-24,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2014-27,Argentina v Iran,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-21,13:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-03,T-36,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-28,Germany v Ghana,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-21,16:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-29,T-30,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2014-29,Nigeria v Bosnia and Herzegovina,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-21,18:00,S-010,Arena Pantanal,Cuiabá,Brazil,T-48,T-08,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-30,Belgium v Russia,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-22,13:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-06,T-59,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-31,South Korea v Algeria,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-22,16:00,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-68,T-01,2–4,2,4,0,0,0-0,0,0,away team win,0,1,0
+M-2014-32,United States v Portugal,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-22,18:00,S-014,Arena da Amazônia,Manaus,Brazil,T-79,T-56,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2014-33,Australia v Spain,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-23,13:00,S-011,Arena da Baixada,Curitiba,Brazil,T-04,T-70,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-34,Netherlands v Chile,WC-2014,2014 FIFA World Cup,group stage,Group B,1,0,2014-06-23,13:00,S-022,Arena Corinthians,São Paulo,Brazil,T-46,T-13,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-35,Cameroon v Brazil,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-23,17:00,S-009,Estádio Nacional,Brasília,Brazil,T-11,T-09,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-2014-36,Croatia v Mexico,WC-2014,2014 FIFA World Cup,group stage,Group A,1,0,2014-06-23,17:00,S-018,Arena Pernambuco,Recife,Brazil,T-17,T-44,1–3,1,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-37,Costa Rica v England,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-24,13:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-16,T-27,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2014-38,Italy v Uruguay,WC-2014,2014 FIFA World Cup,group stage,Group D,1,0,2014-06-24,13:00,S-015,Arena das Dunas,Natal,Brazil,T-39,T-80,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2014-39,Japan v Colombia,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-24,16:00,S-010,Arena Pantanal,Cuiabá,Brazil,T-42,T-15,1–4,1,4,0,0,0-0,0,0,away team win,0,1,0
+M-2014-40,Greece v Ivory Coast,WC-2014,2014 FIFA World Cup,group stage,Group C,1,0,2014-06-24,17:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-31,T-40,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-41,Bosnia and Herzegovina v Iran,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-25,13:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-08,T-36,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-42,Nigeria v Argentina,WC-2014,2014 FIFA World Cup,group stage,Group F,1,0,2014-06-25,13:00,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-48,T-03,2–3,2,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-43,Honduras v Switzerland,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-25,16:00,S-014,Arena da Amazônia,Manaus,Brazil,T-33,T-72,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-44,Ecuador v France,WC-2014,2014 FIFA World Cup,group stage,Group E,1,0,2014-06-25,17:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-24,T-28,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2014-45,Portugal v Ghana,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-26,13:00,S-009,Estádio Nacional,Brasília,Brazil,T-56,T-30,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-46,United States v Germany,WC-2014,2014 FIFA World Cup,group stage,Group G,1,0,2014-06-26,13:00,S-018,Arena Pernambuco,Recife,Brazil,T-79,T-29,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2014-47,Algeria v Russia,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-26,17:00,S-011,Arena da Baixada,Curitiba,Brazil,T-01,T-59,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2014-48,South Korea v Belgium,WC-2014,2014 FIFA World Cup,group stage,Group H,1,0,2014-06-26,17:00,S-022,Arena Corinthians,São Paulo,Brazil,T-68,T-06,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2014-49,Brazil v Chile,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-28,13:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-09,T-13,1–1,1,1,1,1,3–2,3,2,home team win,1,0,0
+M-2014-50,Colombia v Uruguay,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-28,17:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-15,T-80,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-51,Netherlands v Mexico,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-29,13:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-46,T-44,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-52,Costa Rica v Greece,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-29,17:00,S-018,Arena Pernambuco,Recife,Brazil,T-16,T-31,1–1,1,1,1,1,5–3,5,3,home team win,1,0,0
+M-2014-53,France v Nigeria,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-30,13:00,S-009,Estádio Nacional,Brasília,Brazil,T-28,T-48,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-54,Germany v Algeria,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-06-30,17:00,S-016,Estádio Beira-Rio,Porto Alegre,Brazil,T-29,T-01,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-2014-55,Argentina v Switzerland,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-07-01,13:00,S-022,Arena Corinthians,São Paulo,Brazil,T-03,T-72,1–0,1,0,1,0,0-0,0,0,home team win,1,0,0
+M-2014-56,Belgium v United States,WC-2014,2014 FIFA World Cup,round of 16,not applicable,0,1,2014-07-01,17:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-06,T-79,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-2014-57,France v Germany,WC-2014,2014 FIFA World Cup,quarter-finals,not applicable,0,1,2014-07-04,13:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-28,T-29,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2014-58,Brazil v Colombia,WC-2014,2014 FIFA World Cup,quarter-finals,not applicable,0,1,2014-07-04,17:00,S-013,Estádio Castelão,Fortaleza,Brazil,T-09,T-15,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2014-59,Argentina v Belgium,WC-2014,2014 FIFA World Cup,quarter-finals,not applicable,0,1,2014-07-05,13:00,S-009,Estádio Nacional,Brasília,Brazil,T-03,T-06,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2014-60,Netherlands v Costa Rica,WC-2014,2014 FIFA World Cup,quarter-finals,not applicable,0,1,2014-07-05,17:00,S-021,Arena Fonte Nova,Salvador,Brazil,T-46,T-16,0–0,0,0,1,1,4–3,4,3,home team win,1,0,0
+M-2014-61,Brazil v Germany,WC-2014,2014 FIFA World Cup,semi-finals,not applicable,0,1,2014-07-08,17:00,S-008,Estádio Mineirão,Belo Horizonte,Brazil,T-09,T-29,1–7,1,7,0,0,0-0,0,0,away team win,0,1,0
+M-2014-62,Netherlands v Argentina,WC-2014,2014 FIFA World Cup,semi-finals,not applicable,0,1,2014-07-09,17:00,S-022,Arena Corinthians,São Paulo,Brazil,T-46,T-03,0–0,0,0,1,1,2–4,2,4,away team win,0,1,0
+M-2014-63,Brazil v Netherlands,WC-2014,2014 FIFA World Cup,third-place match,not applicable,0,1,2014-07-12,17:00,S-009,Estádio Nacional,Brasília,Brazil,T-09,T-46,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2014-64,Germany v Argentina,WC-2014,2014 FIFA World Cup,final,not applicable,0,1,2014-07-13,16:00,S-020,Estádio do Maracanã,Rio de Janeiro,Brazil,T-29,T-03,1–0,1,0,1,0,0-0,0,0,home team win,1,0,0
+M-2018-01,Russia v Saudi Arabia,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-14,18:00,S-109,Luzhniki Stadium,Moscow,Russia,T-59,T-60,5–0,5,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-02,Egypt v Uruguay,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-15,17:00,S-118,Central Stadium,Yekaterinburg,Russia,T-25,T-80,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-03,Morocco v Iran,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-15,18:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-45,T-36,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-04,Portugal v Spain,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-15,21:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-56,T-70,3–3,3,3,0,0,0-0,0,0,draw,0,0,1
+M-2018-05,France v Australia,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-16,13:00,S-108,Kazan Arena,Kazan,Russia,T-28,T-04,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-06,Argentina v Iceland,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-16,16:00,S-110,Otkritie Arena,Moscow,Russia,T-03,T-35,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2018-07,Peru v Denmark,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-16,19:00,S-115,Mordovia Arena,Saransk,Russia,T-54,T-21,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-08,Croatia v Nigeria,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-16,21:00,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-17,T-48,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-09,Costa Rica v Serbia,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-17,16:00,S-114,Samara Arena,Samara,Russia,T-16,T-63,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-10,Germany v Mexico,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-17,18:00,S-109,Luzhniki Stadium,Moscow,Russia,T-29,T-44,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-11,Brazil v Switzerland,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-17,21:00,S-112,Rostov Arena,Rostov-on-Don,Russia,T-09,T-72,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2018-12,Sweden v South Korea,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-18,15:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-71,T-68,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-13,Belgium v Panama,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-18,18:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-06,T-52,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-14,Tunisia v England,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-18,21:00,S-117,Volgograd Arena,Volgograd,Russia,T-75,T-27,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-15,Colombia v Japan,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-19,15:00,S-115,Mordovia Arena,Saransk,Russia,T-15,T-42,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-16,Poland v Senegal,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-19,18:00,S-110,Otkritie Arena,Moscow,Russia,T-55,T-62,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-17,Russia v Egypt,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-19,21:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-59,T-25,3–1,3,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-18,Portugal v Morocco,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-20,15:00,S-109,Luzhniki Stadium,Moscow,Russia,T-56,T-45,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-19,Uruguay v Saudi Arabia,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-20,18:00,S-112,Rostov Arena,Rostov-on-Don,Russia,T-80,T-60,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-20,Iran v Spain,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-20,21:00,S-108,Kazan Arena,Kazan,Russia,T-36,T-70,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-21,Denmark v Australia,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-21,16:00,S-114,Samara Arena,Samara,Russia,T-21,T-04,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2018-22,France v Peru,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-21,20:00,S-118,Central Stadium,Yekaterinburg,Russia,T-28,T-54,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-23,Argentina v Croatia,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-21,21:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-03,T-17,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2018-24,Brazil v Costa Rica,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-22,15:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-09,T-16,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-25,Nigeria v Iceland,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-22,18:00,S-117,Volgograd Arena,Volgograd,Russia,T-48,T-35,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-26,Serbia v Switzerland,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-22,20:00,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-63,T-72,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-27,Belgium v Tunisia,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-23,15:00,S-110,Otkritie Arena,Moscow,Russia,T-06,T-75,5–2,5,2,0,0,0-0,0,0,home team win,1,0,0
+M-2018-28,South Korea v Mexico,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-23,18:00,S-112,Rostov Arena,Rostov-on-Don,Russia,T-68,T-44,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-29,Germany v Sweden,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-23,21:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-29,T-71,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-30,England v Panama,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-24,15:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-27,T-52,6–1,6,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-31,Japan v Senegal,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-24,20:00,S-118,Central Stadium,Yekaterinburg,Russia,T-42,T-62,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2018-32,Poland v Colombia,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-24,21:00,S-108,Kazan Arena,Kazan,Russia,T-55,T-15,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2018-33,Saudi Arabia v Egypt,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-25,17:00,S-117,Volgograd Arena,Volgograd,Russia,T-60,T-25,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-34,Uruguay v Russia,WC-2018,2018 FIFA World Cup,group stage,Group A,1,0,2018-06-25,18:00,S-114,Samara Arena,Samara,Russia,T-80,T-59,3–0,3,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-35,Spain v Morocco,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-25,20:00,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-70,T-45,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2018-36,Iran v Portugal,WC-2018,2018 FIFA World Cup,group stage,Group B,1,0,2018-06-25,21:00,S-115,Mordovia Arena,Saransk,Russia,T-36,T-56,1–1,1,1,0,0,0-0,0,0,draw,0,0,1
+M-2018-37,Australia v Peru,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-26,17:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-04,T-54,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-38,Denmark v France,WC-2018,2018 FIFA World Cup,group stage,Group C,1,0,2018-06-26,17:00,S-109,Luzhniki Stadium,Moscow,Russia,T-21,T-28,0–0,0,0,0,0,0-0,0,0,draw,0,0,1
+M-2018-39,Iceland v Croatia,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-26,21:00,S-112,Rostov Arena,Rostov-on-Don,Russia,T-35,T-17,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-40,Nigeria v Argentina,WC-2018,2018 FIFA World Cup,group stage,Group D,1,0,2018-06-26,21:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-48,T-03,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-41,South Korea v Germany,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-27,17:00,S-108,Kazan Arena,Kazan,Russia,T-68,T-29,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-42,Mexico v Sweden,WC-2018,2018 FIFA World Cup,group stage,Group F,1,0,2018-06-27,19:00,S-118,Central Stadium,Yekaterinburg,Russia,T-44,T-71,0–3,0,3,0,0,0-0,0,0,away team win,0,1,0
+M-2018-43,Serbia v Brazil,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-27,21:00,S-110,Otkritie Arena,Moscow,Russia,T-63,T-09,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-44,Switzerland v Costa Rica,WC-2018,2018 FIFA World Cup,group stage,Group E,1,0,2018-06-27,21:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-72,T-16,2–2,2,2,0,0,0-0,0,0,draw,0,0,1
+M-2018-45,Japan v Poland,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-28,17:00,S-117,Volgograd Arena,Volgograd,Russia,T-42,T-55,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-46,Senegal v Colombia,WC-2018,2018 FIFA World Cup,group stage,Group H,1,0,2018-06-28,18:00,S-114,Samara Arena,Samara,Russia,T-62,T-15,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-47,England v Belgium,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-28,20:00,S-107,Kaliningrad Stadium,Kaliningrad,Russia,T-27,T-06,0–1,0,1,0,0,0-0,0,0,away team win,0,1,0
+M-2018-48,Panama v Tunisia,WC-2018,2018 FIFA World Cup,group stage,Group G,1,0,2018-06-28,21:00,S-115,Mordovia Arena,Saransk,Russia,T-52,T-75,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-49,France v Argentina,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-06-30,17:00,S-108,Kazan Arena,Kazan,Russia,T-28,T-03,4–3,4,3,0,0,0-0,0,0,home team win,1,0,0
+M-2018-50,Uruguay v Portugal,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-06-30,21:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-80,T-56,2–1,2,1,0,0,0-0,0,0,home team win,1,0,0
+M-2018-51,Spain v Russia,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-01,17:00,S-109,Luzhniki Stadium,Moscow,Russia,T-70,T-59,1–1,1,1,1,1,3–4,3,4,away team win,0,1,0
+M-2018-52,Croatia v Denmark,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-01,21:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-17,T-21,1–1,1,1,1,1,3–2,3,2,home team win,1,0,0
+M-2018-53,Brazil v Mexico,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-02,18:00,S-114,Samara Arena,Samara,Russia,T-09,T-44,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-54,Belgium v Japan,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-02,21:00,S-112,Rostov Arena,Rostov-on-Don,Russia,T-06,T-42,3–2,3,2,0,0,0-0,0,0,home team win,1,0,0
+M-2018-55,Sweden v Switzerland,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-03,17:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-71,T-72,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-56,Colombia v England,WC-2018,2018 FIFA World Cup,round of 16,not applicable,0,1,2018-07-03,21:00,S-110,Otkritie Arena,Moscow,Russia,T-15,T-27,1–1,1,1,1,1,3–4,3,4,away team win,0,1,0
+M-2018-57,Uruguay v France,WC-2018,2018 FIFA World Cup,quarter-finals,not applicable,0,1,2018-07-06,17:00,S-111,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,T-80,T-28,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-58,Brazil v Belgium,WC-2018,2018 FIFA World Cup,quarter-finals,not applicable,0,1,2018-07-06,21:00,S-108,Kazan Arena,Kazan,Russia,T-09,T-06,1–2,1,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-59,Sweden v England,WC-2018,2018 FIFA World Cup,quarter-finals,not applicable,0,1,2018-07-07,18:00,S-114,Samara Arena,Samara,Russia,T-71,T-27,0–2,0,2,0,0,0-0,0,0,away team win,0,1,0
+M-2018-60,Russia v Croatia,WC-2018,2018 FIFA World Cup,quarter-finals,not applicable,0,1,2018-07-07,21:00,S-116,Fisht Olympic Stadium,Sochi,Russia,T-59,T-17,2–2,2,2,1,1,3–4,3,4,away team win,0,1,0
+M-2018-61,France v Belgium,WC-2018,2018 FIFA World Cup,semi-finals,not applicable,0,1,2018-07-10,21:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-28,T-06,1–0,1,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-62,Croatia v England,WC-2018,2018 FIFA World Cup,semi-finals,not applicable,0,1,2018-07-11,21:00,S-109,Luzhniki Stadium,Moscow,Russia,T-17,T-27,2–1,2,1,1,0,0-0,0,0,home team win,1,0,0
+M-2018-63,Belgium v England,WC-2018,2018 FIFA World Cup,third-place match,not applicable,0,1,2018-07-14,17:00,S-113,Krestovsky Stadium,Saint Petersburg,Russia,T-06,T-27,2–0,2,0,0,0,0-0,0,0,home team win,1,0,0
+M-2018-64,France v Croatia,WC-2018,2018 FIFA World Cup,final,not applicable,0,1,2018-07-15,18:00,S-109,Luzhniki Stadium,Moscow,Russia,T-28,T-17,4–2,4,2,0,0,0-0,0,0,home team win,1,0,0
